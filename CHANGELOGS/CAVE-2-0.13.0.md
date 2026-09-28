@@ -7,4 +7,3 @@
 - https://github.com/BlakeBr0/MysticalAgriculture/issues/883 burnable fuels inside spawner crashes 
 - https://github.com/BlakeBr0/MysticalAutomation/issues/23
 - https://github.com/TheIllusiveC4/Curios/issues/636
-
