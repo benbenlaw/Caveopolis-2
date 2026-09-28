@@ -1,0 +1,12 @@
+{
+  "name": "Reliquary: Lingering Potion",
+  "icon": "reliquary:lingering_potion",
+  "items": [
+    "reliquary:lingering_potion"
+  ],
+  "border_color": "#FFB030BD",
+  "background_color": "#40B030BD",
+  "overlay_tint": "#40B030BD",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

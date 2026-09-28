@@ -1,0 +1,125 @@
+{
+  id: "71C7C290AFEF0805",
+  order_index: 1,
+  icon: {
+    id: "minecraft:chest",
+    count: 1,
+  },
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "3341D3C439381A58",
+      item: {
+        id: "colors:orange_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "7DE80E4FD757927C",
+      item: {
+        id: "colors:blue_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "178B521FFF642605",
+      item: {
+        id: "colors:pink_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "755C5096D3CB560D",
+      item: {
+        id: "colors:black_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "289B349E40F81525",
+      item: {
+        id: "colors:brown_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "7E421414C9E0D434",
+      item: {
+        id: "colors:lime_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "71C286B606994003",
+      item: {
+        id: "colors:light_gray_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "2F17AE1425CE6F79",
+      item: {
+        id: "colors:magenta_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "742CF38B54886F0E",
+      item: {
+        id: "colors:yellow_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "2EF69FCDD5F9644E",
+      item: {
+        id: "colors:white_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "6CEE4D2C9D636B1C",
+      item: {
+        id: "colors:light_blue_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "0C308C478DD1D3CF",
+      item: {
+        id: "colors:green_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "7F19BFF8F4992685",
+      item: {
+        id: "colors:gray_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "23652EBAF009D8AE",
+      item: {
+        id: "colors:red_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "17A393D2BF22332B",
+      item: {
+        id: "colors:cyan_chest",
+        count: 1,
+      },
+    },
+    {
+      id: "02F47EF46827A4F3",
+      item: {
+        id: "colors:purple_chest",
+        count: 1,
+      },
+    },
+  ],
+}

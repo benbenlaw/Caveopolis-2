@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Red",
+  "icon": "colors:red_asteroid",
+  "items": [
+    "colors:red_*"
+  ],
+  "border_color": "#FFB02E26",
+  "background_color": "#40B02E26",
+  "overlay_tint": "#40B02E26",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

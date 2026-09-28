@@ -1,0 +1,18 @@
+### Changes 
+- Updated Mods
+- Added Improvised Fuel to casting fuel
+- Changed Summoning Block recipe
+- Fixed Explorers Compass recipe not using Bronze ingots
+- Removed default Explorers Compass recipe
+- Removed useless tooltip from the depleted drop (UPDATE)
+- Compactor now works with Ore Pieces correctly (UPDATE)
+- Changed Easy Villager recipes and added Trader quest 
+- Added new early game quests for bed 
+- Changed Purifying Drop recipe to use Leaves not Gravel now
+- BBL Colors Connected texture Resource Pack now longer "errors", textures are still slightly off 
+- Added Slightly Improved Font Resource Pack
+- Zinc Ingots are now used instead of Honeycomb in Fluid Pipes
+- Moved to SchemaJS for Cloche recipes
+- Added Lemon and Peach Sapling cloche recipes 
+- Added Lemon and Peach saplings to tier 5 farmer reciepes replacing the placeholder ones
+- Fixed some quest descriptions 

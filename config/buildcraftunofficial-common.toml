@@ -1,0 +1,144 @@
+[general]
+	#Power mode. Options are MJ_ONLY, MJ_AUTOCONVERT_RF, DISPLAY_RF
+	#Allowed Values: MJ_ONLY, MJ_AUTOCONVERT_RF, DISPLAY_RF
+	powerMode = "MJ_ONLY"
+	#Conversion ratio for MJ <-> RF if autoconvert is enabled (MJ per RF)
+	# Default: 0.1
+	# Range: 1.0E-4 ~ 0.2
+	mjRfConversionAmount = 0.1
+	#Set true to prevent quarries from mining player-protected areas
+	minePlayerProtected = false
+	#Should pumps slowly drain infinite water sources?
+	pumpsConsumeWater = false
+	#Maximum distance in blocks a marker volume can connect
+	# Default: 64
+	# Range: 1 ~ 256
+	markerMaxDistance = 64
+	#Maximum distance in blocks a pump can suck liquids
+	# Default: 64
+	# Range: 1 ~ 512
+	pumpMaxDistance = 64
+	#How often, in ticks, should the network be updated?
+	# Default: 10
+	# Range: 1 ~ 100
+	networkUpdateRate = 10
+	#Multiplier for the speed of mining machines
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	miningMultiplier = 1.0
+	#How deep can mining machines dig?
+	# Default: 512
+	# Range: 1 ~ 2048
+	miningMaxDepth = 512
+	#Set true to disable the RF pipe
+	disableRfPipe = false
+	oilIsSticky = false
+	#If true, use the classic 'Redstone Flux' (RF) names instead of 'Forge Energy' (FE)
+	useRfNaming = true
+	#Blueprints larger than this (in bytes) are stored externally rather than in the item NBT.
+	# Default: 20000
+	# Range: > 0
+	bptStoreExternalThreshold = 20000
+	#The minimum height that all quarry frames must be.
+	#A value of 1 will look strange when it drills the uppermost layer.
+	# Default: 4
+	# Range: 1 ~ 256
+	quarryFrameMinHeight = 4
+	#If true then the quarry frame will move with both of its axis rather than just one.
+	quarryFrameMoveBoth = false
+	#The maximum number of tasks that the quarry will do per tick.
+	#(Where a task is either breaking a block, or moving the frame)
+	# Default: 4
+	# Range: 1 ~ 20
+	quarryMaxTasksPerTick = 4
+	#1 divided by this value is added to the power cost for each additional task done per tick.
+	#A value of 0 disables this behaviour.
+	# Default: 2
+	# Range: 0 ~ 100
+	quarryTaskPowerDivisor = 2
+	#The maximum number of blocks that a quarry is allowed to move, per second.
+	#A value of 0 means no limit.
+	# Default: 0.0
+	# Range: 0.0 ~ 5120.0
+	quarryMaxFrameMoveSpeed = 0.0
+	#The maximum number of blocks that the quarry is allowed to mine each second.
+	#A value of 0 means no limit, and a value of 0.5 will mine up to half a block per second.
+	# Default: 0.0
+	# Range: 0.0 ~ 1000.0
+	quarryMaxBlockMineRate = 0.0
+
+	[general.pipes]
+		#MJ cost per item extracted by a wooden pipe. Default: 1 MJ (= 1,000,000 µMJ).
+		# Default: 1000000
+		# Range: 0 ~ 9223372036854775807
+		mjPerItem = 1000000
+		#MJ cost per millibucket extracted by a wooden fluid pipe. Default: 1000 µMJ per mB.
+		# Default: 1000
+		# Range: 0 ~ 9223372036854775807
+		mjPerMillibucket = 1000
+		#Base multiplier for kinesis pipe transfer rates (MJ). Default: 4.
+		# Default: 4
+		# Range: > 1
+		basePowerRate = 4
+		#Base multiplier for RF pipe transfer rates (RF/t). Default: 40.
+		# Default: 40
+		# Range: 10 ~ 4000
+		baseRfRate = 40
+
+[display]
+	#Should power indicators be hidden?
+	hidePower = false
+	#Should fluid indicators be hidden?
+	hideFluid = false
+
+	[display.pipes]
+		#Set true to use the old MJ texture for power pipes
+		powerPipeUseOldMjTexture = false
+
+[worldgen]
+	#Set true to allow world generation for BuildCraft
+	worldGen = true
+	#Set true to allow water springs to generate
+	worldGenWaterSpring = true
+
+	[worldgen.oil]
+		#Set true to enable oil generation
+		enableOilGeneration = true
+		#Multiplier for oil well generation rate
+		# Default: 1.0
+		# Range: 0.0 ~ 100.0
+		oilWellGenerationRate = 1.0
+		enableOilBurn = true
+		excessiveBiomes = []
+		surfaceDepositBiomes = ["minecraft:desert", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:warm_ocean", "minecraft:lukewarm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:cold_ocean", "minecraft:deep_cold_ocean", "minecraft:deep_frozen_ocean", "minecraft:badlands", "minecraft:eroded_badlands", "minecraft:wooded_badlands"]
+		excludedBiomes = ["minecraft:the_void"]
+		excludedBiomesIsBlackList = true
+		excludedDimensions = ["minecraft:the_nether", "minecraft:the_end"]
+		excludedDimensionsIsBlackList = true
+
+		[worldgen.oil.spouts]
+			#Set true to enable oil spouts generating
+			enableOilSpouts = true
+			# Default: 6
+			# Range: 0 ~ 256
+			smallSpoutMinHeight = 6
+			# Default: 12
+			# Range: 0 ~ 256
+			smallSpoutMaxHeight = 12
+			# Default: 10
+			# Range: 0 ~ 256
+			largeSpoutMinHeight = 10
+			# Default: 20
+			# Range: 0 ~ 256
+			largeSpoutMaxHeight = 20
+
+		[worldgen.oil.spawn_probability]
+			# Default: 0.02
+			# Range: 0.0 ~ 1.0
+			smallOilGenProb = 0.02
+			# Default: 0.001
+			# Range: 0.0 ~ 1.0
+			mediumOilGenProb = 0.001
+			# Default: 4.0E-4
+			# Range: 0.0 ~ 1.0
+			largeOilGenProb = 4.0E-4

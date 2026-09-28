@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Light Blue",
+  "icon": "colors:light_blue_asteroid",
+  "items": [
+    "colors:light_blue_*"
+  ],
+  "border_color": "#FF3AB3DA",
+  "background_color": "#403AB3DA",
+  "overlay_tint": "#403AB3DA",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

@@ -1,0 +1,28 @@
+{
+  "id": "asd",
+  "name": {
+    "translate": "collapsible_groups.group.asd",
+    "fallback": "asd"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "minecraft:oak_log"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stripped_birch_log"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stripped_dark_oak_log"
+      },
+      {
+        "type": "item",
+        "id": "minecraft:stripped_cherry_log"
+      }
+    ]
+  }
+}

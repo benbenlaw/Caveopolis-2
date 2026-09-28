@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"enderio:ender_crystal_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderio:grains_of_infinity"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"flopper:flopper"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

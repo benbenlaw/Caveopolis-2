@@ -1,0 +1,382 @@
+{
+  id: "493466DC50172F39",
+  group: "69C22806B8A9B843",
+  order_index: 9,
+  filename: "end_of_the_line",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  hide_quest_until_deps_complete: true,
+  quests: [
+    {
+      x: -6.5,
+      y: -7.0,
+      hide_dependency_lines: true,
+      dependencies: [
+        "5EC9596A30C9F5CA",
+        "7FB347C5E545F912",
+        "70E7EAB0B358453C",
+        "06F036BF0DE4811F",
+        "058631FBFFA6A1A5",
+        "74A82C0CF1D00F5B",
+        "77030DB4D5447CFC",
+        "5A046F5F9C87FB73",
+      ],
+      size: 1.0,
+      id: "6EF41EA7CAB6AD30",
+      tasks: [
+        {
+          id: "72EAC5A9F6B14061",
+          type: "item",
+          item: {
+            id: "extendedcrafting:ultimate_singularity",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -5.0,
+      y: -5.5,
+      dependencies: [
+        "6EF41EA7CAB6AD30",
+      ],
+      size: 1.0,
+      id: "73FA5C9BF93B65D3",
+      tasks: [
+        {
+          id: "1E324A03EF870395",
+          type: "item",
+          item: {
+            id: "powah:energy_cell_creative",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: -6.5,
+      dependencies: [
+        "6EF41EA7CAB6AD30",
+      ],
+      size: 1.0,
+      id: "44631CB0AD70524B",
+      tasks: [
+        {
+          id: "2EBA57A916FFBF9B",
+          type: "item",
+          item: {
+            id: "refinedstorage:creative_controller",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: -7.5,
+      dependencies: [
+        "6EF41EA7CAB6AD30",
+      ],
+      size: 1.0,
+      id: "35D4EA344A8277B8",
+      tasks: [
+        {
+          id: "245CBD4E2A9B9034",
+          type: "item",
+          item: {
+            id: "ae2:creative_energy_cell",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -5.0,
+      y: -8.5,
+      dependencies: [
+        "6EF41EA7CAB6AD30",
+      ],
+      size: 1.0,
+      id: "3A554E297110F1BF",
+      tasks: [
+        {
+          id: "11D7EED3628A7527",
+          type: "item",
+          item: {
+            id: "ae2:creative_storage_cell",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -13.5,
+      y: -7.0,
+      dependencies: [
+        "0D5B5176C5A67500",
+        "7B137CC607FEAD99",
+      ],
+      size: 1.0,
+      id: "34DD253463D43B67",
+      tasks: [
+        {
+          id: "7244D57CC49CC5A1",
+          type: "item",
+          item: {
+            id: "extendedcrafting:compressor",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -11.5,
+      y: -7.0,
+      hide_dependent_lines: true,
+      dependencies: [
+        "106F5CE205A618E5",
+      ],
+      size: 1.0,
+      id: "34B94B6902CC76E8",
+      tasks: [
+        {
+          id: "20BBE0BF00F3ECBA",
+          type: "item",
+          item: {
+            id: "extendedcrafting:the_ultimate_catalyst",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -12.5,
+      y: -7.0,
+      dependencies: [
+        "34DD253463D43B67",
+      ],
+      size: 1.0,
+      id: "106F5CE205A618E5",
+      tasks: [
+        {
+          id: "426D432AE6EF7DAA",
+          type: "item",
+          item: {
+            id: "extendedcrafting:the_ultimate_component",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -9.0,
+      y: -7.0,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "74A82C0CF1D00F5B",
+      tasks: [
+        {
+          id: "35ACAD8BA40B0C1A",
+          type: "item",
+          item: {
+            id: "mysticalagradditions:creative_essence",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -9.0,
+      y: -8.0,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "06F036BF0DE4811F",
+      tasks: [
+        {
+          id: "0A12B755D956CAEE",
+          type: "item",
+          item: {
+            id: "extendedcrafting:singularity",
+            count: 1,
+            components: {
+              "extendedcrafting:singularity_id": "extendedcrafting:cobblestone",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+    },
+    {
+      x: -10.0,
+      y: -8.5,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "77030DB4D5447CFC",
+      tasks: [
+        {
+          id: "0EB1556C1C272B3A",
+          type: "item",
+          item: {
+            id: "extendedcrafting:singularity",
+            count: 1,
+            components: {
+              "extendedcrafting:singularity_id": "extendedcrafting:stone",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+    },
+    {
+      x: -14.5,
+      y: -7.0,
+      dependencies: [
+        "69862D77B18CFB58",
+        "7951E10870A440F8",
+        "25D4A1453EE1523F",
+        "2237DB4C2D283C7C",
+        "5419BBD5C7BA3054",
+        "46549A490D44427F",
+        "1F0FD2B23BA72DBA",
+        "2014340BBBC4F16A",
+        "087D71E3A3D9171D",
+        "434CD44D208422DB",
+      ],
+      size: 1.0,
+      progression_mode: "linear",
+      id: "7B137CC607FEAD99",
+      tasks: [
+        {
+          id: "4FF00A0D255D5A97",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      x: -10.0,
+      y: -7.5,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "7FB347C5E545F912",
+      tasks: [
+        {
+          id: "0188C26048C7816E",
+          type: "item",
+          item: {
+            id: "extendedcrafting:singularity",
+            count: 1,
+            components: {
+              "extendedcrafting:singularity_id": "extendedcrafting:b_buck",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+    },
+    {
+      x: -10.0,
+      y: -6.5,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "5EC9596A30C9F5CA",
+      tasks: [
+        {
+          id: "5EF9823624CDF4A1",
+          type: "item",
+          item: {
+            id: "extendedcrafting:singularity",
+            count: 1,
+            components: {
+              "extendedcrafting:singularity_id": "extendedcrafting:energy",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+    },
+    {
+      x: -9.0,
+      y: -6.0,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "70E7EAB0B358453C",
+      tasks: [
+        {
+          id: "4228AA5AC0C45E16",
+          type: "item",
+          item: {
+            id: "extendedcrafting:singularity",
+            count: 1,
+            components: {
+              "extendedcrafting:singularity_id": "extendedcrafting:experience",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+    },
+    {
+      x: -10.0,
+      y: -5.5,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "058631FBFFA6A1A5",
+      tasks: [
+        {
+          id: "6BE49430E350DC50",
+          type: "item",
+          item: {
+            id: "extendedcrafting:singularity",
+            count: 1,
+            components: {
+              "extendedcrafting:singularity_id": "extendedcrafting:amethyst",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+    },
+    {
+      x: -8.0,
+      y: -7.0,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "5A046F5F9C87FB73",
+      tasks: [
+        {
+          id: "44443E720A81F55A",
+          type: "item",
+          item: {
+            id: "extendedcrafting:singularity",
+            count: 1,
+            components: {
+              "extendedcrafting:singularity_id": "extendedcrafting:rainbow",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

@@ -1,0 +1,14 @@
+### Changes 
+- Updated Neoforge to 26.1.2.76
+- Now exporting certain configs not all
+- Fixed Purified Sand being part of the ore quests
+- Fixed some quest descriptions 
+- Fixed Depth Charm names and added missing Depth Charms
+- Fixed Stone blocks not dropping Stone Pebbles 
+- Added BBL Colors Connected Textures Resource Pack
+- When creating a world after 100 tick you will be teleported to the correct dimension and given a way to dig into the caves this is temporary until other options become available   
+- Disabled Iris 
+- Disabled Fancy Menu customization layer
+- Removed In World Recipes
+- Removed Observations quests until bug in ftb quests are fixed
+- Removed Dark Oak and Mangrove Saplings from Sapling Bag

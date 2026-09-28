@@ -1,0 +1,34 @@
+{
+  id: "3A3C153533EF9FFA",
+  order_index: 2,
+  icon: {
+    id: "minecraft:chest",
+    count: 1,
+  },
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "3A7848870BBF9F73",
+      item: {
+        id: "routers:rf_upgrade_1",
+        count: 1,
+      },
+    },
+    {
+      id: "20F5E5DAF4045A27",
+      item: {
+        id: "routers:item_upgrade_1",
+        count: 1,
+      },
+    },
+    {
+      id: "09FD602AE3B17273",
+      item: {
+        id: "routers:fluid_upgrade_1",
+        count: 1,
+      },
+    },
+  ],
+}

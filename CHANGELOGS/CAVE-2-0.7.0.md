@@ -1,0 +1,34 @@
+### Changes 
+- Updated Mods
+- Flight modifier now works correctly with other modified armor
+- Raw Ore Blocks can now be Melted in Casting
+- Disabled neoforge update notification
+- Added Multiblock Black Brick Glass
+- Added Fluorite quests
+- Fixed Sonar Cannons (again)
+- Added Flight Block quest
+- Fixed items flickering when shift clicked into some BBL block entites including strainer and drying table
+- Classic pipes now limited to a stack per pipe
+- Copper pipes will no not extract into a full pipe
+- Both above changes should help Classic Pipes not cause performance issues
+- Tweaked functional storage shops 
+- Cobblestone can no longer be sold
+- Inferium can no longer be sold
+- Void Upgrade added to the Shop
+- Mystical Fertilizer added to the Shop
+- Missing Compacting Drawers added to the Shop
+- Banned Obsidian Upgrade
+- Cobblestone can no longer be compressed with shift k into crafting tables
+- Fixed Crafting Table texture
+- Fixed some quest descriptions
+- Disabled public server button
+- Added Caveopolis 2 as the modpack from Bisect Hosting menu in multiplayer screen
+- Copper Coins can now be made from Molten Bronze and Molten Brass, more efficient than using just copper
+- Shop Screen can now be bound to a key
+- Cloche mutation upgrade can now increase outputs to 500% fro 100%
+- Osmium Ores now require Iron tools not Diamond
+- Unified Silicon, banned Refeind and EnderIO Silicon, these can still be crafted into AE2 Silicon which is the main one now
+- Invisible Lights now longer prevent the Sapoling Grower from growing
+- Fixed The Ultimate Inogt being part of its own recipe
+### Known Issues
+- Wooden Hopper voiding items when shift clicking inside them

@@ -1,0 +1,25 @@
+{
+  "values": {
+    "#c:lava": {
+      "energy_produced": 10000
+    },
+    "casting:molten_coal": {
+      "energy_produced": 11000
+    },
+    "casting:molten_blaze": {
+      "energy_produced": 12000
+    },
+    "casting:molten_uranium": {
+      "energy_produced": 14000
+    },
+    "casting:blazing_lava": {
+      "energy_produced": 14000
+    },
+    "casting:molten_blazing_crystal": {
+      "energy_produced": 14000
+    },
+    "casting:scorchium": {
+      "energy_produced": 16000
+    }
+  }
+}

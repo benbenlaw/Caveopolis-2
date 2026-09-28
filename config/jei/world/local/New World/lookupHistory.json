@@ -1,0 +1,12 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"sophisticatedbackpacks:backpack","components":"{\"sophisticatedcore:number_of_inventory_slots\":27,\"sophisticatedcore:number_of_upgrade_slots\":1,\"sophisticatedcore:render_data\":{display:{displayItems:[],inaccessibleSlots:[],infiniteSlots:[],slotCounts:[],slotFillRatios:[]},tanks:{},upgradeData:{},upgradeItems:[{}]},\"sophisticatedcore:storage_uuid\":[I;-1866145695,827868331,-1892552942,1106435359]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:charged_certus_quartz_crystal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:quartz_cluster"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"chisel:certus_tiles_large"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:quartz_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:cut_quartz_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"casting:molten_charged_certus_quartz"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"casting:molten_certus_quartz"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"chisel:uranium_thermal"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

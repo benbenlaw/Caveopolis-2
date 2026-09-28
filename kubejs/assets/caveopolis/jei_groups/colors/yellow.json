@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Yellow",
+  "icon": "colors:yellow_asteroid",
+  "items": [
+    "colors:yellow_*"
+  ],
+  "border_color": "#FFFED83D",
+  "background_color": "#40FED83D",
+  "overlay_tint": "#40FED83D",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

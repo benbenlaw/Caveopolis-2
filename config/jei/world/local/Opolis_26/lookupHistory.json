@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"dimstorage:dimensional_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"utility:item_collector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"flightblocks:flight_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spore_blossom"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:wither_skeleton_skull"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

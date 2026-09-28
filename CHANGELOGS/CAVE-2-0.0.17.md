@@ -1,0 +1,17 @@
+### Changes 
+- Updated Mods
+- Updated Yuki Textures
+- Traders now have "custom" textures, please Yuki work your magic 
+- Strainers can now be turned off with redstone
+- Tweaked quests visuals
+- Pipe Connector can now replace pipes thanks @Heaser for this addition
+- JSON based mesh recipes are now added through kubejs 
+- Classic Pipe now work with Casting correctly thanks @J4gm for fixing
+- Casting no longer mixes into Classic Pipes (PENDING CLASSIC PIPES)
+- Added Caveopolis structures to Structure Loot
+- Added Caveopolis structures to tokens that can be bought
+- Added new quests into the Heights questline
+- Moved back to JEI groups 
+- Added more quest backgrounds
+- Loading screens now custom 
+- Updated TODO

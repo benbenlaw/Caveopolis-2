@@ -1,0 +1,220 @@
+{
+  "id": "tipped_arrows",
+  "name": {
+    "translate": "collapsible_groups.group.tipped_arrows",
+    "fallback": "Tipped Arrows"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:absorption\",\"duration\":187,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:absorption\",\"amplifier\":1,\"duration\":281,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:absorption\",\"amplifier\":2,\"duration\":937,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:blindness\",\"duration\":93,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:fire_resistance\",\"duration\":93,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:haste\",\"duration\":93,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:haste\",\"amplifier\":1,\"duration\":187,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:health_boost\",\"duration\":187,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:health_boost\",\"amplifier\":1,\"duration\":281,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:health_boost\",\"amplifier\":2,\"duration\":937,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:saturation\",\"amplifier\":5,\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:resistance\",\"amplifier\":1,\"duration\":281,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:hunger\",\"duration\":93,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"reliquary:cure\",\"amplifier\":1,\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"reliquary:cure\",\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:slowness\",\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:saturation\",\"amplifier\":10,\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:saturation\",\"amplifier\":9,\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:saturation\",\"amplifier\":8,\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:saturation\",\"amplifier\":7,\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:saturation\",\"amplifier\":6,\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"reliquary:cure\",\"amplifier\":2,\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"reliquary:cure\",\"amplifier\":3,\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"reliquary:flight\",\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:instant_damage\",\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:instant_damage\",\"amplifier\":1,\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:instant_damage\",\"amplifier\":2,\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:instant_health\",\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:instant_health\",\"amplifier\":1,\"duration\":1,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:invisibility\",\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:jump_boost\",\"duration\":218,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:jump_boost\",\"amplifier\":1,\"duration\":843,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:mining_fatigue\",\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:mining_fatigue\",\"amplifier\":1,\"duration\":312,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:mining_fatigue\",\"amplifier\":2,\"duration\":375,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:nausea\",\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:regeneration\",\"duration\":31,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:regeneration\",\"amplifier\":1,\"duration\":93,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:resistance\",\"duration\":218,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:poison\",\"duration\":93,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:night_vision\",\"duration\":218,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:weakness\",\"amplifier\":1,\"duration\":125,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:wither\",\"duration\":31,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:wither\",\"amplifier\":1,\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:weakness\",\"duration\":62,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:water_breathing\",\"duration\":93,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:strength\",\"amplifier\":1,\"duration\":187,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:strength\",\"duration\":93,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:speed\",\"amplifier\":2,\"duration\":375,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:speed\",\"amplifier\":1,\"duration\":281,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:speed\",\"duration\":218,\"show_icon\":true}]}}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:tipped_arrow\",\"count\":1,\"components\":{\"minecraft:potion_contents\":{\"custom_effects\":[{\"id\":\"minecraft:slowness\",\"amplifier\":1,\"duration\":125,\"show_icon\":true}]}}}"
+      }
+    ]
+  }
+}

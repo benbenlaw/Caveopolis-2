@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Magenta",
+  "icon": "colors:magenta_asteroid",
+  "items": [
+    "colors:magenta_*"
+  ],
+  "border_color": "#FFC74EBD",
+  "background_color": "#40C74EBD",
+  "overlay_tint": "#40C74EBD",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

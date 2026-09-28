@@ -1,0 +1,12 @@
+### Changes 
+- Updated Mods
+- Create an AE2 Refined Storage Global Script to unify recipes between ae2 and rf 
+- This unification means to get into those mods you will need resources from both mods to make the components, this was taken from submerged 2 and tweaked to fix caveopolis progression
+- Tweaked shop quest icon a bit, still not happy 
+- Added tags for refined ingots to enable support with casting
+- Added quest rewards to Seedy, Charging, Energy and part of Heating Up 
+- Added Tier 5, Tier 6, Tier 7, Tier 8, Tier 9 global shop, includes more sellable items 
+- IF you have any shop suggestions let me know
+- Caves dimension now runs on its own timeline allowing for more customization of the sky
+- Quests are now FLEXIBLE not LINEAR, basically quest will complete even if you haven't unlocked them
+- Started decorating FTB Quests, if you have images up to a certain stage please send them for me to add to the quest book

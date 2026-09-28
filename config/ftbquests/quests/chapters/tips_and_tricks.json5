@@ -1,0 +1,185 @@
+{
+  id: "5F30804D8703E879",
+  group: "",
+  order_index: 1,
+  filename: "tips_and_tricks",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  quests: [
+    {
+      x: -6.5,
+      y: -5.0,
+      dependencies: [
+        "6A03DF763B745B91",
+        "5E648E67214DD902",
+      ],
+      size: 1.0,
+      id: "7334412ED2713D13",
+      tasks: [
+        {
+          id: "6D9FCE9D7C432538",
+          type: "item",
+          item: {
+            id: "camol:camo_item",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2DAAD989FB22F174",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -5.5,
+      y: -5.5,
+      dependencies: [
+        "77A395AAEC110F24",
+      ],
+      size: 1.0,
+      id: "5CF0480F8EC6C1AD",
+      tasks: [
+        {
+          id: "15256A06AF450E50",
+          type: "item",
+          item: {
+            id: "constructionstick:wooden_stick",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6679EEC05A6D5951",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -3.5,
+      y: -5.5,
+      dependencies: [
+        "025F7EF53C37D461",
+      ],
+      size: 1.0,
+      id: "4DF28E7685DA9FF4",
+      tasks: [
+        {
+          id: "39D9E047648526B2",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(strainers:meshes)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "769012D1CE01BD5E",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.5,
+      y: -6.0,
+      dependencies: [
+        "2D956693B1C3A1E6",
+      ],
+      size: 1.0,
+      id: "3E8578DF505AD27F",
+      tasks: [
+        {
+          id: "4959F9CFD1B6C4A4",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "107EC567B6694CED",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.5,
+      y: -5.0,
+      dependencies: [
+        "0179DCBCBDAF9F55",
+      ],
+      size: 1.0,
+      id: "4701378FCCF6959A",
+      tasks: [
+        {
+          id: "3C026B3809623509",
+          type: "item",
+          item: {
+            id: "shops:shop_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "012575B66C12CA25",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -6.5,
+      y: -6.0,
+      dependencies: [
+        "6A03DF763B745B91",
+      ],
+      size: 1.0,
+      id: "5E648E67214DD902",
+      tasks: [
+        {
+          id: "2891BF83C29CF424",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:dyes)",
+            },
+          },
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

@@ -1,0 +1,22 @@
+{
+  "associated_enchantment": "minecraft:silk_touch",
+  "description": "modifier.castingtools.silk_touch.description",
+  "display_name": "modifier.castingtools.silk_touch",
+  "experience_cost": 4000,
+  "ingredient": "#minecraft:wool",
+  "ingredient_count": 32,
+  "incompatible_modifiers": [
+    "castingtools:fortune",
+    "castingtools:pulverizing",
+    "castingtools:treasure"
+  ],
+  "max_enhanced_level": 1,
+  "max_level": 1,
+  "valid_items": [
+    "#minecraft:pickaxes",
+    "#minecraft:axes",
+    "#minecraft:shovels",
+    "#minecraft:hoes",
+    "#minecraft:enchantable/mining_loot"
+  ]
+}

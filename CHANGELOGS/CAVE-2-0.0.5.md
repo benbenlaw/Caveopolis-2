@@ -1,0 +1,28 @@
+### Changes 
+- NOTE - This Update Contains changes to trades, Replace your Farmer!
+- Updated Mods
+- Updated Yuki Textures
+- Moved to Official Colors Resource Pack
+- Changed villager trades for Elemental Essences
+- Removed AE2 Structure from Explorers Compass
+- Custom Drops now work like normal Strainers Drops
+- Shimmer Stone now produce light
+- Boosted Sniffy Sniffer and Sniffer Egg drops from 5% to 10%
+- Sniffy Sniffer and Sniffer can now be summoned using the Summoning Block
+- Updated custom summoning recipe to use SchemaJS 
+- Fixed Sniffy Sniffer not digging 
+- Changed Depth Charm II recipe
+- Added Leafy String to String recipe
+- Reworkd Kitchen questline
+- Disabled Bauble heart drops
+- Replaced all summoning recipes that used dirt to use Life Infused Moss
+- Drying Table now resets its recipe when fluid changes
+- Fixed Compactor (Again)
+- Changed tier 1 mystical seed recipes
+- Changed Mystic Room placement and structure (certus)
+- Added new Mystic Room
+- Placer now always opens screen on Shift Right Click
+- Re enabled Iris
+- Locked sodium from updates
+- Added more quests 
+- Fixed /modpack and /discord commands from not working

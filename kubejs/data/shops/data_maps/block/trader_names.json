@@ -1,0 +1,19 @@
+{
+  "values": {
+    "caveopolis:trader_hut_light_gray_house": [
+      "Mr Grayson"
+    ],
+    "caveopolis:trader_hut_kitchen": [
+      "Chef Gordan"
+    ],
+    "caveopolis:trader_hut_farmer": [
+      "Farmer Joe"
+    ],
+    "caveopolis:trader_hut_mesh": [
+      "The Meshalist"
+    ],
+    "caveopolis:trader_hut_explorer": [
+      "Indiana Bones"
+    ]
+  }
+}

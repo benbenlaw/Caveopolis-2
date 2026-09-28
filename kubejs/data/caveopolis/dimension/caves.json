@@ -1,0 +1,11 @@
+{
+  "type": "caveopolis:caves",
+  "generator": {
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "caveopolis:caves"
+    },
+    "settings": "caveopolis:caves",
+    "type": "minecraft:noise"
+  }
+}

@@ -1,0 +1,37 @@
+#Cooldown settings (in ticks, 20 ticks = 1 second)
+[cooldowns]
+	#Copper tier cooldown (default: 4800 = 4 minutes)
+	# Default: 4800
+	# Range: > 20
+	copper = 4800
+	#Iron tier cooldown (default: 4200 = 3.5 minutes)
+	# Default: 4200
+	# Range: > 20
+	iron = 4200
+	#Gold tier cooldown (default: 3600 = 3 minutes)
+	# Default: 3600
+	# Range: > 20
+	gold = 3600
+	#Diamond tier cooldown (default: 3000 = 2.5 minutes)
+	# Default: 3000
+	# Range: > 20
+	diamond = 3000
+	#Emerald tier cooldown (default: 2400 = 2 minutes)
+	# Default: 2400
+	# Range: > 20
+	emerald = 2400
+	#Netherite tier cooldown (default: 1800 = 1.5 minutes)
+	# Default: 1800
+	# Range: > 20
+	netherite = 1800
+	#Multiplier applied to cooldown for boss mobs (default: 2.0)
+	# Default: 2.0
+	# Range: 1.0 ~ 10.0
+	boss_multiplier = 2.0
+
+#Mob settings
+[mobs]
+	#Mobs that cannot be captured (use full ID like 'minecraft:ender_dragon')
+	blacklist = ["minecraft:ender_dragon"]
+	#Mobs treated as bosses (doubled cooldown). Use full ID like 'minecraft:wither'
+	bosses = ["minecraft:wither", "minecraft:elder_guardian"]

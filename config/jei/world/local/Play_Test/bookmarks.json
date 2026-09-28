@@ -1,0 +1,5 @@
+[
+  {"version":3},
+  {"ingredient":{"id":"theurgy:sal_ammoniac"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"castingtools:modifier"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

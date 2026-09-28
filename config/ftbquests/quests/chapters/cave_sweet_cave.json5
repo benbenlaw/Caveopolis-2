@@ -1,0 +1,1597 @@
+{
+  id: "434CD44D208422DB",
+  group: "69C22806B8A9B843",
+  order_index: 0,
+  icon: {
+    id: "minecraft:stone",
+    count: 1,
+  },
+  filename: "cave_sweet_cave",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  autofocus_id: "7D7C367BB5F40AAA",
+  quests: [
+    {
+      x: -3.5,
+      y: -4.0,
+      dependencies: [
+        "46549A490D44427F",
+      ],
+      size: 1.0,
+      progression_mode: "linear",
+      id: "5D3C3E69D68AB405",
+      tasks: [
+        {
+          id: "2765419B0DC73E18",
+          type: "item",
+          item: {
+            id: "strainers:stone_pebble",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3EA8D87BE1C45EAB",
+          type: "item",
+          item: {
+            id: "colors:light_gray_apple",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: -2.5,
+      y: -4.0,
+      dependencies: [
+        "5D3C3E69D68AB405",
+      ],
+      size: 1.0,
+      id: "7F5841CE18B21DB3",
+      tasks: [
+        {
+          id: "367F778A877BB587",
+          type: "item",
+          item: {
+            id: "minecraft:cobblestone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "208492BDA6CD5CF6",
+          type: "item",
+          item: {
+            id: "minecraft:cobblestone",
+            count: 1,
+          },
+          count: 3,
+        },
+      ],
+    },
+    {
+      x: -1.5,
+      y: -4.0,
+      dependencies: [
+        "7F5841CE18B21DB3",
+      ],
+      size: 1.0,
+      id: "32C8C15E8949D223",
+      tasks: [
+        {
+          id: "70FDBF2EF5E09008",
+          type: "item",
+          item: {
+            id: "minecraft:crafting_table",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "15A856644AAC3422",
+          type: "item",
+          item: {
+            id: "strainers:stone_pebble",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 0.5,
+      y: -4.0,
+      dependencies: [
+        "27DFEF0103DEF0EB",
+      ],
+      size: 1.0,
+      id: "7593B5C53F69C6AC",
+      tasks: [
+        {
+          id: "7A949F9CA8A571B5",
+          type: "item",
+          item: {
+            id: "caveopolis:stone_hammer",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7D6CE6A687636586",
+          type: "item",
+          item: {
+            id: "colors:light_gray_apple",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 8.0,
+      y: -1.0,
+      dependencies: [
+        "62367295F2ED87C2",
+      ],
+      size: 1.0,
+      id: "5512C8493485B010",
+      tasks: [
+        {
+          id: "24203781274097BA",
+          type: "item",
+          item: {
+            id: "minecraft:stone_pickaxe",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2BAA0A1F84EF688E",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 2.5,
+      y: -4.0,
+      dependencies: [
+        "4FEBE922A858AF19",
+      ],
+      size: 1.0,
+      id: "75C3B28FD782BD15",
+      tasks: [
+        {
+          id: "4C477ECA957C8AE2",
+          type: "item",
+          item: {
+            id: "minecraft:gravel",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1143E505643C7C4F",
+          type: "item",
+          item: {
+            id: "minecraft:gravel",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 5.0,
+      y: -6.0,
+      dependencies: [
+        "7D7C367BB5F40AAA",
+      ],
+      size: 1.0,
+      id: "0E017E0954E0B80A",
+      tasks: [
+        {
+          id: "561ABE05BB3502E5",
+          type: "item",
+          item: {
+            id: "minecraft:sand",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5DD2FD10EC70457A",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 7.5,
+      y: -6.5,
+      dependencies: [
+        "626C384F9B0BE4F7",
+      ],
+      size: 1.0,
+      id: "628181705D32A86F",
+      tasks: [
+        {
+          id: "068CA4441B650063",
+          type: "item",
+          item: {
+            id: "strainers:dust_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7B69DC69122B270F",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: -4.0,
+      dependencies: [
+        "7593B5C53F69C6AC",
+      ],
+      size: 1.0,
+      id: "4FEBE922A858AF19",
+      tasks: [
+        {
+          id: "2399FAE11FF8B2DF",
+          type: "item",
+          item: {
+            id: "strainers:gravel_pebble",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "11617DBA99692565",
+          type: "item",
+          item: {
+            id: "strainers:gravel_pebble",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 4.0,
+      y: -5.5,
+      dependencies: [
+        "75C3B28FD782BD15",
+      ],
+      size: 1.0,
+      id: "7D7C367BB5F40AAA",
+      tasks: [
+        {
+          id: "7FCDF1476CA67C8D",
+          type: "item",
+          item: {
+            id: "strainers:sand_dust",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "47E1B02CE174F612",
+          type: "item",
+          item: {
+            id: "strainers:sand_dust",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 12.5,
+      y: -2.0,
+      dependencies: [
+        "060BC8E865394692",
+      ],
+      size: 1.0,
+      id: "44E4456E2172CD2C",
+      tasks: [
+        {
+          id: "50391A9FE3541C3E",
+          type: "item",
+          item: {
+            id: "minecraft:flint",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5647F16DA871FB53",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 6.0,
+      y: -4.0,
+      dependencies: [
+        "79AF93F3F4D1C0F6",
+      ],
+      size: 1.0,
+      id: "21D4FEE49B91B844",
+      tasks: [
+        {
+          id: "2FA268D08776F78E",
+          type: "item",
+          item: {
+            id: "minecraft:dirt",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2874648A1BE9D72B",
+          type: "item",
+          item: {
+            id: "strainers:dirt_pile",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 5.0,
+      y: -4.0,
+      dependencies: [
+        "75C3B28FD782BD15",
+      ],
+      size: 1.0,
+      id: "79AF93F3F4D1C0F6",
+      tasks: [
+        {
+          id: "5F48C9106195F143",
+          type: "item",
+          item: {
+            id: "strainers:dirt_pile",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7F44BA203BC4DF0F",
+          type: "item",
+          item: {
+            id: "minecraft:apple",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 6.5,
+      y: -6.5,
+      dependencies: [
+        "0E017E0954E0B80A",
+      ],
+      size: 1.0,
+      id: "626C384F9B0BE4F7",
+      tasks: [
+        {
+          id: "5C3DF45D25A3CEE8",
+          type: "item",
+          item: {
+            id: "strainers:dust",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5B0536D3366B141E",
+          type: "item",
+          item: {
+            id: "strainers:dust",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: -2.0,
+      dependencies: [
+        "21D4FEE49B91B844",
+      ],
+      size: 1.0,
+      id: "62367295F2ED87C2",
+      tasks: [
+        {
+          id: "313BF61742487016",
+          type: "item",
+          item: {
+            id: "minecraft:stick",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "63260B9B56E04BD7",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 9.0,
+      y: -1.5,
+      dependencies: [
+        "62367295F2ED87C2",
+      ],
+      size: 1.0,
+      id: "025F7EF53C37D461",
+      tasks: [
+        {
+          id: "1AECF85083922D6C",
+          type: "item",
+          item: {
+            id: "strainers:wooden_mesh",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "62C3ACD6137AA503",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 9.5,
+      y: -2.5,
+      dependencies: [
+        "1E363EDF5DBF5EAC",
+      ],
+      size: 1.0,
+      id: "1A54077F8F9BB446",
+      tasks: [
+        {
+          id: "5A2B5B9EBD762D95",
+          type: "item",
+          item: {
+            id: "strainers:strainer",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "287357C4926ABCB7",
+          type: "item",
+          item: {
+            id: "strainers:strainer",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 13.5,
+      y: -2.0,
+      dependencies: [
+        "44E4456E2172CD2C",
+      ],
+      size: 1.0,
+      id: "5EE414463028470E",
+      tasks: [
+        {
+          id: "4DC1727D93BE5851",
+          type: "item",
+          item: {
+            id: "strainers:flint_mesh",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "487B814F545707E1",
+          type: "item",
+          item: {
+            id: "strainers:wooden_mesh",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 14.5,
+      y: -2.5,
+      dependencies: [
+        "5EE414463028470E",
+      ],
+      size: 1.0,
+      id: "48BB019808A704AE",
+      tasks: [
+        {
+          id: "5A636DB51A5963AB",
+          type: "item",
+          item: {
+            id: "strainers:sapling_bag",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "71337CFBB20D142B",
+          type: "item",
+          item: {
+            id: "strainers:sapling_bag",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 8.5,
+      y: -4.0,
+      dependencies: [
+        "21D4FEE49B91B844",
+      ],
+      size: 1.0,
+      id: "406563DD9A729437",
+      tasks: [
+        {
+          id: "7498633ABDFE069C",
+          type: "item",
+          item: {
+            id: "strainers:leaf_pile",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5C992F7AC71F1C4B",
+          type: "item",
+          item: {
+            id: "strainers:leaf_pile",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 11.0,
+      y: -3.0,
+      dependencies: [
+        "5F6193F62434BCC3",
+        "1A54077F8F9BB446",
+      ],
+      size: 1.0,
+      id: "060BC8E865394692",
+      tasks: [
+        {
+          id: "39CDE2A1F359764F",
+          type: "item",
+          item: {
+            id: "strainers:water_drop",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "57EBAB81DF4C3BFF",
+          type: "item",
+          item: {
+            id: "strainers:water_drop",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -0.5,
+      y: -5.0,
+      dependencies: [
+        "32C8C15E8949D223",
+      ],
+      size: 1.0,
+      id: "0AC010652B6FAAFB",
+      tasks: [
+        {
+          id: "6781644BE025C0DB",
+          type: "item",
+          item: {
+            id: "minecraft:furnace",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "108D570B7216EA5E",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 10.5,
+      y: -6.5,
+      dependencies: [
+        "628181705D32A86F",
+      ],
+      size: 1.0,
+      id: "179733BC3BD31458",
+      tasks: [
+        {
+          id: "2B520850313551A0",
+          type: "item",
+          item: {
+            id: "minecraft:bone_meal",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "49045169BA5DE307",
+          type: "item",
+          item: {
+            id: "minecraft:bone_meal",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 11.5,
+      y: -6.5,
+      dependencies: [
+        "179733BC3BD31458",
+      ],
+      size: 1.0,
+      id: "4914C972A4B18C3A",
+      tasks: [
+        {
+          id: "398C31A6BD8A4573",
+          type: "item",
+          item: {
+            id: "minecraft:bone_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "70EA90DAF00ABF6B",
+          type: "item",
+          item: {
+            id: "minecraft:bone_meal",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 16.5,
+      y: -4.0,
+      dependencies: [
+        "4914C972A4B18C3A",
+      ],
+      size: 1.0,
+      id: "46BF27438D19CC8E",
+      tasks: [
+        {
+          id: "7009AAD7885292F8",
+          type: "item",
+          item: {
+            id: "utility:sapling_grower",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "73398AE19335C6F1",
+          type: "item",
+          item: {
+            id: "minecraft:bone_meal",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 17.5,
+      y: -2.5,
+      shape: "shop",
+      dependencies: [
+        "787D9F3B592FA49D",
+        "46BF27438D19CC8E",
+      ],
+      size: 1.0,
+      id: "11C316EB7921A528",
+      tasks: [
+        {
+          id: "6940F017F33C91AC",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "03E7BB2DB05861F7",
+          type: "item",
+          item: {
+            id: "colors:light_gray_apple",
+            count: 1,
+          },
+          count: 3,
+        },
+        {
+          id: "0F380DDCBEE5CBD7",
+          type: "command",
+          auto: "enabled",
+          command: "/bblshops tier add @p tier_1",
+          permission_level: 4,
+          silent: true,
+        },
+      ],
+    },
+    {
+      x: 19.0,
+      y: -2.5,
+      dependencies: [
+        "11C316EB7921A528",
+      ],
+      size: 1.0,
+      id: "48DCC2C951B04764",
+      tasks: [
+        {
+          id: "4145BC558614B658",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:planks)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "08259591F98FFA23",
+          type: "item",
+          item: {
+            id: "minecraft:stick",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 20.0,
+      y: -2.5,
+      dependencies: [
+        "48DCC2C951B04764",
+      ],
+      size: 1.0,
+      id: "4CBBC984FBE99387",
+      tasks: [
+        {
+          id: "53A2FEE2F4228C73",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:chests/wooden)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6D29E2A4C88E9C3B",
+          type: "choice",
+          exclude_from_claim_all: true,
+          table_id: 8198735573334034437,
+        },
+      ],
+    },
+    {
+      x: 12.5,
+      y: -5.0,
+      dependencies: [
+        "35A26421FAAF42FC",
+      ],
+      size: 1.0,
+      id: "3FBF87B0F2B08C13",
+      tasks: [
+        {
+          id: "33DE8C2B807F5A74",
+          type: "item",
+          item: {
+            id: "minecraft:mud",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "010415617AF9494A",
+          type: "item",
+          item: {
+            id: "minecraft:mud",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 6.5,
+      y: -5.5,
+      dependencies: [
+        "0E017E0954E0B80A",
+      ],
+      size: 1.0,
+      id: "4742A5485B52CD6A",
+      tasks: [
+        {
+          id: "7F9969DC716CFB7D",
+          type: "item",
+          item: {
+            id: "minecraft:glass",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7B15DDE44BF7B330",
+          type: "item",
+          item: {
+            id: "minecraft:sand",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 7.5,
+      y: -5.5,
+      dependencies: [
+        "4742A5485B52CD6A",
+      ],
+      size: 1.0,
+      id: "04E55613C21B65B5",
+      tasks: [
+        {
+          id: "5DE0CD1E3C83F37B",
+          type: "item",
+          item: {
+            id: "minecraft:glass_bottle",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "105019A2875FAB23",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 11.5,
+      y: -5.5,
+      dependencies: [
+        "04E55613C21B65B5",
+        "060BC8E865394692",
+      ],
+      size: 1.0,
+      id: "35A26421FAAF42FC",
+      tasks: [
+        {
+          id: "4AC592FE793FA665",
+          type: "item",
+          item: {
+            id: "minecraft:potion",
+            count: 1,
+            components: {
+              "minecraft:potion_contents": {
+                potion: "minecraft:water",
+              },
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "337761342972B6FB",
+          type: "item",
+          item: {
+            id: "minecraft:glass_bottle",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 13.5,
+      y: -4.5,
+      dependencies: [
+        "3FBF87B0F2B08C13",
+      ],
+      size: 1.0,
+      id: "574F3682A221135E",
+      tasks: [
+        {
+          id: "4194CBB1B504446F",
+          type: "item",
+          item: {
+            id: "minecraft:clay_ball",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7D80B30F4713F36F",
+          type: "item",
+          item: {
+            id: "minecraft:clay_ball",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      x: 9.5,
+      y: -4.0,
+      dependencies: [
+        "406563DD9A729437",
+      ],
+      size: 1.0,
+      id: "5F6193F62434BCC3",
+      tasks: [
+        {
+          id: "0B7A235D125174A3",
+          type: "item",
+          item: {
+            id: "strainers:mulch",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "35536BE52F9499BE",
+          type: "item",
+          item: {
+            id: "strainers:leaf_pile",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 14.5,
+      y: -4.0,
+      dependencies: [
+        "574F3682A221135E",
+      ],
+      size: 1.0,
+      id: "77AD52641F5FE57D",
+      tasks: [
+        {
+          id: "79AF53E36775C405",
+          type: "item",
+          item: {
+            id: "ceramicbucket:unfired_clay_bucket",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "544B7F56CA04F06A",
+          type: "item",
+          item: {
+            id: "minecraft:clay_ball",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      x: 15.5,
+      y: -3.5,
+      dependencies: [
+        "77AD52641F5FE57D",
+      ],
+      size: 1.0,
+      id: "61D20156EA44405D",
+      tasks: [
+        {
+          id: "435BA11045F9D76B",
+          type: "item",
+          item: {
+            id: "ceramicbucket:ceramic_bucket",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7E2B5978CB122676",
+          type: "item",
+          item: {
+            id: "minecraft:clay_ball",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      x: 8.5,
+      y: -2.5,
+      dependencies: [
+        "62367295F2ED87C2",
+      ],
+      size: 1.0,
+      id: "1E363EDF5DBF5EAC",
+      tasks: [
+        {
+          id: "047D50053BEC0E25",
+          type: "item",
+          item: {
+            id: "minecraft:stone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5E82FA69ABB33260",
+          type: "item",
+          item: {
+            id: "strainers:stone_pebble",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -0.5,
+      y: -4.0,
+      dependencies: [
+        "32C8C15E8949D223",
+      ],
+      size: 1.0,
+      id: "27DFEF0103DEF0EB",
+      tasks: [
+        {
+          id: "50F14B01D1B385D2",
+          type: "item",
+          item: {
+            id: "caveopolis:stone_rod",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "620E5CC646CABCB3",
+          type: "item",
+          item: {
+            id: "caveopolis:stone_rod",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: -3.0,
+      dependencies: [
+        "27DFEF0103DEF0EB",
+        "6A03DF763B745B91",
+      ],
+      size: 1.0,
+      id: "77A395AAEC110F24",
+      tasks: [
+        {
+          id: "08AC8143351102A0",
+          type: "item",
+          item: {
+            id: "constructionstick:wooden_stick",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "29F54CBB5E86C48D",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 7.5,
+      y: -3.0,
+      dependencies: [
+        "62367295F2ED87C2",
+      ],
+      size: 1.0,
+      id: "314519CDC63C8C6E",
+      tasks: [
+        {
+          id: "5BF4977449C5E7ED",
+          type: "item",
+          item: {
+            id: "minecraft:torch",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "32B0A7396B5EFC15",
+          type: "item",
+          item: {
+            id: "bbllights:iron_invisible_light_placer",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 14.5,
+      y: -1.5,
+      dependencies: [
+        "5EE414463028470E",
+      ],
+      size: 1.0,
+      id: "52EC37F1786E844E",
+      tasks: [
+        {
+          id: "056014F589BE564A",
+          type: "item",
+          item: {
+            id: "strainers:eroding_drop",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "53AFA824D53E31CB",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "strainers:leaf_pile",
+        count: 1,
+      },
+      x: 16.5,
+      y: -1.0,
+      dependencies: [
+        "787D9F3B592FA49D",
+      ],
+      size: 1.0,
+      id: "5D1B85951027B222",
+      tasks: [
+        {
+          id: "69953BC0BE899452",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      x: 16.0,
+      y: -2.5,
+      dependencies: [
+        "48BB019808A704AE",
+      ],
+      size: 1.0,
+      id: "787D9F3B592FA49D",
+      tasks: [
+        {
+          id: "2E9CDA478C24BBDD",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:saplings)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7AC70BA8DE6A342C",
+          type: "choice",
+          exclude_from_claim_all: true,
+          table_id: 6380865486102305566,
+        },
+      ],
+    },
+    {
+      x: 21.5,
+      y: -1.5,
+      dependencies: [
+        "11824D34B0F5FAB5",
+      ],
+      size: 1.0,
+      id: "34C1D5AF393B7784",
+      tasks: [
+        {
+          id: "42C12376BC7C1DC2",
+          type: "item",
+          item: {
+            id: "utility:leafy_string",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "67BF475C8A72AC6F",
+          type: "item",
+          item: {
+            id: "utility:leafy_string",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 22.5,
+      y: -1.5,
+      dependencies: [
+        "34C1D5AF393B7784",
+      ],
+      size: 1.0,
+      id: "51BD0FA8B18D1346",
+      tasks: [
+        {
+          id: "036516E1E66A1162",
+          type: "item",
+          item: {
+            id: "minecraft:green_wool",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "13F5D8C8634DE2B7",
+          type: "item",
+          item: {
+            id: "utility:leafy_string",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      x: 23.5,
+      y: -1.5,
+      dependencies: [
+        "51BD0FA8B18D1346",
+      ],
+      size: 1.0,
+      id: "733D8F1435302FBB",
+      tasks: [
+        {
+          id: "18307684DC7E0075",
+          type: "item",
+          item: {
+            id: "minecraft:green_bed",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "795D47347A70B31B",
+          type: "item",
+          item: {
+            id: "colors:green_apple",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 19.5,
+      y: -1.5,
+      dependencies: [
+        "48DCC2C951B04764",
+      ],
+      size: 1.0,
+      id: "46F1066733254259",
+      tasks: [
+        {
+          id: "46C0AFD99AE6201E",
+          type: "item",
+          item: {
+            id: "utility:wooden_shears",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "40E4F286E58A0FD0",
+          type: "item",
+          item: {
+            id: "utility:wooden_shears",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 20.5,
+      y: -1.5,
+      dependencies: [
+        "46F1066733254259",
+      ],
+      size: 1.0,
+      id: "11824D34B0F5FAB5",
+      tasks: [
+        {
+          id: "5C6C0806B53EAA15",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:leaves)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "71CE1C4F90015BE2",
+          type: "item",
+          item: {
+            id: "strainers:leaf_pile",
+            count: 1,
+          },
+          count: 5,
+        },
+      ],
+    },
+    {
+      x: -1.0,
+      y: -3.0,
+      dependencies: [
+        "32C8C15E8949D223",
+      ],
+      size: 1.0,
+      id: "52991548E4BF5BA0",
+      tasks: [
+        {
+          id: "714E3394F1FC7015",
+          type: "item",
+          item: {
+            id: "compressium:cobblestone_1",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0FD7984EDBCE3908",
+          type: "item",
+          item: {
+            id: "minecraft:cobblestone",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: -0.5,
+      y: -2.0,
+      dependencies: [
+        "52991548E4BF5BA0",
+      ],
+      size: 1.0,
+      id: "74F8001C9715CD98",
+      tasks: [
+        {
+          id: "267CE12623AD6C7E",
+          type: "item",
+          item: {
+            id: "caveopolis:excavating_stone_hammer",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "62D78EAC04F19275",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 18.5,
+      y: -3.5,
+      dependencies: [
+        "11C316EB7921A528",
+      ],
+      size: 1.0,
+      id: "729E27AAB9423A9F",
+      tasks: [
+        {
+          id: "22D1255D1289AB77",
+          type: "item",
+          item: {
+            id: "woodenhopper:wooden_hopper",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "338E991DC517CD67",
+          type: "item",
+          item: {
+            id: "woodenhopper:wooden_hopper",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 19.5,
+      y: -3.5,
+      dependencies: [
+        "48DCC2C951B04764",
+      ],
+      size: 1.0,
+      id: "49BE1AA92F3481CC",
+      tasks: [
+        {
+          id: "525C2A6D23BCCE47",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(functionalstorage:drawer)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1860AD2DBC4A4DF3",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 0.5,
+      y: -5.5,
+      dependencies: [
+        "0AC010652B6FAAFB",
+      ],
+      size: 1.0,
+      id: "0179DCBCBDAF9F55",
+      tasks: [
+        {
+          id: "7E1CD340410090B9",
+          type: "item",
+          item: {
+            id: "shops:shop_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "58CC55EDBD247ABD",
+          type: "item",
+          item: {
+            id: "shops:player_balance_card",
+            count: 1,
+          },
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

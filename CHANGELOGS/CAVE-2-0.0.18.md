@@ -1,0 +1,15 @@
+### Changes 
+- Updated Mods
+- Updated Yuki Textures
+- REPLACE CASTING SOLIDIFER AND MIXER TO PREVENT CRASHES 
+- Fixed Dimensional Ore block recipe 
+- Banned unused geores
+- Changed logic for Sonar Cannon and Improved Sonar Cannon to use tags instead of hard coded values
+- Geores can now be created through Shimmer Crystals, some Geores require a budding block 
+- Geores can be obtained through the Improved Sonar Cannon 
+- Placer Palette screen now has a search bar
+- Placer Palettes now accept tags allowing for easier additions in the future 
+- Increased the amount of blocks allowed in the placer for base building template 
+- Fixed casting being strange with fluid pipes and adjacent casting pushing of fluids
+- Fixed missing Improved Sonar Cannor recipe
+- Grouped GeOres

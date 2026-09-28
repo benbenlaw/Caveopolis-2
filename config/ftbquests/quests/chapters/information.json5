@@ -1,0 +1,246 @@
+{
+  id: "46549A490D44427F",
+  group: "",
+  order_index: 0,
+  filename: "information",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  autofocus_id: "214F31C0F22ECFCD",
+  quests: [
+    {
+      x: 2.5,
+      y: -4.0,
+      size: 1.0,
+      id: "2D956693B1C3A1E6",
+      tasks: [
+        {
+          id: "2636065309EC80C2",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "6A7A690C5C8ED80B",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 2.5,
+      y: -5.5,
+      dependencies: [
+        "2D956693B1C3A1E6",
+      ],
+      size: 1.0,
+      id: "2C71C7417D2F6A07",
+      tasks: [
+        {
+          id: "2D48AF272AEC8FC6",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "0021231AA7B48365",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 3.5,
+      y: -5.0,
+      dependencies: [
+        "2D956693B1C3A1E6",
+      ],
+      size: 1.0,
+      id: "02FC82FA0D7F293D",
+      tasks: [
+        {
+          id: "51C35C756E8FD78F",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "6390089C02212C5F",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 4.0,
+      y: -4.0,
+      dependencies: [
+        "2D956693B1C3A1E6",
+      ],
+      size: 1.0,
+      id: "77D765575CE997A2",
+      tasks: [
+        {
+          id: "626906B54751518F",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "1F6FE3D95A2F05BC",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 3.5,
+      y: -3.0,
+      dependencies: [
+        "2D956693B1C3A1E6",
+      ],
+      size: 1.0,
+      id: "214F31C0F22ECFCD",
+      tasks: [
+        {
+          id: "09F445E072F8EECD",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "2FD19662CA0A3FEE",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: -5.0,
+      dependencies: [
+        "2D956693B1C3A1E6",
+      ],
+      size: 1.0,
+      id: "12B3AF4B71001DE4",
+      tasks: [
+        {
+          id: "15170138458CD154",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "7E527DC87AC61CCD",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 2.5,
+      y: -2.5,
+      dependencies: [
+        "2D956693B1C3A1E6",
+      ],
+      size: 1.0,
+      id: "655FD74AF49BA8B6",
+      tasks: [
+        {
+          id: "33F950E34BC03AB9",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "7BF79F70A7B57ECF",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 1.0,
+      y: -4.0,
+      dependencies: [
+        "2D956693B1C3A1E6",
+      ],
+      size: 1.0,
+      id: "5E213B8FFC7F7237",
+      tasks: [
+        {
+          id: "1DCD97C86D7BF0B0",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "1EF13F6111433D49",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: -3.0,
+      dependencies: [
+        "2D956693B1C3A1E6",
+      ],
+      size: 1.0,
+      id: "272A2602BC70E5EC",
+      tasks: [
+        {
+          id: "17BA92DD9AF3D3B9",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "69A75771DB4C4486",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+    {
+      x: 2.5,
+      y: -7.0,
+      width: 9.52,
+      height: 2.07,
+      rotation: 0.0,
+      image: "caveopolis:textures/ftbquests/logo.png",
+      id: "7BA9BDA9A08F6558",
+    },
+  ],
+}

@@ -1,0 +1,12 @@
+{
+  "name": "EnderIO: Soul Vials",
+  "icon": "enderio:soul_vial",
+  "items": [
+    "enderio:soul_vial"
+  ],
+  "border_color": "#FF765174",
+  "background_color": "#407F0000",
+  "overlay_tint": "#40865E7E",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

@@ -1,0 +1,24 @@
+{
+  "quarry": {
+    "area": 16,
+    "energyPerBlock": 60,
+    "energyMultiplier": 1.0,
+    "armSpeed": 0.1,
+    "armSpeedScaling": 2000.0,
+    "armEnergy": 20,
+    "rainPenalty": 0.7,
+    "scanRate": 256
+  },
+  "pipe": {
+    "acceleration": 0.005,
+    "drag": 0.005,
+    "minSpeed": 0.02,
+    "maxSpeed": 0.16,
+    "injectSpeed": 0.2
+  },
+  "engine": {
+    "redstoneOutput": 10,
+    "stirlingMinOutput": 3.0,
+    "stirlingMaxOutput": 10.0
+  }
+}

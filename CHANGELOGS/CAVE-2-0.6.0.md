@@ -1,0 +1,12 @@
+### Changes 
+- Updated Mods
+- Moved to official versions of all the mods (WOW we actually did)
+- Added a temp fix for fluids that are broken with latest neoforge changes (this temp fix will be in the whole lifecycle of 26.1.2 just saying)
+- Significantly improved the performance of Casting and Casting MB
+- Multiblock Controller now allows up to 64 fluid types (break and repalce multiblock controllers)
+- Coolant is now consumed in Solidifier 
+- Removed duplicate dirt recipe
+- Iron Meshes replaced with Copper Meshes in Kitchen Loot
+- Fixed adrenline poitioning 
+- Fixed rare crash with sniffy sniffers
+- Compactor now inserts to top up stacks first

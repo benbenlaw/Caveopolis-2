@@ -1,0 +1,12 @@
+{
+  "name": "Ceramic Buckets",
+  "icon": "ceramicbucket:ceramic_bucket",
+  "items": [
+    "ceramicbucket:ceramic_bucket"
+  ],
+  "border_color": "#FFC36D56",
+  "background_color": "#40C36D56",
+  "overlay_tint": "#40C36D56",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

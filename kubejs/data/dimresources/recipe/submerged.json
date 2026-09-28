@@ -1,0 +1,37 @@
+{
+  "type": "dimresources:laser",
+  "rf_per_tick": 1000,
+  "duration": 200,
+  "laser_level": 12,
+  "planet": "dimresources:submerged",
+  "outputs": [
+    {
+      "stack": {
+        "count": 1,
+        "id": "minecraft:sand"
+      },
+      "weight": 70
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "minecraft:gravel"
+      },
+      "weight": 20
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "minecraft:prismarine_shard"
+      },
+      "weight": 5
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "minecraft:prismarine_crystals"
+      },
+      "weight": 5
+    }
+  ]
+}

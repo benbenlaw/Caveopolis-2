@@ -1,0 +1,44 @@
+{
+  "type": "dimresources:laser",
+  "rf_per_tick": 5000,
+  "duration": 100,
+  "laser_level": 12,
+  "planet": "dimresources:crystalore",
+  "outputs": [
+    {
+      "stack": {
+        "count": 1,
+        "id": "caveopolis:luminessence_shard"
+      },
+      "weight": 15
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "geore:ruby_shard"
+      },
+      "weight": 15
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "geore:emerald_shard"
+      },
+      "weight": 15
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "geore:diamond_shard"
+      },
+      "weight": 15
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "dimresources:dimensional_shard"
+      },
+      "weight": 15
+    }
+  ]
+}

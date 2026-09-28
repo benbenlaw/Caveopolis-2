@@ -1,0 +1,44 @@
+{
+  "type": "dimresources:laser",
+  "rf_per_tick": 2600,
+  "duration": 200,
+  "laser_level": 12,
+  "planet": "dimresources:inferno",
+  "outputs": [
+    {
+      "stack": {
+        "count": 1,
+        "id": "minecraft:netherrack"
+      },
+      "weight": 50
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "minecraft:gravel"
+      },
+      "weight": 20
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "minecraft:raw_gold"
+      },
+      "weight": 19
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "minecraft:quartz"
+      },
+      "weight": 10
+    },
+    {
+      "stack": {
+        "count": 1,
+        "id": "minecraft:netherite_scrap"
+      },
+      "weight": 1
+    }
+  ]
+}

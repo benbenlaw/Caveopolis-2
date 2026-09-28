@@ -1,0 +1,25 @@
+### Changes 
+- Updated Mods
+- Moved to official version of BBL Rooms
+- Moved to official version of LootJS
+- Changed emergency items
+- Disabled version checker
+- Disabled Dark Mode everywhere button from title screen
+- Nether and Overworld no longer generate per player
+- Spawn protection now works on single player and servers
+- /spawn now works correctly on servers
+- Fixed Oak Sign and Oak Hanging Sign not dropping themself when broke
+- Strainer now allow you to enable/disable certain drops
+- Disabled Inferium Drops from mobs
+- Fixed a load of spelling typos in the quests
+- Fixed some quest completing too early 
+- Fixed Ceramic Buckets causing client side crashes
+- Fixed Excavation modifier 
+- Fixed Modifier and Upgrader dupe
+- Copper coins can now be crafted with 3 ingots instead of 4
+- Tweaked some shop stuff 
+- Changed Block Placer and Block Breaker recipes to make them available earlier
+- Changed Compactor recipe
+- Added rewards to The Heights Chapter
+- Mutation upgrade can now be bought from the shop
+- Fire Crafting recipes now work again

@@ -1,0 +1,28 @@
+{
+    "keys": [
+        {
+ 			"name": "output",
+			"role": "output",
+			"type": "item_stack"
+	
+        },
+        {
+ 			"name": "input",
+			"role": "input",
+            "type": "ingredient"
+        },
+		{
+ 			"name": "fluid",
+			"role": "input",
+            "type": "sized_fluid_ingredient"
+        },
+		{
+            "name": "mode",
+            "role": "other",
+            "type": "string",
+            "function_names": ["mode"],
+	        "optional": "fill",
+            "always_write": true
+        }
+    ]
+}

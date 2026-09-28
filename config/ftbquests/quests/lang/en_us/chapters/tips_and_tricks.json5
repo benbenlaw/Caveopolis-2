@@ -1,0 +1,34 @@
+{
+  "quest.4DF28E7685DA9FF4.title": "Meshes",
+  "quest.3E8578DF505AD27F.quest_desc": [
+    "There a various ways to generate bucks. You can make bucks from &lMolten Copper&r, &lMolten Brass&r and &lMolten Bronze&r as well as selling a lot of different items ",
+  ],
+  "quest.7334412ED2713D13.title": "Camol",
+  "quest.5CF0480F8EC6C1AD.title": "Construction Sticks",
+  "quest.5E648E67214DD902.title": "Dyes",
+  "quest.7334412ED2713D13.quest_desc": [
+    "Crafting this with a block allows you to hide pretty much any block with the chosen one",
+  ],
+  "quest.5E648E67214DD902.quest_desc": [
+    "Dyes can be tricky to obtain but it is possible to get them all.",
+    "",
+    "Use a &lStonecutter&r to make &lColored Grass&r, &lBone Meal&r the &lGrass&r to make &lColored Flowers&r then craft into &lDyes&r",
+  ],
+  "task.2891BF83C29CF424.title": "Any #c:dyes",
+  "quest.4DF28E7685DA9FF4.quest_desc": [
+    "Meshes can be &lEnchanted&r or &lModified&r (using &lCasting Tools Modifier Block&r) with Efficiency, Fortune and Unbreaking",
+    "",
+    "Fortune uses the Additional Chance value and multiplies it by the level. Going over 100% will guarantee the drop and role again. Eg if you go to 150% change you will always get the item plus a 50% to get it again",
+  ],
+  "quest.4701378FCCF6959A.quest_desc": [
+    "Allows for automatic buying and selling. When placed within a 5 blocks area of a trader will also allow you to automate those trades as well!",
+  ],
+  "quest.5CF0480F8EC6C1AD.quest_desc": [
+    "&lConstruction Sticks&r allow for quick placing of blocks",
+    "",
+    "These can be connected to both &lAE2&r and &lRefined Storage&r to use materials from them instead of your own inventory",
+    "",
+    "Holding a different block in your off hand allows you to place that block instead of the targeted block",
+  ],
+  "task.39D9E047648526B2.title": "Any #strainers:meshes",
+}

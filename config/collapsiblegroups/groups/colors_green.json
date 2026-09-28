@@ -1,0 +1,564 @@
+{
+  "id": "colors_green",
+  "name": {
+    "translate": "collapsible_groups.group.colors_green",
+    "fallback": "Colors: Green"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "colors:green_triple_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_triple_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_triple_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_sandstone_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_sandstone_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_sandstone_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_stone_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_tile_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_tile_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_tile_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_tile_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_tile_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_tiles"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_triple"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_triple_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_triple_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_road_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_road_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_road_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_road_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_road_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_road"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_prismarine"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_polished_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_polished_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_polished_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_polished_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_polished_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_polished"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_mosaic_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_mosaic_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_mosaic_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_dark_prismarine"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_dark_prismarine_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_dark_prismarine_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_dark_prismarine_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_dark_prismarine_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_dark_prismarine_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_encased"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_encased_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_encased_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_encased_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_encased_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_encased_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_marble_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_mosaic"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_mosaic_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cracked_stone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cracked_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_mosaic_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_braid_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_braid_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_braid_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_braid_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_braid_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_braid"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_tiles"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_tile_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_tile_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_tile_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_tile_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_tile_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_chaotic"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_chaotic_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_chaotic_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_chaotic_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_chaotic_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_chaotic_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cobblestone_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cracked_stone_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cracked_stone_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cracked_stone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_cracked_stone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:green_asteroid"
+      }
+    ]
+  }
+}

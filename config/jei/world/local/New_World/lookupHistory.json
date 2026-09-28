@@ -1,0 +1,4 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:suspicious_sand","components":{"minecraft:block_entity_data":{"LootTable":"minecraft:archaeology/desert_pyramid","id":"minecraft:brushable_block","LootTableSeed":26564751111446598}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

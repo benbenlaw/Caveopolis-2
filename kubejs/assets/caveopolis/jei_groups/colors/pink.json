@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Pink",
+  "icon": "colors:pink_asteroid",
+  "items": [
+    "colors:pink_*"
+  ],
+  "border_color": "#FFF38BAA",
+  "background_color": "#40F38BAA",
+  "overlay_tint": "#40F38BAA",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

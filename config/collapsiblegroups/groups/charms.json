@@ -1,0 +1,324 @@
+{
+  "id": "charms",
+  "name": {
+    "translate": "collapsible_groups.group.charms",
+    "fallback": "Charms"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:creeper\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:illusioner\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zombie_nautilus\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:shulker\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:endermite\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:creaking\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:guardian\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:ghast\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:silverfish\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zombie\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:giant\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:magma_cube\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:camel_husk\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zombified_piglin\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:pillager\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:hoglin\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:vex\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:piglin_brute\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:wither_skeleton\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:phantom\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:breeze\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:cave_spider\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:blaze\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:parched\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:piglin\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zombie_horse\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:elder_guardian\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"gravestone:player_ghost\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:slime\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:bogged\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:ravager\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:skeleton\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:evoker\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:spider\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:witch\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:warden\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zoglin\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:enderman\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm_fragment\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:vindicator\"}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:creeper\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:illusioner\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zombie_nautilus\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:shulker\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:elder_guardian\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:cave_spider\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:parched\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:blaze\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:endermite\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:creaking\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:guardian\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:ghast\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:silverfish\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zombie\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:giant\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:magma_cube\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:camel_husk\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zombified_piglin\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:pillager\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:hoglin\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:vex\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:piglin_brute\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:wither_skeleton\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:phantom\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:breeze\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"gravestone:player_ghost\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:slime\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:bogged\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:ravager\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:skeleton\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:evoker\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:spider\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:witch\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:warden\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:vindicator\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:enderman\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zoglin\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:zombie_horse\",\"minecraft:damage\":60}}"
+      },
+      {
+        "type": "item",
+        "stack": "{\"id\":\"reliquary:mob_charm\",\"count\":1,\"components\":{\"reliquary:entity_name\":\"minecraft:piglin\",\"minecraft:damage\":60}}"
+      }
+    ]
+  }
+}

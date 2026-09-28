@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Green",
+  "icon": "colors:green_asteroid",
+  "items": [
+    "colors:green_*"
+  ],
+  "border_color": "#FF5E7C16",
+  "background_color": "#405E7C16",
+  "overlay_tint": "#405E7C16",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

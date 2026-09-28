@@ -1,0 +1,1966 @@
+{
+  id: "5419BBD5C7BA3054",
+  group: "69C22806B8A9B843",
+  order_index: 2,
+  icon: {
+    id: "caveopolis:trader_hut_kitchen",
+    count: 1,
+  },
+  filename: "machines",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  autofocus_id: "47588C95D10CCA9D",
+  quests: [
+    {
+      x: -9.0,
+      y: -13.5,
+      dependencies: [
+        "4678AB778F5795EA",
+      ],
+      size: 1.0,
+      id: "3D856D869370FA62",
+      tasks: [
+        {
+          id: "2782F9A69B9F8A31",
+          type: "item",
+          item: {
+            id: "minecraft:iron_door",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "055883D9DDFCEAB4",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -7.5,
+      y: -13.5,
+      dependencies: [
+        "3D856D869370FA62",
+      ],
+      size: 1.0,
+      id: "3A24CEAF5E72FE8A",
+      tasks: [
+        {
+          id: "3EB3950D50D667E1",
+          type: "item",
+          item: {
+            id: "cookingforblockheads:white_fridge",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5232DED96BC4792C",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -7.5,
+      y: -12.5,
+      dependencies: [
+        "269E936B408B173F",
+      ],
+      size: 1.0,
+      id: "387F9778C8D51854",
+      tasks: [
+        {
+          id: "7A62F1109F5D66F2",
+          type: "item",
+          item: {
+            id: "cookingforblockheads:cooking_table",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "023ACB266D492CFA",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -22.0,
+      y: -12.5,
+      dependencies: [
+        "76BF515342C7AF87",
+        "1D14C1C6CBAE747B",
+      ],
+      size: 1.0,
+      id: "2D3996E7FF3590EB",
+      tasks: [
+        {
+          id: "675762EF69FB26BE",
+          type: "item",
+          item: {
+            id: "pantryforblockheads:artisan_press",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "01010F221998FE7D",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -16.5,
+      y: -12.5,
+      dependencies: [
+        "249286487C0BEA09",
+        "2D3996E7FF3590EB",
+      ],
+      size: 1.0,
+      id: "59D79552FA2A0167",
+      tasks: [
+        {
+          id: "239C01702BACF261",
+          type: "item",
+          item: {
+            id: "minecraft:leather",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "10061486111DFE67",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -15.0,
+      y: -12.5,
+      shape: "shop",
+      dependencies: [
+        "59D79552FA2A0167",
+      ],
+      size: 1.0,
+      id: "731336E5437FA3C1",
+      tasks: [
+        {
+          id: "646CF6DE31B3043C",
+          type: "item",
+          item: {
+            id: "minecraft:book",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6984E8E30D46FE77",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+        {
+          id: "37A74E7D7E11594A",
+          type: "command",
+          auto: "enabled",
+          command: "/bblshops tier add @p tier_3",
+          permission_level: 4,
+        },
+      ],
+    },
+    {
+      x: -9.0,
+      y: -12.5,
+      dependencies: [
+        "28B6651D98B60D96",
+      ],
+      size: 1.0,
+      id: "269E936B408B173F",
+      tasks: [
+        {
+          id: "01FD034E30FEF193",
+          type: "item",
+          item: {
+            id: "cookingforblockheads:crafting_book",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "70064D34170E32EF",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -5.5,
+      y: -14.5,
+      dependencies: [
+        "584D2C2CAF74B242",
+      ],
+      size: 1.0,
+      id: "77C3E4639F0DF090",
+      tasks: [
+        {
+          id: "0A1D3D56F5DD913D",
+          type: "item",
+          item: {
+            id: "minecraft:snow_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3264D2840B63F81B",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -6.0,
+      y: -13.5,
+      dependencies: [
+        "387F9778C8D51854",
+        "3A24CEAF5E72FE8A",
+      ],
+      size: 1.0,
+      id: "584D2C2CAF74B242",
+      tasks: [
+        {
+          id: "2BB94BBE29039B00",
+          type: "item",
+          item: {
+            id: "minecraft:snowball",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3D366B1BCF1FC1F9",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -6.0,
+      y: -12.5,
+      dependencies: [
+        "387F9778C8D51854",
+        "3A24CEAF5E72FE8A",
+      ],
+      size: 1.0,
+      id: "67E3D34CEC02BB86",
+      tasks: [
+        {
+          id: "724493957CC3EED2",
+          type: "item",
+          item: {
+            id: "cookingforblockheads:ice_cubes",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "46CD62ED9AF2714C",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -5.0,
+      y: -12.5,
+      dependencies: [
+        "67E3D34CEC02BB86",
+      ],
+      size: 1.0,
+      id: "2558904AB2ABC64F",
+      tasks: [
+        {
+          id: "3D4AEF1B8C98565F",
+          type: "item",
+          item: {
+            id: "minecraft:ice",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1E2AE8263E3ED804",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: -12.5,
+      dependencies: [
+        "2558904AB2ABC64F",
+      ],
+      size: 1.0,
+      id: "3C9CD647CD259CFF",
+      tasks: [
+        {
+          id: "144B88FE8D686BE0",
+          type: "item",
+          item: {
+            id: "minecraft:packed_ice",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "218B4A95DD46787F",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -3.0,
+      y: -12.5,
+      dependencies: [
+        "3C9CD647CD259CFF",
+      ],
+      size: 1.0,
+      id: "202D0701C0C7E7C6",
+      tasks: [
+        {
+          id: "4A8F044E88E0C0C1",
+          type: "item",
+          item: {
+            id: "minecraft:blue_ice",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "57F1BA040712245A",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -17.0,
+      y: -11.5,
+      dependencies: [
+        "47588C95D10CCA9D",
+      ],
+      size: 1.0,
+      id: "249286487C0BEA09",
+      tasks: [
+        {
+          id: "20209A382F48F746",
+          type: "item",
+          item: {
+            id: "minecraft:rotten_flesh",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2E3080327827EB56",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: -13.0,
+      dependencies: [
+        "218DC2FB85273296",
+      ],
+      size: 1.0,
+      id: "1BF70E0F0222705F",
+      tasks: [
+        {
+          id: "51ECB2517456E230",
+          type: "item",
+          item: {
+            id: "minecraft:suspicious_gravel",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4F142CA1B0859ED2",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: -14.0,
+      dependencies: [
+        "218DC2FB85273296",
+      ],
+      size: 1.0,
+      id: "598F3D84AA9F2698",
+      tasks: [
+        {
+          id: "04F01A757910C9F0",
+          type: "item",
+          item: {
+            id: "minecraft:suspicious_sand",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "69A7631F24D24BF4",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -1.5,
+      y: -13.0,
+      dependencies: [
+        "202D0701C0C7E7C6",
+      ],
+      size: 1.0,
+      id: "4BEF2B1024D8F850",
+      tasks: [
+        {
+          id: "3ABCFC413BE087C5",
+          type: "item",
+          item: {
+            id: "sniffysniffers:sniffy_sniffer_egg",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6216BA9498DA075C",
+          type: "item",
+          item: {
+            id: "sniffysniffers:sniffy_sniffer_egg",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: -14.5,
+      dependencies: [
+        "26118DDDB9B99B55",
+      ],
+      size: 1.0,
+      id: "0F7563BC5CD6D111",
+      tasks: [
+        {
+          id: "2E7F91BCA958B27A",
+          type: "item",
+          item: {
+            id: "minecraft:moss_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1359C2E5CA195015",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -1.5,
+      y: -12.0,
+      dependencies: [
+        "202D0701C0C7E7C6",
+      ],
+      size: 1.0,
+      id: "313E6B3EB2F35ADC",
+      tasks: [
+        {
+          id: "411C6C1D5F54EC75",
+          type: "item",
+          item: {
+            id: "minecraft:sniffer_egg",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "73295A64C921C7B7",
+          type: "item",
+          item: {
+            id: "minecraft:sniffer_egg",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: -11.0,
+      dependencies: [
+        "0DC2282534F1D7BF",
+      ],
+      size: 1.0,
+      id: "3DAF13F58385AC95",
+      tasks: [
+        {
+          id: "62CFEB40E1A30C2C",
+          type: "item",
+          item: {
+            id: "minecraft:torchflower_seeds",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7C4ADA68E702F752",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 2.5,
+      y: -14.0,
+      dependencies: [
+        "598F3D84AA9F2698",
+      ],
+      size: 1.0,
+      id: "52B38905A7A9907F",
+      tasks: [
+        {
+          id: "624BC19BE4EB3A40",
+          type: "item",
+          item: {
+            id: "caveopolis:suspicious_stick",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3ABE42000885D273",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -27.5,
+      y: -12.5,
+      dependencies: [
+        "6F340B0797690A1F",
+        "55C076AFA679DF2E",
+      ],
+      size: 1.0,
+      id: "2DF12E6B111A9C03",
+      tasks: [
+        {
+          id: "7215EAE7957D68F4",
+          type: "item",
+          item: {
+            id: "strainers:ore_piece",
+            count: 1,
+            components: {
+              "strainers:ore_type": "redstone",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "76FD8BD8668238AE",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -27.5,
+      y: -10.5,
+      dependencies: [
+        "6F340B0797690A1F",
+        "66B15A3486B8EFAB",
+      ],
+      size: 1.0,
+      id: "7D2B77BA41EF7554",
+      tasks: [
+        {
+          id: "471A5C7B8308B8C0",
+          type: "item",
+          item: {
+            id: "strainers:ore_piece",
+            count: 1,
+            components: {
+              "strainers:ore_type": "nickel",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "22CFB2ABA001A45F",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -27.0,
+      y: -11.5,
+      dependencies: [
+        "6F340B0797690A1F",
+      ],
+      size: 1.0,
+      id: "64C01CBE26F8B5CB",
+      tasks: [
+        {
+          id: "00F7A4EB8F107640",
+          type: "item",
+          item: {
+            id: "strainers:ore_piece",
+            count: 1,
+            components: {
+              "strainers:ore_type": "iron",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "019FE04871A66045",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -28.5,
+      y: -11.5,
+      dependencies: [
+        "142483FFDA40D2F6",
+      ],
+      size: 1.0,
+      id: "6F340B0797690A1F",
+      tasks: [
+        {
+          id: "2D1134E2AD1422D6",
+          type: "item",
+          item: {
+            id: "strainers:copper_mesh",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3C245A13A675B016",
+          type: "item",
+          item: {
+            id: "strainers:flint_mesh",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -26.0,
+      y: -12.5,
+      dependencies: [
+        "2DF12E6B111A9C03",
+      ],
+      size: 1.0,
+      id: "4C2CC8B8AF6CF58E",
+      tasks: [
+        {
+          id: "4338D35CF1E22F2E",
+          type: "item",
+          item: {
+            id: "minecraft:redstone_ore",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7276CEF0D8D79241",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -25.5,
+      y: -11.5,
+      dependencies: [
+        "64C01CBE26F8B5CB",
+      ],
+      size: 1.0,
+      id: "6209D57205AB39AF",
+      tasks: [
+        {
+          id: "6311437F6A7AC39B",
+          type: "item",
+          item: {
+            id: "minecraft:iron_ore",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "65180EA8F185FC47",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -26.0,
+      y: -10.5,
+      dependencies: [
+        "7D2B77BA41EF7554",
+      ],
+      size: 1.0,
+      id: "470BBD499100CE14",
+      tasks: [
+        {
+          id: "6712580D7B0E2308",
+          type: "item",
+          item: {
+            id: "alltheores:nickel_ore",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "492F501B7494A2DA",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -24.5,
+      y: -12.5,
+      dependencies: [
+        "4C2CC8B8AF6CF58E",
+      ],
+      size: 1.0,
+      id: "6581AF78B9C28F02",
+      tasks: [
+        {
+          id: "2D5B5B756A1264B8",
+          type: "item",
+          item: {
+            id: "minecraft:redstone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7317E918ED62B97B",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -24.0,
+      y: -11.5,
+      dependencies: [
+        "6209D57205AB39AF",
+      ],
+      size: 1.0,
+      id: "214EC9906B61759C",
+      tasks: [
+        {
+          id: "09C9464AA8599169",
+          type: "item",
+          item: {
+            id: "minecraft:iron_ingot",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3380018D9F2E8106",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -24.5,
+      y: -10.5,
+      dependencies: [
+        "470BBD499100CE14",
+      ],
+      size: 1.0,
+      id: "67DFA448CD9EBDF5",
+      tasks: [
+        {
+          id: "39E509FF6EBDC82A",
+          type: "item",
+          item: {
+            id: "alltheores:nickel_ingot",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "378F4ACF0905C6E1",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -23.0,
+      y: -10.5,
+      dependencies: [
+        "67DFA448CD9EBDF5",
+        "214EC9906B61759C",
+      ],
+      size: 1.0,
+      id: "1B7CE1B467830225",
+      tasks: [
+        {
+          id: "404F8C2276CDD509",
+          type: "item",
+          item: {
+            id: "utility:summoning_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7E8A719E3A0CDAF6",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -21.5,
+      y: -10.5,
+      dependencies: [
+        "1B7CE1B467830225",
+      ],
+      size: 1.0,
+      id: "6BEFBEC6EF85917F",
+      tasks: [
+        {
+          id: "43AB805D59184979",
+          type: "kill",
+          entity: "minecraft:skeleton",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "4EC375BED91D1B79",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -20.5,
+      y: -10.5,
+      dependencies: [
+        "6BEFBEC6EF85917F",
+      ],
+      size: 1.0,
+      id: "2B031BAEAD8A93C5",
+      tasks: [
+        {
+          id: "381C9C4092015837",
+          type: "item",
+          item: {
+            id: "minecraft:bone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7A490D1D44ED165C",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -19.5,
+      y: -10.5,
+      dependencies: [
+        "2B031BAEAD8A93C5",
+      ],
+      size: 1.0,
+      id: "563E9EA589926690",
+      tasks: [
+        {
+          id: "0E809779AC4BA5CB",
+          type: "item",
+          item: {
+            id: "caveopolis:rotten_bone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3FECDF983A9C2F83",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -18.5,
+      y: -10.5,
+      dependencies: [
+        "563E9EA589926690",
+      ],
+      size: 1.0,
+      id: "089CB166CC1B5327",
+      tasks: [
+        {
+          id: "5CCED70FEBF8A110",
+          type: "item",
+          item: {
+            id: "caveopolis:rotten_dust",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "45FCE72BE5A905DB",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -18.0,
+      y: -11.5,
+      dependencies: [
+        "089CB166CC1B5327",
+      ],
+      size: 1.0,
+      id: "47588C95D10CCA9D",
+      tasks: [
+        {
+          id: "7FBFB4553A9882DC",
+          type: "kill",
+          entity: "minecraft:zombie",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "2718FF67A807BED4",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -17.5,
+      y: -10.5,
+      dependencies: [
+        "089CB166CC1B5327",
+      ],
+      size: 1.0,
+      id: "0667423E376BF92C",
+      tasks: [
+        {
+          id: "40FBAD8126E9A8D2",
+          type: "kill",
+          entity: "minecraft:spider",
+          value: 1,
+        },
+      ],
+      rewards: [
+        {
+          id: "6BFF9A0BD6296C8F",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -16.5,
+      y: -10.5,
+      dependencies: [
+        "0667423E376BF92C",
+      ],
+      size: 1.0,
+      id: "651A5621E9D879D0",
+      tasks: [
+        {
+          id: "44B998B97E986F03",
+          type: "item",
+          item: {
+            id: "minecraft:spider_eye",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6821BE33D57E0633",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -22.5,
+      y: -11.5,
+      dependencies: [
+        "214EC9906B61759C",
+      ],
+      size: 1.0,
+      id: "1D14C1C6CBAE747B",
+      tasks: [
+        {
+          id: "0CD777DA2941E930",
+          type: "item",
+          item: {
+            id: "minecraft:iron_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6B0031B818EF8F14",
+          type: "item",
+          item: {
+            id: "minecraft:iron_ingot",
+            count: 1,
+          },
+          count: 3,
+        },
+      ],
+    },
+    {
+      x: -23.5,
+      y: -12.5,
+      dependencies: [
+        "6581AF78B9C28F02",
+        "214EC9906B61759C",
+      ],
+      size: 1.0,
+      id: "76BF515342C7AF87",
+      tasks: [
+        {
+          id: "6175AC956547F16A",
+          type: "item",
+          item: {
+            id: "minecraft:piston",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "69675A2C1709C05F",
+          type: "item",
+          item: {
+            id: "minecraft:piston",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -13.5,
+      y: -12.5,
+      shape: "heart",
+      dependencies: [
+        "731336E5437FA3C1",
+      ],
+      size: 1.0,
+      id: "6D0985E3580D62C1",
+      tasks: [
+        {
+          id: "6DA45931BCEDB10A",
+          type: "structure",
+          structure: "caveopolis:kitchen",
+        },
+      ],
+      rewards: [
+        {
+          id: "57476B46EF46AA52",
+          type: "command",
+          auto: "enabled",
+          command: "/bblshops tier add @p kitchen_1",
+          permission_level: 4,
+        },
+        {
+          id: "271952B4DE1EA566",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -10.5,
+      y: -13.5,
+      dependencies: [
+        "24742A241F35B867",
+      ],
+      size: 1.0,
+      id: "4678AB778F5795EA",
+      tasks: [
+        {
+          id: "3A990D680D5ACA81",
+          type: "item",
+          item: {
+            id: "cookingforblockheads:ice_unit",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "599D914B04C46323",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -12.5,
+      y: -11.0,
+      dependencies: [
+        "6D0985E3580D62C1",
+      ],
+      size: 1.0,
+      id: "7D02B74C95602F27",
+      tasks: [
+        {
+          id: "0DB723DC320BFBCB",
+          type: "item",
+          item: {
+            id: "cookingforblockheads:sink",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "13B8E1F469725771",
+          type: "item",
+          item: {
+            id: "minecraft:water_bucket",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 2.5,
+      y: -13.0,
+      dependencies: [
+        "1BF70E0F0222705F",
+      ],
+      size: 1.0,
+      id: "62B1FC2E0DDF7E71",
+      tasks: [
+        {
+          id: "61BE7DD874236F64",
+          type: "item",
+          item: {
+            id: "caveopolis:suspicious_flint",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "144BB85E771F0468",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: -12.5,
+      dependencies: [
+        "62B1FC2E0DDF7E71",
+        "5E05255D1FC39FAB",
+      ],
+      size: 1.0,
+      id: "11E31726B7F2DFA9",
+      tasks: [
+        {
+          id: "6FFEE4E41D9F3772",
+          type: "item",
+          item: {
+            id: "caveopolis:depth_charm_ii",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "57DBBACCB2156583",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 6.0,
+      y: -13.0,
+      dependencies: [
+        "11E31726B7F2DFA9",
+      ],
+      size: 1.0,
+      id: "1DBDBA0B2ECE55F1",
+      tasks: [
+        {
+          id: "5C6ACE76CA628A61",
+          type: "item",
+          item: {
+            id: "colors:lime_stone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "18C354D6648CBAD5",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 6.0,
+      y: -12.0,
+      dependencies: [
+        "11E31726B7F2DFA9",
+      ],
+      size: 1.0,
+      id: "366D983FE1AD95D6",
+      tasks: [
+        {
+          id: "05C4AE90DC74F7C1",
+          type: "item",
+          item: {
+            id: "colors:green_stone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "366F3D820734973C",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.5,
+      y: -13.5,
+      dependencies: [
+        "584D2C2CAF74B242",
+      ],
+      size: 1.0,
+      id: "26118DDDB9B99B55",
+      tasks: [
+        {
+          id: "6A2A874C640A1D2E",
+          type: "item",
+          item: {
+            id: "caveopolis:moss_ball",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6BE28AE711CCD097",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "ftbquests:custom_icon",
+        count: 1,
+        components: {
+          "!ftbquests:icon": {
+          },
+          "ftbquests:entity_face": "sniffysniffers:sniffy_sniffer",
+        },
+      },
+      x: 0.0,
+      y: -13.5,
+      dependencies: [
+        "4BEF2B1024D8F850",
+        "0F7563BC5CD6D111",
+      ],
+      size: 1.0,
+      id: "218DC2FB85273296",
+      tasks: [
+        {
+          id: "0B0007E07A2D90B7",
+          type: "observation",
+          icon: {
+            id: "ftbquests:custom_icon",
+            count: 1,
+            components: {
+              "!ftbquests:icon": {
+              },
+              "ftbquests:entity_face": "sniffysniffers:sniffy_sniffer",
+            },
+          },
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "sniffysniffers:sniffy_sniffer",
+        },
+      ],
+      rewards: [
+        {
+          id: "0520235CC6D81262",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: -11.5,
+      dependencies: [
+        "313E6B3EB2F35ADC",
+        "0F7563BC5CD6D111",
+      ],
+      size: 1.0,
+      id: "0DC2282534F1D7BF",
+      tasks: [
+        {
+          id: "26A05E26D94F46E0",
+          type: "observation",
+          icon: {
+            id: "ftbquests:custom_icon",
+            count: 1,
+            components: {
+              "!ftbquests:icon": {
+              },
+              "ftbquests:entity_face": "minecraft:sniffer",
+            },
+          },
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "minecraft:sniffer",
+        },
+      ],
+      rewards: [
+        {
+          id: "56344ECF9F7D800E",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 1.5,
+      y: -12.0,
+      dependencies: [
+        "0DC2282534F1D7BF",
+      ],
+      size: 1.0,
+      id: "60D750B9B3EC9812",
+      tasks: [
+        {
+          id: "12757C8FC370A87C",
+          type: "item",
+          item: {
+            id: "minecraft:pitcher_pod",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "065B97B0950416A4",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 2.5,
+      y: -12.0,
+      dependencies: [
+        "60D750B9B3EC9812",
+      ],
+      size: 1.0,
+      id: "5E05255D1FC39FAB",
+      tasks: [
+        {
+          id: "5B33180894AB7AC4",
+          type: "item",
+          item: {
+            id: "minecraft:pitcher_plant",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "10E687E547D82578",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 2.5,
+      y: -11.0,
+      dependencies: [
+        "3DAF13F58385AC95",
+      ],
+      size: 1.0,
+      id: "402714C50D9221A1",
+      tasks: [
+        {
+          id: "515438ABA87B26C2",
+          type: "item",
+          item: {
+            id: "minecraft:torchflower",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "67254C449D2B87BF",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 5.5,
+      y: -11.0,
+      dependencies: [
+        "6B34EA584BC85D8D",
+      ],
+      size: 1.0,
+      id: "61C2B5686132D96C",
+      tasks: [
+        {
+          id: "782A7B5CE022A76B",
+          type: "item",
+          item: {
+            id: "adrenaline:adrenaline_shot",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "256DF844846BAB08",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -21.0,
+      y: -11.5,
+      dependencies: [
+        "1D14C1C6CBAE747B",
+      ],
+      size: 1.0,
+      id: "19C9666B4D7561EF",
+      tasks: [
+        {
+          id: "3DE4003BA6F08E90",
+          type: "item",
+          item: {
+            id: "utility:item_collector",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5A6DB6F0FF6C001F",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 4.0,
+      y: -11.0,
+      dependencies: [
+        "5E05255D1FC39FAB",
+      ],
+      size: 1.0,
+      id: "6B34EA584BC85D8D",
+      tasks: [
+        {
+          id: "26D0129BBB65A101",
+          type: "item",
+          item: {
+            id: "mysticalagriculture:mystical_fertilizer",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "58845401F4B85295",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -20.0,
+      y: -11.5,
+      dependencies: [
+        "214EC9906B61759C",
+      ],
+      size: 1.0,
+      id: "75DDEE98A95DED5A",
+      tasks: [
+        {
+          id: "0E3728B2D5FBB6DE",
+          type: "item",
+          item: {
+            id: "minecraft:smithing_table",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0451EEC6B8FC4440",
+          type: "item",
+          item: {
+            id: "constructionstick:copper_stick",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -12.0,
+      y: -12.5,
+      shape: "heart",
+      dependencies: [
+        "6D0985E3580D62C1",
+      ],
+      size: 1.0,
+      id: "24742A241F35B867",
+      tasks: [
+        {
+          id: "0F7C0C2742265D5F",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cookingforblockheads:counters)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "10447893BA50C83F",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -10.5,
+      y: -12.5,
+      shape: "heart",
+      dependencies: [
+        "24742A241F35B867",
+      ],
+      size: 1.0,
+      id: "28B6651D98B60D96",
+      tasks: [
+        {
+          id: "3CB19DD690C8BB85",
+          type: "item",
+          item: {
+            id: "cookingforblockheads:recipe_book",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0FBF4F461FDB2A87",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -11.5,
+      y: -14.0,
+      dependencies: [
+        "24742A241F35B867",
+      ],
+      size: 1.0,
+      id: "22EFD8ECF479E6B6",
+      tasks: [
+        {
+          id: "4A612EE371552643",
+          type: "item",
+          item: {
+            id: "cookingforblockheads:cow_jar",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6B35F2844C52AF17",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 3.5,
+      y: -14.0,
+      dependencies: [
+        "52B38905A7A9907F",
+      ],
+      size: 1.0,
+      id: "08E64A24B16B217F",
+      tasks: [
+        {
+          id: "49C9965E6ACE8AA6",
+          type: "item",
+          item: {
+            id: "caveopolis:speedy_ladder",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "681F32B04C06BCA8",
+          type: "item",
+          item: {
+            id: "caveopolis:speedy_ladder",
+            count: 1,
+          },
+          count: 5,
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: -14.0,
+      dependencies: [
+        "1DBDBA0B2ECE55F1",
+      ],
+      size: 1.0,
+      id: "42AEED14C921691B",
+      tasks: [
+        {
+          id: "2FF4A0C559C8C4F7",
+          type: "item",
+          item: {
+            id: "minecraft:gunpowder",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "44B0FEA8E470F82D",
+          type: "item",
+          item: {
+            id: "minecraft:gunpowder",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 8.0,
+      y: -14.0,
+      dependencies: [
+        "42AEED14C921691B",
+      ],
+      size: 1.0,
+      id: "6513EB4A717F976E",
+      tasks: [
+        {
+          id: "50BEFB2EFAFC2103",
+          type: "item",
+          item: {
+            id: "minecraft:firework_rocket",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0C5379563D249262",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 9.0,
+      y: -14.0,
+      dependencies: [
+        "6513EB4A717F976E",
+      ],
+      size: 1.0,
+      id: "60694D06AC598239",
+      tasks: [
+        {
+          id: "46D0700D1788955E",
+          type: "item",
+          item: {
+            id: "flightblocks:flight_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1AAD66BAE4F957D0",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

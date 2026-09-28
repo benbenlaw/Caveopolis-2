@@ -1,0 +1,16 @@
+### Changes 
+- BREAK ALL CASTING STORING BLOCKS BEFORE UPDATING, YOU WILL LOSE ITS FLUID AND ITEM INVENTORIES IF YOU DONT
+- Updated Mods
+- Updated Yuki textures
+- Fixed Item Repairer speed
+- Added all Classic Pipes to Pipe Connector tags
+- Quests can now be clicked through to view recipes
+- Quests that needed tags now use tags
+- Tweaked recipes and quests in the Seeds questline
+- Changed Infusion Altar and Pedestal reciep to use Red Stone not Red Wool
+- Inverted Pipes can now be made with Redstone Torches or Levers
+- Increased stack size of Ice Cubes, Snow Balls and Ender Pearls
+- Added Adrenaline (NEW WIP MOD) allows you to craft Adrenaline Shots to speed up entities, doesnt show in JEI use quest to view the recipe
+- Pitcher Pod and Torchflower Seeds can now be grown in the Cloche
+- Changed Item Collector recipe
+- Tweaked sniffy sniffer drop rates for Suspicious Sand and Suspicious Gravel

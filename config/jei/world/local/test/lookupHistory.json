@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"caveopolis:improved_sonar_cannon"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"caveopolis:sonar_cannon"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stone_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

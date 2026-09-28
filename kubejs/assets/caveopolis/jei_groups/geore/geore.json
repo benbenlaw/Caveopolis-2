@@ -1,0 +1,12 @@
+{
+  "name": "Geore",
+  "icon": "geore:coal_shard",
+  "items": [
+    "@geore"
+  ],
+  "border_color": "#FFBA1E19",
+  "background_color": "#40BA1E19",
+  "overlay_tint": "#40BA1E19",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

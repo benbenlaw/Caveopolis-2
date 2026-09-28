@@ -1,0 +1,43 @@
+{
+    "keys": [
+        {
+ 			"name": "output",
+			"role": "output",
+			"type": "item_stack"
+	
+        },
+        {
+ 			"name": "inputs",
+			"role": "input",
+            "type": {
+				"type": "list",
+				"component": "sized_ingredient",
+				"spread": "sized_ingredient"
+			}
+        },
+        {
+            "name": "energy",
+            "role": "other",
+            "type": "int",
+            "function_names": ["energy"],
+	        "optional": 1000,
+            "always_write": true
+        },
+        {
+            "name": "experience",
+            "role": "other",
+            "type": "float",
+            "function_names": ["experience"],
+	        "optional": 0.3,
+            "always_write": true
+        },
+        {
+            "name": "is_smelting",
+            "role": "other",
+            "type": "boolean",
+            "function_names": ["isSmelting"],
+	        "optional": false,
+            "always_write": true
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+  "quest.5512C8493485B010.quest_desc": [
+    "Faster mining ",
+  ],
+  "quest.48DCC2C951B04764.quest_desc": [
+    "Crafted from &#8B4513&lLogs&r&r",
+  ],
+  "quest.49BE1AA92F3481CC.quest_desc": [
+    "For all your storage solutions. Mass storage using drawers",
+  ],
+  "quest.61D20156EA44405D.quest_desc": [
+    "Smelted &9&lClay Bucket&r&r can be used to move fluids around, Hot fluids not so much...",
+  ],
+  "quest.733D8F1435302FBB.quest_desc": [
+    "&lCave Sweet Cave&r",
+  ],
+  "quest.025F7EF53C37D461.quest_desc": [
+    "&lMeshes&r are used inside a &lStrainer&r to obtain resource from blocks. The first one we can make is a &#8B4513&lWooden Mesh&r&r",
+  ],
+  "quest.49BE1AA92F3481CC.title": "Functional Storage",
+  "quest.77A395AAEC110F24.quest_desc": [
+    "Allows the placing of up to 8 blocks at once",
+  ],
+  "quest.32C8C15E8949D223.quest_desc": [
+    "&8&lCobblestone&r&r can be used to make a &8&lCrafting Table&r&r",
+  ],
+  "quest.51BD0FA8B18D1346.quest_desc": [
+    "Simple block of &2&lWool&r&r",
+  ],
+  "quest.4914C972A4B18C3A.quest_desc": [
+    "A &lBone Block&r can be used to make a &2&lSapling Grower&r&r",
+  ],
+  "quest.7D7C367BB5F40AAA.quest_desc": [
+    "When breaking &8&lGravel&r&r with a &lHammer&r you will sometimes get &e&lSand Dust&r&r",
+  ],
+  "quest.7F5841CE18B21DB3.quest_desc": [
+    "&8&lStone Pebbles&r&r can be used to make &8&lCobblestone&r&r ",
+  ],
+  "quest.0AC010652B6FAAFB.quest_desc": [
+    "A &8&lFurnace&r&r can be used to &lSmelt&r items ",
+  ],
+  "task.5C6C0806B53EAA15.title": "Any #minecraft:leaves",
+  "quest.11824D34B0F5FAB5.quest_desc": [
+    "Obtained when breaking &2&lLeaves&r&r with &lShears&r",
+  ],
+  "task.69953BC0BE899452.title": "More Leaf Piles",
+  "quest.77AD52641F5FE57D.quest_desc": [
+    "Almost usable ",
+  ],
+  "quest.5F6193F62434BCC3.quest_desc": [
+    "Crafted with &2&lLeaf Piles&r&r",
+  ],
+  "quest.729E27AAB9423A9F.quest_desc": [
+    "Simple item movement",
+  ],
+  "quest.35A26421FAAF42FC.quest_desc": [
+    "&lGlass Bottles&r can be filled by right clicking on a &1&lWater Source&r&r block",
+  ],
+  "quest.4FEBE922A858AF19.quest_desc": [
+    "When breaking &8&lCobblestone&r&r with a &lHammer&r you will get some &8&lGravel Pebbles&r&r",
+  ],
+  "quest.4742A5485B52CD6A.quest_desc": [
+    "Smelted &e&lSand&r&r",
+  ],
+  "quest.406563DD9A729437.quest_desc": [
+    "When breaking &8&lDirt&r&r with a &lHammer&r you will sometimes get some &2&lLeaf Piles&r&r",
+  ],
+  "quest.787D9F3B592FA49D.quest_desc": [
+    "When using the &l&2Sapling Bag&r&r on a &#8B4513&lDirt&r&r block it will create a random &2&lSapling&r&r",
+  ],
+  "quest.179733BC3BD31458.quest_desc": [
+    "When breaking &8&lDust Blocks&r&r with a &lHammer&r you will sometimes get some &lBone Meal&r",
+  ],
+  "quest.04E55613C21B65B5.quest_desc": [
+    "Crafted from &lGlass&r",
+  ],
+  "quest.11C316EB7921A528.quest_subtitle": "Unlocks new Shop Items...",
+  "quest.46F1066733254259.quest_desc": [
+    "Basic &lShears&r",
+  ],
+  "quest.34C1D5AF393B7784.quest_desc": [
+    "Its just like &lString&r",
+  ],
+  "task.53A2FEE2F4228C73.title": "Any #c:chests/wooden",
+  "quest.4CBBC984FBE99387.title": "Easy Storage",
+  "quest.628181705D32A86F.quest_desc": [
+    "Crafted with &8&lDust&r&r",
+  ],
+  "quest.574F3682A221135E.quest_desc": [
+    "&9&lClay Balls&r&r can be found when &lStraining&r &#8B4513&lMud&r&r",
+  ],
+  "quest.79AF93F3F4D1C0F6.quest_desc": [
+    "When breaking &8&lGravel&r&r with a &lHammer&r you will sometimes get &#8B4513&lDirt Piles&r&r",
+  ],
+  "quest.44E4456E2172CD2C.quest_desc": [
+    "&8&lFlint&r&r can be found when &lStraining&r &8&lGravel&r&r. Some Strainer recipe require a fluid, this needs &1&lWater&r&r. &1&lWater&r&r can be added by right clicking on the strainer with &1&lWater Drops&r&r",
+  ],
+  "quest.11C316EB7921A528.quest_desc": [
+    "We did it &lPunch Tree Get Wood&r",
+  ],
+  "task.2E9CDA478C24BBDD.title": "Any #minecraft:saplings",
+  "quest.48DCC2C951B04764.title": "Planks",
+  "quest.626C384F9B0BE4F7.quest_desc": [
+    "When breaking &e&lSand&r&r with a &lHammer&r you will sometimes get some &2&lDust&r&r",
+  ],
+  "quest.5D1B85951027B222.quest_desc": [
+    "&2&lLeaves&r&r can drop &2&lLeaf Piles&r&r when broken using a &#8B4513&lStick&r&r at a chance",
+  ],
+  "quest.787D9F3B592FA49D.title": "Sapling",
+  "quest.74F8001C9715CD98.quest_desc": [
+    "Mines a 3x3 area better than a normal pickaxe",
+  ],
+  "task.6940F017F33C91AC.title": "Any #minecraft:logs",
+  "quest.0E017E0954E0B80A.quest_desc": [
+    "Crafted with &e&lSand Dust&r&r",
+  ],
+  "quest.1E363EDF5DBF5EAC.quest_desc": [
+    "&8&lStone&r&r can be made in the &8&lFurnace&r&r from &8&lCobblestone&r&r. &#8B4513&lSticks&r&r can be used as fuel",
+  ],
+  "quest.21D4FEE49B91B844.quest_desc": [
+    "Crafted with &#8B4513&lDirt Piles&r&r",
+  ],
+  "quest.3FBF87B0F2B08C13.quest_desc": [
+    "Right clicking on a &#8B4513&lDirt&r&r block with a &1&lWater Bottle&r&r will create &#8B4513&lMud&r&r",
+  ],
+  "quest.62367295F2ED87C2.quest_desc": [
+    "When breaking &8&lDirt&r&r with a &lHammer&r you will sometimes get &#8B4513&lSticks&r&r",
+  ],
+  "task.4145BC558614B658.title": "Any #minecraft:planks",
+  "quest.5D3C3E69D68AB405.quest_desc": [
+    "&8&lStone&r&r can be broken with your hands to get &8&lStone Pebbles&r&r",
+  ],
+  "quest.11824D34B0F5FAB5.title": "Leaves",
+  "task.525C2A6D23BCCE47.title": "Any #functionalstorage:drawer",
+  "quest.75C3B28FD782BD15.quest_desc": [
+    "Crafted with &8&lGravel Pebbles&r&r",
+  ],
+  "quest.7593B5C53F69C6AC.quest_desc": [
+    "A &8&lStone Hammer&r&r can be used to &lPulverize&r some blocks down",
+  ],
+  "quest.52991548E4BF5BA0.quest_desc": [
+    "A block of a block",
+  ],
+  "quest.0179DCBCBDAF9F55.quest_desc": [
+    "The &lShop Block&r works like the &lShop&r in your inventory but allows you to automatically buy and sell items.",
+    "",
+    "A &lPlayer Balance Card&r must be placed inside for this to work, bound the card with shift right click",
+  ],
+  "quest.11C316EB7921A528.title": "Logs",
+  "quest.4CBBC984FBE99387.quest_desc": [
+    "Basic Storage",
+  ],
+  "quest.27DFEF0103DEF0EB.quest_desc": [
+    "A simple &8&lStone Rod&r&r used to make a &lHammer&8&r&r",
+  ],
+  "quest.52EC37F1786E844E.quest_desc": [
+    "Works just like the &1&lWater Drop&r&r except it makes &8&lEroding Water&r&r instead.",
+    "",
+    "&8&lEroding Water&r&r can be used in a &lStrainer&r to break down blocks like &8&lCobblestone&r&r to &8&lGravel&r&r",
+  ],
+  "quest.314519CDC63C8C6E.quest_desc": [
+    "&#8B4513&lSticks&r&r can be turned into &lTorches&r in the &8&lFurnace&r&r",
+  ],
+  "quest.5EE414463028470E.quest_desc": [
+    "The &8&lFlint Mesh&r&r is the next tier of &lMesh&r allowing for better chances as well as new resources to be found",
+  ],
+  "quest.1A54077F8F9BB446.quest_desc": [
+    "A basic &lStrainer&r just requires a Mesh inside to work ",
+  ],
+  "quest.060BC8E865394692.quest_desc": [
+    "A &1&lWater Drop&r&r can be obtained when &lStraining&r &2&lMulch&r&r inside a &lStrainer&r.",
+    "",
+    "When holding 4 &1&lWater Drops&r&r and right clicking in world will place a source block of &1&lWater&r&r. ",
+    "",
+    "&1&lWater Drops&r&r can be used on the &lStrainer&r to fill with &1&lWater&r&r",
+  ],
+  "quest.46BF27438D19CC8E.quest_desc": [
+    "Can be used to grow &2&lSaplings&r&r instantly providing there is enough space for it",
+  ],
+  "quest.48BB019808A704AE.quest_desc": [
+    "&2&lSaplings Bags&r&r are again obtained when &lStraining&r &l&2Mulch&r&r ",
+  ],
+}

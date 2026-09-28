@@ -1,0 +1,18 @@
+### Changes 
+- Updated Mods
+- Updated Yuki Textures
+- Updated Neoforge to 26.1.2.95
+- Moved to Beta releases
+- Added Skyblock Buidler
+- Fixed crashes with Refined Sticks and Applied Sticks with latest Construction Sticks update
+- Added world spawn on new world creation
+- Added 2 templates Small Caves (default, small room) and Mossy Cave (much bigger starting area)
+- Removed Caveopolis temp world set up solution
+- Fixed Caveopolis custom biome name not being translated
+- Changed world gen options to only have caveopolis (skyblock), for debug and testing purposes hold ALT whilst selecting world types to see all
+- Removed Caveopolis villager trades
+- Temp removed Routers Facades 
+- Fixed shop icon textures in quests
+- Casting has new fuels and coolants
+- Fixed some issues Mulitblock Solidifier 
+- Fixed some issues with Solidifer

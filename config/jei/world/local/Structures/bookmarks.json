@@ -1,0 +1,9 @@
+[
+  {"version":3},
+  {"ingredient":{"id":"minecraft:crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"strainers:strainer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"enderio:alloy_smelter","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"skyblockbuilder:structure_saver","components":"{\"skyblockbuilder:positions\":{CanSave:1b,Position1:[I;88,-54,-145],Position2:[I;125,-43,-104]},\"skyblockbuilder:structure_saver_settings\":{name:\"spawn\",nbt_to_snbt:1b}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"caveopolis:chisel/smashing_rock","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"caveopolis:diamond_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

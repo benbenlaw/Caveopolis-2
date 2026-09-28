@@ -1,0 +1,16 @@
+### Changes 
+- Updated Mods
+- Updated Yuki Textures
+- Fixed Resource Generator not resetting after recipe completion
+- Chicken Summoning now uses Wheat Seeds
+- Farmer now sells Beehives containing Bees
+- Banned more seeds
+- Added Colors Group for JEI, still wip
+- Amethyst Essence can now be used to make Amethyst Blocks
+- Sky Stone now obtianed when burning matter blocks, same as grains of infinity 
+- Protection, Beheading and Sharpness Modifiers now work better and/or correctly 
+- FIxed some Ore Piece colors
+- Shop now allows for shift clicking 
+- Shop no shows current mode in the window title
+- Routers shift clicking into exporters now works correctly
+- Routers exporter now drops upgrades when broken

@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Black",
+  "icon": "colors:black_asteroid",
+  "items": [
+    "colors:black_*"
+  ],
+  "border_color": "#FF000000",
+  "background_color": "#401D1D21",
+  "overlay_tint": "#401D1D21",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

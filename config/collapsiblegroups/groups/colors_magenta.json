@@ -1,0 +1,564 @@
+{
+  "id": "colors_magenta",
+  "name": {
+    "translate": "collapsible_groups.group.colors_magenta",
+    "fallback": "Colors: Magenta"
+  },
+  "enabled": true,
+  "filter": {
+    "any": [
+      {
+        "type": "item",
+        "id": "colors:magenta_triple_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_triple_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_triple_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_sandstone"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_sandstone_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_sandstone_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_sandstone_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_sandstone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_sandstone_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_stone_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_tile_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_tile_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_tile_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_tile_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_tile_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_tiles"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_triple"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_triple_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_triple_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_road_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_road_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_road_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_road_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_road_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_road"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_prismarine"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_polished_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_polished_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_polished_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_polished_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_polished_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_polished"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_mosaic_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_mosaic_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_dark_prismarine"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_mosaic_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_dark_prismarine_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_dark_prismarine_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_dark_prismarine_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_dark_prismarine_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_dark_prismarine_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_encased"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_encased_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_encased_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_encased_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_encased_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_encased_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_marble_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_mosaic"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_mosaic_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cracked_stone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_mosaic_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cracked_stone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cracked_stone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cracked_stone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cracked_stone_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cracked_stone_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_cobblestone"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_chaotic_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_chaotic_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_chaotic_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_chaotic_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_chaotic_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_chaotic"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_brick_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_brick_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_brick_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_bricks"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_tile_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_tile_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_tile_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_tile_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_tile_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_tiles"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_asteroid_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_braid"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_braid_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_braid_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_braid_slab"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_braid_stairs"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_braid_wall"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_brick_button"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_brick_pressure_plate"
+      },
+      {
+        "type": "item",
+        "id": "colors:magenta_brick_slab"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+[recursive_recipe_search]
+	#Maximum depth used when planning recursive crafts.
+	#Minimum: 1
+	maxRecursiveDepth = 6
+	#Maximum number of simulation passes per refresh.
+	#Minimum: 1
+	maxRecipePasses = 128
+	#Maximum number of craftable results sent to the client list.
+	#Minimum: 16
+	maxResults = 2048
+	#Safety limit used to prevent infinite recursive planning loops.
+	#Minimum: 32
+	maxCraftPlanSteps = 512
+	#Maximum number of recipe attempts per refresh.
+	#The recipe cache itself still keeps every shaped/shapeless recipe so dependencies like log -> planks are not lost.
+	#Minimum: 64
+	maxRecipesPerRefresh = 10000
+	#Minimum client-side delay between manual refresh requests, in ticks.
+	#Minimum: 0
+	refreshDebounceTicks = 8
+	#Ignores identical craft clicks that arrive too close together. Protects against double packets and accidental double-clicks.
+	#Minimum: 0
+	craftClickDebounceTicks = 4
+	#Maximum time budget for one recipe search in milliseconds. 0 disables the time budget; closing the menu or starting a new refresh still cancels the scan.
+	#Minimum: 0
+	maxRecipeSearchMillis = 0
+	#Excludes the player hotbar from recipe search and item consumption.
+	excludeHotbarFromSearch = true
+	#Uses the block inventory as an additional material source.
+	includeBlockInventory = true
+	#Caches the server recipe list for each RecipeManager instance.
+	enableServerRecipeCache = true
+	#Skips dynamic/special recipes to avoid impossible or unsafe results.
+	skipSpecialRecipes = false
+	#Automatically computes the recipe list when the menu opens.
+	updateOnMenuOpen = true

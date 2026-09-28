@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Orange",
+  "icon": "colors:orange_asteroid",
+  "items": [
+    "colors:orange_*"
+  ],
+  "border_color": "#FFF9801D",
+  "background_color": "#40F9801D",
+  "overlay_tint": "#40F9801D",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

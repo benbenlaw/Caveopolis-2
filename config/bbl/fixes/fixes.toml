@@ -1,0 +1,6 @@
+#BBL Fixes Startup Config
+["BBL Fixes"]
+	#Enable fix for LootJS when using tags in loot conditions, default = false
+	"Enable LootJS fix" = true
+	#Prevents classic pipes from extracting if the pipe is full, also adds a hard limit of 64 to the classic pipe to prevent huge amounts of items building up, default = false
+	"Enable Classic Pipes fix" = true

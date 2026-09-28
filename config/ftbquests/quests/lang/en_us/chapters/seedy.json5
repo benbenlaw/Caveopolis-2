@@ -1,0 +1,174 @@
+{
+  "quest.506E21E99298E7DB.quest_desc": [
+    "Made with &lInfusion&r",
+  ],
+  "quest.52681562F183413F.quest_desc": [
+    "These seeds allow you to craft &lTier 1 Seeds&r",
+  ],
+  "quest.33BC4AB4DBE5A00F.quest_desc": [
+    "Can be found when &lStraining&r &a&lLime Stone&r&r",
+  ],
+  "quest.7C66E941384CBA19.quest_subtitle": "Unlocks new Shop Items...",
+  "quest.558E2654CBEAE9AB.quest_desc": [
+    "Made with &lInfusion&r",
+  ],
+  "quest.7C0F00D88702FC5C.quest_desc": [
+    "Made with &lInfusion&r",
+  ],
+  "quest.059A6D0F10C0471E.quest_desc": [
+    "Its just a &lEmpty Heart&r",
+  ],
+  "quest.53109644B9854B11.quest_desc": [
+    "Can be found when &lStraining&r &4&lPurified Netherack&r&r",
+  ],
+  "task.092F3D74E79E476E.title": "Any #caveopolis:mystical_seed_1",
+  "quest.5C7C844F32375C44.quest_desc": [
+    "&4&lPurified Netherack&r&r is a resource rich block. Contains &lOre Pieces&r",
+  ],
+  "quest.3B7FF1A61C653118.quest_desc": [
+    "Allows the creation of some fluids like &l&1Water&r&r and &4&lLava&r&r",
+  ],
+  "quest.4D106648F8C74387.quest_desc": [
+    "The &lIron Mesh&r is the next tier of &lMesh&r allowing for better chances as well as new resources to be found",
+  ],
+  "quest.7DCB2430D009CFFE.quest_desc": [
+    "&lMystical&r and Mag&lical&r",
+  ],
+  "quest.1AD01FD4435B443F.quest_desc": [
+    "Allows you to go deeper inside the &lCaves&r",
+  ],
+  "quest.59079416306329E6.quest_desc": [
+    "Using the &8&lExplorers Compass&r&r you can find a few &lStructures&r in the world. A &2&lFarm&r&r could be useful",
+    "",
+    "&l&2Structure Y Level 190&r&r",
+  ],
+  "quest.51A7060897790D2A.quest_desc": [
+    "The base of all seeds ",
+  ],
+  "quest.032761D45906F41E.quest_desc": [
+    "Your first tier of &lSeeds&r",
+  ],
+  "quest.6D70CC9FF8B493C1.quest_desc": [
+    "Found in the &lCaves&r keep digging down!",
+  ],
+  "quest.1BC4BE677D5ABCC8.quest_desc": [
+    "&lFarmer Joe&r already knows he can trust you. He hold the first &lProsperity Shards&r you need",
+  ],
+  "quest.1AD01FD4435B443F.quest_subtitle": "One of the Depth Charms",
+  "quest.24032F739D37EA0F.quest_desc": [
+    "Made with &lInfusion&r",
+  ],
+  "quest.1582C1E3DF3E6796.quest_desc": [
+    "Can be found when &lStraining&r &a&lGreen Stone&r&r",
+  ],
+  "quest.640FFDC65C1E73AE.quest_desc": [
+    "The &lInfusion Altar&r can be used to infuse essence into seeds and other items",
+  ],
+  "quest.2F55F4C48C3BA82A.quest_desc": [
+    "&lFarmer Joe&r will sell you these",
+  ],
+  "quest.27D995F9997CC781.quest_desc": [
+    "Using &lTorchflower Seeds&r and &2&lInferium&r&r you can craft &2&lInferium Seeds&r&r. This seed must be placed on &2&lInferium Farmland&r&r to grow",
+  ],
+  "quest.2D8B7D42EF8E8EDC.quest_desc": [
+    "The &lAwakening Altar&r requires 4 &lPedestals&r around it in order to work",
+  ],
+  "quest.74CF64086478FAAA.quest_desc": [
+    "&5&lObsidian&r&r can be made in a few different ways. It's a alloy of &1&lWater&r&r and &4&lLava&r&r",
+  ],
+  "quest.302C2497B346E4D6.quest_desc": [
+    "&lFarmer Joe&r will sell you these",
+  ],
+  "quest.4084B8E56DA8A1AB.quest_desc": [
+    "Some &lMystical Agriculture&r crops require a &lCruz&r below the farmland in order to grow, The &lBase Crux&r is the base of all &lCrux's&r",
+  ],
+  "quest.124610E2F4303D0A.quest_desc": [
+    "A powerful crystal used to digital storage ",
+  ],
+  "quest.55A3A8BFC2E6213C.quest_desc": [
+    "A combination of all the base &lElements&r creates &lElemental Seeds&r",
+  ],
+  "quest.6DCE22ED693FFAF3.quest_desc": [
+    "Grown from &lElemental Seeds&r",
+  ],
+  "quest.685CF97CAF07AA6F.quest_desc": [
+    "Made inside the &lStrainer&r",
+  ],
+  "quest.3490141EA05F010C.quest_desc": [
+    "Made by &lInfusing&r &l&2Inferium&r&r and &lElemental Essence&r into a &lEmpty Heart&r",
+  ],
+  "quest.62D58C4FEDCAD7E7.quest_desc": [
+    "Found in the &lCaves&r keep digging down!",
+  ],
+  "quest.4CE405477E196F73.quest_desc": [
+    "Speeds up crop growth within a 3x3 area in front of it. Requires &8&lCoal&r&r or &lPower&r to run as well as &lFertilizer&r items like &d&lMystical Fertilizer&r&r",
+  ],
+  "quest.33E944EDD477DCBE.quest_desc": [
+    "The &lHarvester&r can &lHarvest&r crops within a 3x3 area in front of it. Requires &8&lCoal&r&r or &lPower&r to run",
+  ],
+  "quest.79C14E6B9AE455AF.quest_desc": [
+    "The &lAwakening Altar&r requires 4 &lVessels&r around it in order to work. &lEssence&r is added to these &lVessels&r for recipes to work",
+  ],
+  "quest.678EA9519AFC56ED.quest_desc": [
+    "A base upgrade for &lMystical Agriculture Machines&r",
+  ],
+  "quest.601C680A8CAE5327.quest_desc": [
+    "Allows the creation of some blocks like &lColored Stone&r",
+  ],
+  "quest.1C525C1E3F7189A4.quest_desc": [
+    "Found in the &lCaves&r keep digging down!",
+  ],
+  "quest.45F8723942B3BE6D.quest_desc": [
+    "Crafted with &lDepleted Drops&r and &4&lFire Essence&r&r",
+  ],
+  "quest.2ACBA6CF9BD2E7DA.quest_desc": [
+    "Made with &lInfusion&r",
+  ],
+  "quest.01F4EE38922CB4D6.quest_desc": [
+    "The &lAwakening Altar&r can be used to infuse items with even more essence",
+  ],
+  "quest.0451DB2C640F0D47.quest_desc": [
+    "The &lInfusion Altar&r requires 8 &lPedestals&r around it in order to work",
+  ],
+  "quest.2DD28356FBE36277.quest_desc": [
+    "The first upgrade",
+  ],
+  "quest.569697C92C5805C8.quest_desc": [
+    "&lFarmer Joe&r will sell you these",
+  ],
+  "quest.26924391EB6454BE.quest_desc": [
+    "Crafted with &8&lOre Pieces&r&r. Ores can then be broken ",
+  ],
+  "quest.5565F9EC9B2C85C8.quest_desc": [
+    "This is a special block that allows the &lSummoning Block&r to spawn more passive animals like &lPigs&r and &lCows&r",
+  ],
+  "quest.05CF1D767EB4FEB2.quest_desc": [
+    "A basic ingot",
+  ],
+  "quest.1701D38FDE2FA4DA.quest_desc": [
+    "Crafted with &8&lOre Pieces&r&r. Ores can then be broken ",
+  ],
+  "quest.5998618B428666A2.quest_desc": [
+    "Made with &lInfusion&r",
+  ],
+  "quest.4D106648F8C74387.quest_subtitle": "Unlocks new Shop Items...",
+  "quest.032761D45906F41E.title": "First Mystical Seeds",
+  "quest.4BE278A2AE8390C9.quest_desc": [
+    "&lFarmer Joe&r will sell you these",
+  ],
+  "quest.70E9065897B098D8.quest_desc": [
+    "Can be found when &lStraining&r &4&lPurified Netherack&r&r",
+  ],
+  "quest.7C66E941384CBA19.quest_desc": [
+    "Must be placed below &2&lInferium Farmland&r&r to grow &lElemental Seeds &r",
+  ],
+  "quest.3C1651F82F9DFAC2.quest_desc": [
+    "Made with &lInfusion&r",
+  ],
+  "quest.5F11CA494388DB30.quest_desc": [
+    "Crafted with &8&lOre Pieces&r&r. Ores can then be broken ",
+  ],
+  "quest.67B1C4B0951EB675.quest_desc": [
+    "Made with &lInfusion&r",
+  ],
+}

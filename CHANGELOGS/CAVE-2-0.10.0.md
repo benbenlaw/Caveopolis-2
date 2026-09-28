@@ -1,0 +1,23 @@
+### Changes 
+- Updated Mods
+- Updated Neoforge to 26.1.2.109
+- Updated Crash Assistant info
+- Importers (Routers) will need to be reconfigured if you were filtering inputs
+- Made Vanilla Sniffers faster
+- Changed Sonar Event to exclude dimension check
+- Fixed bedrock shard conversion
+- Fixed some Mystical Block recipes still being present
+- Shimmer Stones and Toprock now explosion proof
+- Shimmer Stones can now be removed by using a eroding drop on them
+- Fixed some quest rewards
+- Fixed hammers not using the correct repair materials
+- Fixed hammers not havingt the correct tool tier
+- Upgrader now works with hammers
+- JEI now shows LootJS loot from Advnaced Loot Information Mod
+- Added missing Glowstone Dust recipe
+- Added new Experience Boost modifier
+- Upgrader and Modifier now shift click into slots better
+### Known Issues
+- Wooden Hopper voiding items when shift clicking inside them
+- https://github.com/BlakeBr0/ExtendedCrafting/issues/222 (Crafting Core Bug)
+- https://github.com/Buuz135/FunctionalStorage/issues/523 Fluid Drawers voiding when a fluid drawer is used on it 

@@ -1,0 +1,12 @@
+{
+  "name": "Colors: White",
+  "icon": "colors:white_asteroid",
+  "items": [
+    "colors:white_*"
+  ],
+  "border_color": "#FFF9FFFE",
+  "background_color": "#40F9FFFE",
+  "overlay_tint": "#40F9FFFE",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

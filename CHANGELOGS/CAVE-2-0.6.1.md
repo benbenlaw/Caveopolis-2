@@ -1,0 +1,11 @@
+### Changes 
+- Updated Mods
+- Change Black Gold tier to tier 7 (emerald)
+- Removed mining fatigue from punishments for going to low
+- Added block break protection when trying to mine block below the level you are at 
+- Fixed sign missing text in spawn
+- Removed Charged Certus Quartz Crystals from the Certus Quartz Crystal gems tag
+- Added Charged Certus casting recipes
+- Banned Infusion Crystal from Modifier
+- Fixed server properties referencing fracture 
+- Fixed Silicon recipe (Casting)

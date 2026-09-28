@@ -1,0 +1,17 @@
+{
+  "modpackName": {
+    "comments": ["The name of the modpack"],
+    "value": "Caveopolis 2"
+  },
+  "modpackVersion": {
+    "comments": ["The version of the modpack"],
+    "value": "0.12.0"
+  },
+  "useMetadata": {
+    "comments": [
+      "Use the metadata.json to determine the modpack version",
+      "ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING"
+    ],
+    "value": false
+  }
+}

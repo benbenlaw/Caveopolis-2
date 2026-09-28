@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"ae2:yellow_smart_cable"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"colors:red_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

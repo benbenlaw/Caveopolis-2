@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Lime",
+  "icon": "colors:lime_asteroid",
+  "items": [
+    "colors:lime_*"
+  ],
+  "border_color": "#FF80C71F",
+  "background_color": "#4080C71F",
+  "overlay_tint": "#4080C71F",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

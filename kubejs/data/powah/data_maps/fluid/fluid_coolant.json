@@ -1,0 +1,19 @@
+{
+  "values": {
+    "#c:water": {
+      "temperature": 0
+    },
+    "casting:chilled_water": {
+      "temperature": -5
+    },
+    "casting:iced_water": {
+      "temperature": -6
+    },
+    "casting:super_coolant": {
+      "temperature": -7
+    },
+    "casting:glacium": {
+      "temperature": -10
+    }
+  }
+}

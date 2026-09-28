@@ -1,0 +1,24 @@
+### Changes 
+- This is a smaller update than I wanted to do due to illness
+- Updated Mods
+- Omnithium Mesh max stack size is 1 now
+- Omnithium Template recipe now makes 2 templates
+- Shop Player Blance Card can now be taken out of the Shop Block
+- Shop Block now drops itself when broken
+- Fixed B Buck Singularity recipe
+- End City structure token now has the right loot table
+- Fixed "crash" / freeze when shift clicking a token when a token is already present in the Loot Generator 
+- Entity loot now parses the player (fake player) as the killer which allows for drops like blaze rods from blazes 
+- Tokens now show the id in the name to make it easier to find in the token you want in JEI 
+- Added most minecraft entities token
+- Tweaked Multiblock Interface behaviour
+- Added annihilation plane (AE2) to banned modifiers tag
+- Fixed Omnithium Template recipe
+- Fixed Shop loot table and breaking speed
+- Shop now allows Player Balance Card to be taken out of slot 
+- Summoning Block can now be piped into
+- Summoning Block no requires no entity above in order to run the recipe
+### Known Issues
+- https://github.com/Buuz135/FunctionalStorage/issues/523 Fluid Drawers voiding when a fluid drawer is used on it 
+- https://github.com/BlakeBr0/ExtendedCrafting/issues/223 Shift clicking into crafting tables from this mod void items!
+- https://github.com/BlakeBr0/MysticalAgriculture/issues/883 burnable fuels inside spawner crashes 

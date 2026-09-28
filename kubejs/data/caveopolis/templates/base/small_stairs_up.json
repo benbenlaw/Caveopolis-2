@@ -1,0 +1,30 @@
+{
+  "template_id": "caveopolis:base/small_stairs",
+  "name": "Small Stairs (Up)",
+  "block_target": "*",
+  "placement_options": {
+    "height_adjustment": 3,
+    "front_adjustment": -1,
+    "rotation": "none",
+    "side_only_placement": true,
+	  "max_height": 306
+  },
+    "restriction_options": {
+    "blocks_required": true,
+    "override_existing_blocks": true,
+    "replace_waterlogged_blocks": true,
+	  "show_in_placer": true,
+	  "placer_position": 250
+  },
+    "palettes": {
+	  "minecraft:cobblestone_stairs": [
+      "#caveopolis:roof_materials_stairs"
+    ],
+    "minecraft:stone": [
+		"#caveopolis:wall_materials"
+	],
+	  "minecraft:stone_brick_stairs": [
+		  "#caveopolis:floor_materials_stairs"
+	  ]
+  }
+}

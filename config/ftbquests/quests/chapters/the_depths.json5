@@ -1,0 +1,1509 @@
+{
+  id: "7951E10870A440F8",
+  group: "69C22806B8A9B843",
+  order_index: 7,
+  icon: {
+    id: "minecraft:deepslate",
+    count: 1,
+  },
+  filename: "the_depths",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  quests: [
+    {
+      x: -6.5,
+      y: -1.5,
+      dependencies: [
+        "5AE721404738CACA",
+      ],
+      size: 1.0,
+      id: "1B55CF60A43B271E",
+      tasks: [
+        {
+          id: "1A5C1C99D50468EC",
+          type: "item",
+          item: {
+            id: "strainers:netherite_mesh",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "028B5DF422051528",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -5.0,
+      y: -0.5,
+      dependencies: [
+        "1B55CF60A43B271E",
+      ],
+      size: 1.0,
+      id: "0D89B601D3D359BD",
+      tasks: [
+        {
+          id: "5F1AFEFD83DE5DE0",
+          type: "item",
+          item: {
+            id: "minecraft:end_stone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "24DFFB48745C22FF",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 6.0,
+      y: -0.5,
+      dependencies: [
+        "148A7320DC39839A",
+        "6DAC0A98698522AC",
+      ],
+      size: 1.0,
+      id: "0553FFDDE6E34B40",
+      tasks: [
+        {
+          id: "4BF0ADCE46DA4712",
+          type: "item",
+          item: {
+            id: "caveopolis:depth_charm_vii",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4FAC96687131D0E5",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 7.0,
+      y: -0.5,
+      dependencies: [
+        "0553FFDDE6E34B40",
+      ],
+      size: 1.0,
+      id: "2B2130386ECDBA47",
+      tasks: [
+        {
+          id: "0C094C91381DB349",
+          type: "item",
+          item: {
+            id: "minecraft:cobbled_deepslate",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1DF71AB7D371F3FB",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 8.0,
+      y: -0.5,
+      dependencies: [
+        "2B2130386ECDBA47",
+      ],
+      size: 1.0,
+      id: "608A22746919C761",
+      tasks: [
+        {
+          id: "1CC63E3EC6EC86C4",
+          type: "item",
+          item: {
+            id: "minecraft:deepslate",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4C50FEC1C9483B93",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 8.5,
+      y: -2.5,
+      dependencies: [
+        "372881FB70667ED2",
+      ],
+      size: 1.0,
+      id: "6FC58F07A8A7B206",
+      tasks: [
+        {
+          id: "22047F26933EC6CD",
+          type: "item",
+          item: {
+            id: "strainers:sculk_dust",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7CAB76CD5F6BC31E",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 9.0,
+      y: -3.5,
+      dependencies: [
+        "6FC58F07A8A7B206",
+      ],
+      size: 1.0,
+      id: "3E832FBBCDDAF0AD",
+      tasks: [
+        {
+          id: "7B2BF89A1681DC24",
+          type: "item",
+          item: {
+            id: "minecraft:sculk",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "557AF32E708C2BD2",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -3.0,
+      y: -0.5,
+      dependencies: [
+        "382718EA5B1A249D",
+      ],
+      size: 1.0,
+      id: "6EC6B030582D7471",
+      tasks: [
+        {
+          id: "571CEAB6DBBD6D5D",
+          type: "item",
+          item: {
+            id: "minecraft:chorus_fruit",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "096085490072494A",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 11.0,
+      y: -2.0,
+      dependencies: [
+        "0C61248B87661707",
+      ],
+      size: 1.0,
+      id: "662F9D361E6D2B7E",
+      tasks: [
+        {
+          id: "43FC0BF17B63812A",
+          type: "item",
+          item: {
+            id: "caveopolis:base_prosperity_seeds_tier_5",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0B3626D021300A4C",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 12.5,
+      y: -2.0,
+      dependencies: [
+        "662F9D361E6D2B7E",
+      ],
+      size: 1.0,
+      id: "7980F24B6785B42D",
+      tasks: [
+        {
+          id: "72D51E752E0DA8F9",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(caveopolis:mystical_seed_5)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "439AF9BCB544F2E9",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 3.5,
+      y: 0.0,
+      dependencies: [
+        "438276863711716B",
+      ],
+      size: 1.0,
+      id: "1E3C79683AFC2E85",
+      tasks: [
+        {
+          id: "30FBFF7E6897FA4A",
+          type: "item",
+          item: {
+            id: "minecraft:dragon_egg",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4EA5EE5C86F7D1CD",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 3.5,
+      y: -1.0,
+      dependencies: [
+        "438276863711716B",
+      ],
+      size: 1.0,
+      id: "0611787F94A4D04B",
+      tasks: [
+        {
+          id: "11626CD8CF45162B",
+          type: "item",
+          item: {
+            id: "minecraft:dragon_head",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3FF1D86720E5E9FF",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: -0.5,
+      dependencies: [
+        "0D89B601D3D359BD",
+      ],
+      size: 1.0,
+      id: "382718EA5B1A249D",
+      tasks: [
+        {
+          id: "263E9295707A7FD7",
+          type: "item",
+          item: {
+            id: "strainers:purified_end_stone",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4715F02A7F3942EB",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -2.0,
+      y: -0.5,
+      dependencies: [
+        "6EC6B030582D7471",
+      ],
+      size: 1.0,
+      id: "65B3F8A6A07BD708",
+      tasks: [
+        {
+          id: "60C68F837A3613D1",
+          type: "item",
+          item: {
+            id: "minecraft:popped_chorus_fruit",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3A7D7239FE59C38C",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -1.0,
+      y: -0.5,
+      dependencies: [
+        "65B3F8A6A07BD708",
+      ],
+      size: 1.0,
+      id: "7CE0B810792E5075",
+      tasks: [
+        {
+          id: "51F9029DD10A842C",
+          type: "item",
+          item: {
+            id: "minecraft:purpur_block",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2F76C375BA9975E6",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: -0.5,
+      dependencies: [
+        "7CE0B810792E5075",
+      ],
+      size: 1.0,
+      id: "602A3A95E8AED1C1",
+      tasks: [
+        {
+          id: "781C55A35C5C37D2",
+          type: "item",
+          item: {
+            id: "mysticalagriculture:end_agglomeratio",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6F6BC864FC36CD4D",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 8.5,
+      y: -1.5,
+      dependencies: [
+        "608A22746919C761",
+      ],
+      size: 1.0,
+      id: "372881FB70667ED2",
+      tasks: [
+        {
+          id: "5653904DEE239CE6",
+          type: "item",
+          item: {
+            id: "strainers:purified_deepslate",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "38097BB4E8E31316",
+          type: "item",
+          item: {
+            id: "strainers:purified_deepslate",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+    },
+    {
+      x: 9.5,
+      y: -2.5,
+      dependencies: [
+        "372881FB70667ED2",
+      ],
+      size: 1.0,
+      id: "0C61248B87661707",
+      tasks: [
+        {
+          id: "1E1CA70F8B90905C",
+          type: "item",
+          item: {
+            id: "minecraft:echo_shard",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5D1D25D63FD18CED",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 10.0,
+      y: -4.0,
+      shape: "shop",
+      dependencies: [
+        "0C61248B87661707",
+        "3E832FBBCDDAF0AD",
+        "2B5E63FE67D02A3B",
+      ],
+      size: 1.0,
+      id: "2B2301AF52D97A30",
+      tasks: [
+        {
+          id: "2110A5D4F7A9A741",
+          type: "item",
+          item: {
+            id: "caveopolis:warden_chamber",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "0AC8DE1D792EFDC8",
+          type: "command",
+          auto: "enabled",
+          command: "/bblshops tier add @p tier_9",
+          permission_level: 4,
+        },
+        {
+          id: "00C79E0B9E0EEF23",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:reinforced_deepslate",
+        count: 1,
+      },
+      x: 12.0,
+      y: -4.0,
+      dependencies: [
+        "2B2301AF52D97A30",
+      ],
+      size: 1.0,
+      id: "2EE7B6458D0B0191",
+      tasks: [
+        {
+          id: "3E4C5D57463E1D58",
+          type: "observation",
+          icon: {
+            id: "minecraft:reinforced_deepslate",
+            count: 1,
+          },
+          timer: 0,
+          observation_type: "block",
+          to_observe: "minecraft:reinforced_deepslate",
+        },
+      ],
+      rewards: [
+        {
+          id: "4F7799E996569275",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 14.0,
+      y: -4.0,
+      dependencies: [
+        "7FAAD421EBF6A01D",
+      ],
+      size: 1.0,
+      id: "311317319AF00031",
+      tasks: [
+        {
+          id: "3567ECAF60C60AED",
+          type: "observation",
+          icon: {
+            id: "ftbquests:custom_icon",
+            count: 1,
+            components: {
+              "!ftbquests:icon": {
+              },
+              "ftbquests:entity_face": "minecraft:warden",
+            },
+          },
+          timer: 0,
+          observation_type: "entity_type",
+          to_observe: "minecraft:warden",
+        },
+      ],
+      rewards: [
+        {
+          id: "0CD327027A716AF1",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 13.0,
+      y: -4.0,
+      dependencies: [
+        "2EE7B6458D0B0191",
+      ],
+      size: 1.0,
+      id: "7FAAD421EBF6A01D",
+      tasks: [
+        {
+          id: "7DD09E77BC4D2CCA",
+          type: "item",
+          item: {
+            id: "minecraft:sculk_shrieker",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7BD5C4C141B1F278",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 1.0,
+      y: -0.5,
+      dependencies: [
+        "602A3A95E8AED1C1",
+      ],
+      size: 1.0,
+      id: "00B2C8AE6A096F52",
+      tasks: [
+        {
+          id: "6EADC578DEC75429",
+          type: "item",
+          item: {
+            id: "mysticalagriculture:end_seeds",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "046D30BA8AB2F048",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 2.0,
+      y: -0.5,
+      dependencies: [
+        "00B2C8AE6A096F52",
+      ],
+      size: 1.0,
+      id: "438276863711716B",
+      tasks: [
+        {
+          id: "2298BE0BCD74EE80",
+          type: "item",
+          item: {
+            id: "mysticalagriculture:end_essence",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2557A1493A1D5A71",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: -1.0,
+      dependencies: [
+        "0611787F94A4D04B",
+      ],
+      size: 1.0,
+      id: "6DAC0A98698522AC",
+      tasks: [
+        {
+          id: "643ED55E81CDDEDA",
+          type: "item",
+          item: {
+            id: "minecraft:dragon_breath",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5D6499A8E89B9359",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.5,
+      y: -1.5,
+      dependencies: [
+        "1B55CF60A43B271E",
+      ],
+      size: 1.0,
+      id: "0698CE709BF6D409",
+      tasks: [
+        {
+          id: "16E881E62AD935E6",
+          type: "item",
+          item: {
+            id: "strainers:ore_piece",
+            count: 1,
+            components: {
+              "strainers:ore_type": "platinum",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "474EF693B1EFB5D6",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -3.0,
+      y: -1.5,
+      dependencies: [
+        "0698CE709BF6D409",
+      ],
+      size: 1.0,
+      id: "494280B933394E79",
+      tasks: [
+        {
+          id: "019C482A176E044D",
+          type: "item",
+          item: {
+            id: "alltheores:platinum_ore",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5616F1E020EA7FCE",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -1.5,
+      y: -1.5,
+      dependencies: [
+        "494280B933394E79",
+      ],
+      size: 1.0,
+      id: "45E563B539612CFE",
+      tasks: [
+        {
+          id: "67CF2CE4438B1727",
+          type: "item",
+          item: {
+            id: "alltheores:platinum_ingot",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6E5EB34392758EA2",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 4.5,
+      y: 0.0,
+      dependencies: [
+        "1E3C79683AFC2E85",
+      ],
+      size: 1.0,
+      id: "148A7320DC39839A",
+      tasks: [
+        {
+          id: "375836F175FA5420",
+          type: "item",
+          item: {
+            id: "mysticalagradditions:dragon_egg_chunk",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "7C1EE533E06BB93A",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: -4.0,
+      min_required_dependencies: 2,
+      dependencies: [
+        "45E563B539612CFE",
+        "54B64D6324149027",
+        "0B47BF3774181212",
+        "4D77BBB628425B4E",
+      ],
+      dependency_requirement: "all_started",
+      size: 1.0,
+      id: "4BDBE08F0093A7E9",
+      tasks: [
+        {
+          id: "62BAF2F0C270964B",
+          type: "item",
+          item: {
+            id: "caveopolis:shimmer_crystal",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "17FFEB67C991E86C",
+          type: "item",
+          item: {
+            id: "caveopolis:shimmer_crystal",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -2.5,
+      y: -5.0,
+      dependencies: [
+        "65A9DF82BD6525D9",
+      ],
+      size: 1.0,
+      id: "4D77BBB628425B4E",
+      tasks: [
+        {
+          id: "665926299C060605",
+          type: "item",
+          item: {
+            id: "alltheores:ruby",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "44CC195AA9D6C150",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -2.5,
+      y: -4.0,
+      dependencies: [
+        "33019217C6906488",
+      ],
+      size: 1.0,
+      id: "54B64D6324149027",
+      tasks: [
+        {
+          id: "24FCAD0E589B154A",
+          type: "item",
+          item: {
+            id: "alltheores:sapphire",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1707D0996523A92C",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -2.5,
+      y: -3.0,
+      dependencies: [
+        "646EA3A24C82C37B",
+      ],
+      size: 1.0,
+      id: "0B47BF3774181212",
+      tasks: [
+        {
+          id: "4B002C9FA81B64FF",
+          type: "item",
+          item: {
+            id: "alltheores:peridot",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "02375C363C8DEC59",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -6.0,
+      y: -4.0,
+      dependencies: [
+        "1B55CF60A43B271E",
+      ],
+      size: 1.0,
+      id: "1B5B4B072EC6831F",
+      tasks: [
+        {
+          id: "07C5DDEA1E3E0650",
+          type: "item",
+          item: {
+            id: "strainers:ore_piece",
+            count: 1,
+            components: {
+              "strainers:ore_type": "ruby",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "5FD7887F2E0225AE",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -5.0,
+      y: -3.5,
+      dependencies: [
+        "1B55CF60A43B271E",
+      ],
+      size: 1.0,
+      id: "0200912305B0A945",
+      tasks: [
+        {
+          id: "34C0BF2FF864D43A",
+          type: "item",
+          item: {
+            id: "strainers:ore_piece",
+            count: 1,
+            components: {
+              "strainers:ore_type": "sapphire",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "62A22DA67E8817C5",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "strainers:ore_piece",
+        count: 1,
+        components: {
+          "strainers:ore_type": "peridot",
+        },
+      },
+      x: -4.5,
+      y: -2.5,
+      dependencies: [
+        "1B55CF60A43B271E",
+      ],
+      size: 1.0,
+      id: "5BA76E32FB9DC3F3",
+      tasks: [
+        {
+          id: "7052A04F63B5C6B6",
+          type: "item",
+          item: {
+            id: "strainers:ore_piece",
+            count: 1,
+            components: {
+              "strainers:ore_type": "peridot",
+            },
+          },
+          match_components: "strict",
+        },
+      ],
+      rewards: [
+        {
+          id: "33268B8D685530D0",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -5.0,
+      y: -5.0,
+      dependencies: [
+        "1B5B4B072EC6831F",
+      ],
+      size: 1.0,
+      id: "65A9DF82BD6525D9",
+      tasks: [
+        {
+          id: "09434C7E34168339",
+          type: "item",
+          item: {
+            id: "alltheores:ruby_ore",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2B616BB4D77D5828",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: -4.0,
+      dependencies: [
+        "0200912305B0A945",
+      ],
+      size: 1.0,
+      id: "33019217C6906488",
+      tasks: [
+        {
+          id: "4E1DF22B26036995",
+          type: "item",
+          item: {
+            id: "alltheores:sapphire_ore",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "69260224EA17D5CA",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -3.5,
+      y: -3.0,
+      dependencies: [
+        "5BA76E32FB9DC3F3",
+      ],
+      size: 1.0,
+      id: "646EA3A24C82C37B",
+      tasks: [
+        {
+          id: "03CB6C225B01F75A",
+          type: "item",
+          item: {
+            id: "alltheores:peridot_ore",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5090C925CB95F798",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 5.0,
+      y: -4.0,
+      dependencies: [
+        "4BDBE08F0093A7E9",
+      ],
+      size: 1.0,
+      id: "2B5E63FE67D02A3B",
+      tasks: [
+        {
+          id: "1BA1935243A030DD",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(caveopolis:colored_shimmer_crystals)",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2FD525A7ED49E1D1",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 15.0,
+      y: -4.0,
+      dependencies: [
+        "311317319AF00031",
+      ],
+      size: 1.0,
+      id: "078E5CE7492C8441",
+      tasks: [
+        {
+          id: "6F045EACC793DB73",
+          type: "item",
+          item: {
+            id: "caveopolis:sonic_charge",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "5B95C69508F02832",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 17.0,
+      y: -4.0,
+      dependencies: [
+        "078E5CE7492C8441",
+      ],
+      size: 1.0,
+      id: "2D25AC4A7768DA4B",
+      tasks: [
+        {
+          id: "51C133ACB6DB3336",
+          type: "item",
+          item: {
+            id: "caveopolis:sonar_cannon",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "22B3EE9BA3EB681D",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 18.5,
+      y: -4.0,
+      dependencies: [
+        "2D25AC4A7768DA4B",
+      ],
+      size: 1.0,
+      id: "196E509FA5599770",
+      tasks: [
+        {
+          id: "5694697D55227033",
+          type: "item",
+          item: {
+            id: "caveopolis:bedrock_shard",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2412E97632894846",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: 0.5,
+      dependencies: [
+        "0D89B601D3D359BD",
+      ],
+      size: 1.0,
+      optional: true,
+      id: "41C9E7547614F896",
+      tasks: [
+        {
+          id: "24E9016832F3A47A",
+          type: "item",
+          item: {
+            id: "castingtools:omnithium_ingot",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3721F579D6E4DAF8",
+          type: "item",
+          item: {
+            id: "castingtools:omnithium_ingot",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      x: 6.0,
+      y: -3.0,
+      dependencies: [
+        "2B5E63FE67D02A3B",
+      ],
+      size: 1.0,
+      optional: true,
+      id: "01A95ADAFEB4F839",
+      tasks: [
+        {
+          id: "19B752687F2F3CB5",
+          type: "observation",
+          icon: {
+            id: "geore:budding_diamond",
+            count: 1,
+          },
+          timer: 0,
+          observation_type: "block_tag",
+          to_observe: "geore:budding_geore",
+        },
+      ],
+      rewards: [
+        {
+          id: "1864549908CFC2AD",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 4.0,
+      y: 1.0,
+      dependencies: [
+        "1E3C79683AFC2E85",
+      ],
+      size: 1.0,
+      id: "664775A594D110B7",
+      tasks: [
+        {
+          id: "6ADDB682B4F72BA6",
+          type: "item",
+          item: {
+            id: "mysticalagradditions:dragon_scale",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "791C1D5591E12E09",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -6.0,
+      y: 0.0,
+      dependencies: [
+        "1B55CF60A43B271E",
+      ],
+      size: 1.0,
+      id: "066B98593AC74347",
+      tasks: [
+        {
+          id: "2AAA55DCE0EDD2E2",
+          type: "item",
+          item: {
+            id: "strainers:ore_piece",
+            count: 1,
+            components: {
+              "strainers:ore_type": "iridium",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "053809B0EA12DB01",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -5.0,
+      y: 1.0,
+      dependencies: [
+        "066B98593AC74347",
+      ],
+      size: 1.0,
+      id: "7C6BC8681087B467",
+      tasks: [
+        {
+          id: "59EF5EF6793C5811",
+          type: "item",
+          item: {
+            id: "alltheores:iridium_ore",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "320E5F5D0E68FF14",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.0,
+      y: 1.5,
+      dependencies: [
+        "7C6BC8681087B467",
+      ],
+      size: 1.0,
+      id: "4194710F7608A377",
+      tasks: [
+        {
+          id: "319ADC33C701FBE0",
+          type: "item",
+          item: {
+            id: "alltheores:iridium_ingot",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "1A5FF1F8C33E5906",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

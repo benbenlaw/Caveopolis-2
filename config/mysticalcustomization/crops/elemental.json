@@ -1,0 +1,12 @@
+{
+    "name": "Elemental",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:1",
+    "models": {
+        "flower": "caveopolis:block/elemental_crop",
+        "essence": "caveopolis:item/elemental_essence",
+        "seeds": "caveopolis:item/elemental_seeds"
+    },
+    "crux": "caveopolis:elemental_crux"
+        
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Brown",
+  "icon": "colors:brown_asteroid",
+  "items": [
+    "colors:brown_*"
+  ],
+  "border_color": "#FF835432",
+  "background_color": "#40835432",
+  "overlay_tint": "#40835432",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

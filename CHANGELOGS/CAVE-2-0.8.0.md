@@ -1,0 +1,24 @@
+### Changes 
+- Updated Mods
+- Fixed some BBL blocks allowing more than max item stack sizes 
+- Enabled rich presents
+- Fixed server crash with Dimensional Resources Laser
+- Fixed Void Crafting for Dimensional Shards
+- Added Multiblock Interface
+- Added Multiblock Mixer
+- Removed duplicate quests 
+- Toprock no longer breaks via Wither
+- Reordered the Placer structure positions  
+- Placer search now works correctly
+- Changed experience values in Casting and Casting Tools 
+- EnderIO XP Vacuum added to the shop
+- Fixed Netherrack Recipe
+- Fixed Silk Touch Modifier not working with Stone
+- Added Budding Amethyst and Budding Certus to the c:relocation_not_supported tag 
+- Mulitblock Solidifier mold pages now work correctly 
+- Added Casting Coolants for Powah
+- Removed Essence Blocks upgrade recipes
+- All recipes should now show again in JEI on servers
+### Known Issues
+- Wooden Hopper voiding items when shift clicking inside them
+- https://github.com/BlakeBr0/ExtendedCrafting/issues/222 (Crafting Core Bug)

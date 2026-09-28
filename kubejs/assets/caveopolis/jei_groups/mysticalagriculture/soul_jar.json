@@ -1,0 +1,12 @@
+{
+  "name": "Soul Jars",
+  "icon": "mysticalagriculture:soul_jar",
+  "items": [
+    "mysticalagriculture:soul_jar"
+  ],
+  "border_color": "#FF3F271B",
+  "background_color": "#403F271B",
+  "overlay_tint": "#403F271B",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

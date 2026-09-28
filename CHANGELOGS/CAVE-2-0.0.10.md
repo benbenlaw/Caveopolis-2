@@ -1,0 +1,13 @@
+### Changes 
+- Updated Mods
+- Updated Yuki textures
+- Fixed Crafting Table recipe
+- Strainers when straining items now render better 
+- Cobblestone can once again be mined with FTB Ultimine 
+- Strainers and Casting fluid placed in world are now named correctly 
+- Placer corridiors can now be used at almost the top of the world 
+- Placer rooms can now be used at almost the top of the world 
+- Improved Placer starting message
+- Fixed Blaze Powder recipe
+- Reverted Smithing Table recipe change
+- Added more molds to the shop

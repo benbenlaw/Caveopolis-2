@@ -1,0 +1,25 @@
+### Changes 
+- Updated Mods
+- Updated Yuki textures
+- Fixed color chests voiding item via pipes 
+- Removed invalid pipes from pipe connector block tag 
+- Flint to Copper to Iron to Gold mesh recipes now copy enchantments and casting modifiers 
+- Added Base Prosperity Tier 2 Seed recipe
+- Impliemented Silicon
+- Fixed Modifier dropping its output when broken
+- Drops can now be dried into Depleted Drops 
+- Removed Ore Hammers
+- Added more hammers copper, iron, diamond and netherite. These now have a tooltip as well and durability has been tweaked 
+- Added Excavation Hammers, mine a 3x3 area 
+- Fixed some ore piece quests completing by mistake 
+- Fixed Salt Water Drop recipe
+- Changed Silk Torch Modifier to use Wool not Emerald
+- Colored Stone and Stone can no longer be Ultimined
+- Pigs now use potatos in summoning 
+- Routers now use Brass in its recipes instead of Iron
+- Hopper and Flopper recipes changed
+- Buffed XP on Weaponsmith Villager
+- Changed Mystical Fertilizer recipe to use Pitcher Plant
+- Harvest and Fertilizer are now added in Seedy Questline
+- Temp fix for Classic Pipes and Casting Mixer
+- Changed and tweaked a lot of recipes and progression 

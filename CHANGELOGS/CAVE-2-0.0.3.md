@@ -1,0 +1,14 @@
+### Changes 
+- NOTE - This Update Contains changes to trades, kill and replace Weaponsmith!
+- Updated Mods
+- Fixed Strainers deleting items when shift clicking
+- Fixed Solidifier and Multiblock Solidifier acting wierd with
+- Fixed Ultimine quest not having the translation key button
+- Added banned item tag
+- Added some Easy Villager blocks to the banned items list
+- Added Colored Saplings to the cloche
+- Added Improvised Lava, sold from weaponsmith at tier 4, this is a new drop item 
+- Removed colored stone from stone cutter recipes
+- Given first questline quest rewardst
+- Tweaked weaponsmith trades and experience 
+- Tweaked temp spawning commands maybe it works better now?

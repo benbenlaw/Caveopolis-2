@@ -1,0 +1,12 @@
+{
+  "name": "Reliquary: Mob Charm Fragment",
+  "icon": "reliquary:mob_charm_fragment",
+  "items": [
+    "reliquary:mob_charm_fragment"
+  ],
+  "border_color": "#FFB030BD",
+  "background_color": "#40B030BD",
+  "overlay_tint": "#40B030BD",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

@@ -1,0 +1,19 @@
+### Changes 
+- Updated Mods
+- Updated Yuki textures
+- Fixed Fluid Mover not working with Modifier 
+- Plank quest now accepts all planks 
+- Lemon and Peach sapling block tags now fixed
+- Added BBL Shops, clicking the shop icon in inventory will open the shop, this is WIP but should function 
+- Tweaked quest rewards in first chapter to include coins
+- Added Information quest about the shop
+- Colors crafting recipes for crafting tables and chests are now always craft before vanilla versions 
+- Fixed alternative Flint Mesh recipe
+- Removed stone hammer from loot table
+- Makeshift fuel now comes from Mini Coal via strainers instead of alloy
+- Reduced the fluid needed for makeshift fuel per recipe
+- Bronze Coin is now a Shops coin
+- Created custom FTB Quests shop icon highly WIP maybe @yuki can work some magic on it 
+- Added rewards to Not Alone Questline
+- Added rewards to Kitchen Questline
+- Cobblestone now added to FTB Ultimine black list

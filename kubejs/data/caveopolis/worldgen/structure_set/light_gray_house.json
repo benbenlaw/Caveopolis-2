@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "caveopolis:light_gray_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 8,
+    "separation": 1,
+    "salt": 75654
+  }
+}

@@ -1,0 +1,18 @@
+### Changes 
+- Updated Mods
+- Updated NeoForge to 26.1.2.100
+- When creating world now using own dimensions per team, this effects single player as well!
+- Fixed Casting Tools, Casting and Strainers fluid move allowing movement when inside. Other modded fluids will continue to trap you until those mods are updated!
+- Fixed Mystical Fertilizer not having boosted chances per tier
+- Pitcher duration decreased in cloche
+- Placers now work on servers 
+- Mini coal can be made and used in casting
+- Stone now drops cobblestone when broken with a pickaxe
+- Stone can now be silk touched
+- Moved json based loottables to LootJS exclusing piglin bartering
+- Sonar Cannon now show there recipes in JEI
+- Enabled spawn protection for new worlds
+- More tweaks to the spawn 
+- Added modpack tracking 
+- Added Offical Public Server to the multiplayer menu
+- SkyBlock Builder, SkyGUIS and LootJS are all in dev versions official version will come soonTM

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "strainers:dirt_pile",
+          "weight": 75
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stick",
+          "weight": 25
+        }
+      ],
+      "rolls": 3.0
+    }
+  ],
+  "random_sequence": "caveopolis:gameplay/hammering/dirt"
+}

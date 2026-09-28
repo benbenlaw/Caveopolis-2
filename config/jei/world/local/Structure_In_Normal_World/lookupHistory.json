@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"castingtools:molten_omnithium"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"castingtools:omnithium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"castingtools:omnithium_spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"castingtools:omnithium_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"castingtools:omnithium_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,61 @@
+{
+  "quest.2D956693B1C3A1E6.quest_desc": [
+    "Welcome to &lCaveopolis 2&r thanks for downloading.",
+    "",
+    "Please make sure you create your own &lBase&r for your team before starting using &l/skyblock gui&r or using the &lFull Stop&r button",
+  ],
+  "task.1DCD97C86D7BF0B0.title": "Shop",
+  "task.33F950E34BC03AB9.title": "The World",
+  "quest.655FD74AF49BA8B6.quest_desc": [
+    "The World is filled with stone and caves. ",
+    "",
+    "No hostile mobs naturally spawn",
+    "No ores naturally spawn ",
+    "",
+    "To descend further into the world you require &lDepth Charms&r. These protect you from the dangers below ",
+  ],
+  "task.17BA92DD9AF3D3B9.title": "Trader",
+  "task.2636065309EC80C2.title": "Welcome To Caveopolis 2",
+  "quest.12B3AF4B71001DE4.quest_desc": [
+    "&lCaveopolis 2&r also contains some optional &lResource Packs&r found in the &lPause Menu&r -> Options -> &lResource Packs&r",
+    "",
+    "&lBBL Colors Connected Textures&r, provides some connected texture for the colored blocks",
+    "",
+    "&lSlightly Improved Font&r, provides a clean font",
+  ],
+  "quest.77D765575CE997A2.quest_desc": [
+    "&lCaveopolis 2&r has a &lPublic Server&r. Join from your multiplayer menu",
+  ],
+  "task.626906B54751518F.title": "Public Server",
+  "quest.2C71C7417D2F6A07.quest_desc": [
+    "Follow the &lQuest Book&r, it will help you progress through the modpack. ",
+  ],
+  "task.2D48AF272AEC8FC6.title": "Quests",
+  "task.09F445E072F8EECD.title": "Ultimine",
+  "quest.02FC82FA0D7F293D.quest_desc": [
+    "&lCaveopolis 2&r can be played with &lShaders&r. Open your&l Video Settings&r and click &lShader Packs&r on the top right!",
+  ],
+  "task.51C35C756E8FD78F.title": "Shaders",
+  "quest.272A2602BC70E5EC.quest_desc": [
+    "&lTraders&r are found during the pack, some &lTraders&r can buy items off you",
+    "",
+    "Some &lTraders&r will have &6&lGold Bordered&r&r items to either &lBuy&r or &lSell&r. These will upgrade the available trades for that &lTrader&r ",
+  ],
+  "quest.5E213B8FFC7F7237.quest_desc": [
+    "This modpack has a &lShop&r. Click on the &lCoin&r icon in the top of your inventory to open. In the bottom right corner you can toggle between &lBuying&r or &lSelling&r",
+    "",
+    "Completing some quests will unlock new items in the &lShop&r so keep an eye out for &6&lGold Bordered&r&r purchases",
+    "",
+    "&lCoins&r can be consumed by Right Clicking whilst holding them",
+    "",
+    "The opening of the &lPlayer Shop&r can also be bound to a key bind, set inside the controls",
+  ],
+  "quest.5E213B8FFC7F7237.title": "Shop",
+  "quest.214F31C0F22ECFCD.quest_desc": [
+    "[\"This pack uses Ultimine, Holding \", {\"keybind\": \"key.ftbultimine.default.ftbultimine\", \"color\": \"aqua\", \"bold\": true }, \" will allow you to break multiple blocks at once!\"]",
+    "",
+    "Note in &lCaveopolis 2&r Stone like blocks cannot be &lUltimined&r",
+  ],
+  "quest.272A2602BC70E5EC.title": "Trader",
+  "task.15170138458CD154.title": "Resource Packs",
+}

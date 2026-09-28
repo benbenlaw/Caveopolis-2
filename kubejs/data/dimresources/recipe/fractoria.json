@@ -1,0 +1,16 @@
+{
+  "type": "dimresources:laser",
+  "rf_per_tick": 1200,
+  "duration": 100,
+  "laser_level": 8,
+  "planet": "dimresources:fractoria",
+  "outputs": [
+    {
+      "stack": {
+        "count": 1,
+        "id": "caveopolis:raw_black_iron"
+      },
+      "weight": 100
+    }
+  ]
+}

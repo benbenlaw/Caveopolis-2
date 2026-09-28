@@ -1,0 +1,181 @@
+{
+  id: "588D635A32AD9B1E",
+  order_index: 0,
+  icon: {
+    id: "minecraft:chest",
+    count: 1,
+  },
+  loot_size: 1,
+  hide_tooltip: true,
+  use_title: true,
+  rewards: [
+    {
+      id: "736B6A60E678A91D",
+      item: {
+        id: "colors:black_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "2CB3F6605C279749",
+      item: {
+        id: "minecraft:pale_oak_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "0A1D8F669B1048FB",
+      item: {
+        id: "minecraft:cherry_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "5F32759723D1E9A6",
+      item: {
+        id: "minecraft:dark_oak_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "6FD89998E0FABC1A",
+      item: {
+        id: "minecraft:acacia_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "609A601344A05E6D",
+      item: {
+        id: "minecraft:jungle_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "358D333182B466AD",
+      item: {
+        id: "minecraft:birch_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "2E7A0AB4C8C2C521",
+      item: {
+        id: "minecraft:spruce_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "07DF195361479EC6",
+      item: {
+        id: "minecraft:oak_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "43152DC9FADDD105",
+      item: {
+        id: "colors:yellow_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "432D8C2920D06EB1",
+      item: {
+        id: "colors:white_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "741933140BAFF35E",
+      item: {
+        id: "colors:red_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "4641F10A2C874472",
+      item: {
+        id: "colors:purple_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "09A02C84A653EFFA",
+      item: {
+        id: "colors:pink_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "227C097F9064A526",
+      item: {
+        id: "colors:orange_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "2D450AD67F072190",
+      item: {
+        id: "colors:magenta_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "414D83178A12C75B",
+      item: {
+        id: "colors:lime_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "68B77D1E97130B69",
+      item: {
+        id: "colors:light_gray_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "0822DC5990608826",
+      item: {
+        id: "colors:light_blue_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "0F2B813223FF2EF4",
+      item: {
+        id: "colors:green_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "5BCAB947D9AFCB4C",
+      item: {
+        id: "colors:gray_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "19D1390CDD306C15",
+      item: {
+        id: "colors:cyan_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "2FE97EEA7859D384",
+      item: {
+        id: "colors:brown_sapling",
+        count: 1,
+      },
+    },
+    {
+      id: "0368A7161EF60418",
+      item: {
+        id: "colors:blue_sapling",
+        count: 1,
+      },
+    },
+  ],
+}

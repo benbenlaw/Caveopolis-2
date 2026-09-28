@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"casting:ingot_mold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:essence_vessel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:fire_agglomeratio"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:water_agglomeratio"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:earth_agglomeratio"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:air_agglomeratio"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:end_agglomeratio"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:inferium_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:awakened_supremium_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:prosperity_seed_base"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"easy_villagers:auto_trader"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cookingforblockheads:crafting_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cookingforblockheads:recipe_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cookingforblockheads:no_filter_edition"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:comparator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cookingforblockheads:ice_unit"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,12 @@
+{
+  "name": "Framed Blocks",
+  "icon": "framedblocks:framed_cube",
+  "items": [
+    "@framedblocks"
+  ],
+  "border_color": "#FFA8A8A8",
+  "background_color": "#40A8A8A8",
+  "overlay_tint": "#40A8A8A8",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

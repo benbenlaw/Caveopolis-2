@@ -1,0 +1,15 @@
+[
+  {"version":3},
+  {"ingredient":{"id":"strainers:flint_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"caveopolis:pantryforblockheads/artisan_press","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"constructionstick:wooden_stick","components":"{\"minecraft:damage\":55}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"routers:exporter","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"routers:importer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"routers:item_upgrade_1"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"castingmb:mb_black_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"castingmb:mb_controller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"castingmb:mb_solidifier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"castingmb:mb_tank"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"caveopolis:stone_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"casting:black_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

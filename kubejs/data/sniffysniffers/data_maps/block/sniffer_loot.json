@@ -1,0 +1,33 @@
+{
+  "values": {
+    "minecraft:sand": [
+      {
+        "chance": 0.75,
+        "item": {
+          "id": "minecraft:suspicious_sand"
+        }
+      },
+      {
+        "chance": 0.25,
+        "item": {
+          "id": "strainers:sand_dust"
+        }
+      }
+    ],
+    "minecraft:gravel": [
+      {
+        "chance": 0.75,
+        "item": {
+          "id": "minecraft:suspicious_gravel"
+        }
+      },
+      {
+        "chance": 0.25,
+        "item": {
+          "id": "strainers:gravel_pebble"
+        }
+      }
+    ]
+  },
+  "replace": true
+}

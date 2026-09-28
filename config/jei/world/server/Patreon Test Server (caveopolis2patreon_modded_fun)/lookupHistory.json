@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"functionalstorage:dripping_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"functionalstorage:creative_vending_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"functionalstorage:redstone_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

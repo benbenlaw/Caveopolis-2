@@ -1,0 +1,18 @@
+### Changes 
+- Updated Mods
+- Updated Yuki textures
+- Updated Neoforge to 26.1.2.78
+- Banned more seeds (tier 5)
+- Added more groups for JEI
+- Fixed Hammers in loot tables not being modified 
+- Added Excavation Hammers to Light Gray House loot
+- Top of the world is now Toprock not bedrock 
+- Warden now drops Sonic Charge
+- Re added vanilla crafting table recipe
+- Traders now use shops internals to upgrade recipes instead of commands. Farmer 1 and Kitchen 1 are still given via quests
+- Traders name tags no longer show through walls
+- Rotten Bone now uses Eroding Water not Purifiying
+- Enderman can now be summoned
+- Known Issues various small issues with some Pantry For Blockhead tags and missing entries in JEI will be fixed in 0.0.14
+- Started planing end game, added lots of new items
+- New Questline The Depths, void trading warden fighting 

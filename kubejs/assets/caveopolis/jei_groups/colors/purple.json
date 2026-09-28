@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Purple",
+  "icon": "colors:purple_asteroid",
+  "items": [
+    "colors:purple_*"
+  ],
+  "border_color": "#FF8932B8",
+  "background_color": "#408932B8",
+  "overlay_tint": "#408932B8",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

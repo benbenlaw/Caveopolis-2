@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "strainers:dirt_pile",
+          "weight": 40
+        },
+        {
+          "type": "minecraft:item",
+          "name": "strainers:sand_dust",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flint",
+          "weight": 10
+        }
+      ],
+      "rolls": 3.0
+    }
+  ],
+  "random_sequence": "caveopolis:gameplay/gravel_hammering"
+}

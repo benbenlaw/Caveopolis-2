@@ -1,0 +1,23 @@
+### Changes 
+- Updated Mods
+- Banned Items are no longer usable in recipes
+- Removed unused mystical seeds recipes 
+- Added Suspicious Seed recipe
+- Fixed Loot Loot Generator stuff
+- Fixed Multiblock Controller not respecting Regulators 
+- Fixed BBL Core dupe bug
+- Banned modifiers on AE annihilation plane 
+- Tweaked Pebble Quest to linear to possibly fix the quest not being completable until re joining the world
+- Indiana Bones Trader is now a level up trader
+- Indiana Bones now sells Entity Tokens 
+- Indiana Bones now sells EnderIO capacitors 
+- Crafting Core bug fixed 
+- Wooden Hopper shift clicking bug fixed
+- Added Tips and Tricks Questline, mainly for information 
+- Added Invisible Light
+- Added Shop Block (WIP)
+- BBL Lights now place its own light blocks, this blocks are treated as air and will not block spaling growing or multiblock casting forming 
+- Fixed custom casting recipe being instant blame @Szszabi2002 
+- Changed singularities 
+### Known Issues
+- https://github.com/Buuz135/FunctionalStorage/issues/523 Fluid Drawers voiding when a fluid drawer is used on it 

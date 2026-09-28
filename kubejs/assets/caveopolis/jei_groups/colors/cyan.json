@@ -1,0 +1,12 @@
+{
+  "name": "Colors: Cyan",
+  "icon": "colors:cyan_asteroid",
+  "items": [
+    "colors:cyan_*"
+  ],
+  "border_color": "#FF169C9C",
+  "background_color": "#40169C9C",
+  "overlay_tint": "#40169C9C",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

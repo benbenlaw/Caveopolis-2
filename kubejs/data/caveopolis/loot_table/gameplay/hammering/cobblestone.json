@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "strainers:gravel_pebble",
+          "weight": 100
+        }
+      ],
+      "rolls": 3.0
+    }
+  ],
+  "random_sequence": "caveopolis:gameplay/hammering/cobblestone"
+}

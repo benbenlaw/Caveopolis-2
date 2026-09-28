@@ -1,0 +1,24 @@
+### Changes 
+- Updated Mods
+- Updated Yuki textures
+- Implemented Ore Infuser, mystical essences that make ingots or gems no longer do, you must go through Ore Infuser instead
+- Changed Resource and FLuid Generator Recipes
+- Removed Inferium Upgrade quest reward
+- Boosted Inferium drop rates and boosted bonus tier above rates. Lowered the tier to 1 as well so at the point you start making inferium you should get about 2 per stone instead of 0.5 
+- Villager trading will be removed in the future in favour of BBL Shops Traders. These work basically the same way but allow more flexibility 
+- All questlines that involved villager trading have been updated to use the new system
+- Kitchen, Farm and Light Gray House structures all update to include new trader
+- Kitchen structure now contains loot chests, items in furnaces and counters
+- Ceramic Buckets now break when handling hot fluids
+- Strainers now eject almost broken meshes into its output if they are enchanted or casting modified
+- Banned more seeds 
+- Implimented Tier 4 seeds
+- Removed all essence crafting rtecipe after prudentium, infuser must now be used
+- Moved Infinity Storage to Heated Questline recipes changed
+- Added more quests
+- Disabled Casting Tools Treasure
+- JEI Groups serearch improved 
+- Fluid Manger now tries to insert and remove from the 2nd modifier tank first
+- Added Speedy Ladder, custom block that can be climbed faster than normal ladders
+- Cloche recipe now consumes buckets
+- Removed Dungeons from world gen 

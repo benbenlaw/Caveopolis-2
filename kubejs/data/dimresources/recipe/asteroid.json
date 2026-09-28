@@ -1,0 +1,179 @@
+{
+  "type": "dimresources:laser",
+  "rf_per_tick": 4000,
+  "duration": 100,
+  "laser_level": 8,
+  "planet": "dimresources:asteroid",
+  "outputs": [
+    {
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "copper"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "tin"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "zinc"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "coal"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "aluminum"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "redstone"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "iron"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "nickel"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "gold"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "inferium"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "osmium"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "lapis"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "salt"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "uranium"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "silver"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "emerald"
+		}
+      },
+      "weight": 35
+    },    
+	{
+      "stack": {
+		"id": "strainers:ore_piece",
+		"count": 1,
+		"components": {
+			"strainers:ore_type": "dimensional"
+		}
+      },
+      "weight": 35
+    }
+  ]
+}

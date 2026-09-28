@@ -1,0 +1,12 @@
+### Changes 
+- Updated Mods
+- Updated Yuki textures
+- Fixed death clearing tiers and balance from BBL Shops data
+- Fixed rooms using yellow stone twice and missing yellow planks in the palettes
+- Traders work better with coins
+- Traders will no longer share a block one block per trader like vanilla villagers
+- Traders no longer despawn
+- Traders can now be collected in Animal Net
+- Grouping in JEI is now better 
+- Added 2 stair base building structures, 1 just has a slightly bigger area 
+- Custom Strainer recipes now uses a lower fluid amounts, should make it less confusing when recipe are not completing 

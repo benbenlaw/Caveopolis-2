@@ -1,0 +1,28 @@
+#Modpack Configuration Settings
+["Custom server in multiplayer Screen"]
+	#Name of the server
+	"Server Name" = "Caveopolis 2 Official Server"
+	#IP of the server
+	"Server IP" = "caveopolis2.benbenlaw.com"
+
+["Check if the modpack has any updates available"]
+	#Check if the modpack has any updates available, default = false
+	"Update Checker" = true
+	#Project ID for the modpack, found on curse forge
+	"Project ID" = 1677847
+
+["Misc Modpack Settings"]
+	#Modpack name shown in /modpack
+	"Modpack name" = "USE_BCC"
+	#Version of the modpack shown in /modpack
+	"Modpack Version" = "0.9.0"
+	#Add a URL to link your discord, BBL Discord = https://discord.gg/benbenlaw
+	"Discord URL" = "https://discord.gg/benbenlaw"
+	#Set the horizon height, default = 0.0, if in skyblock modpacks set to -64.0
+	"Horizon Height" = 0.0
+	#If enabled, players will be teleported to their spawn point if they fall into the void, default = false
+	"Enable Void Protection" = false
+	#Speed that blocks in the modpackutils:climbable_blocks tag can be climbed, default = 0.15
+	"Climbable Block Speed" = 0.5
+	#Item that piglins will barter for, default = minecraft:gold_ingot
+	"Piglin Bartering Item" = "caveopolis:black_gold_ingot"

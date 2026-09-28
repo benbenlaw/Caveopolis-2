@@ -1,0 +1,27 @@
+{
+    "keys": [
+        {
+ 			"name": "output",
+			"role": "output",
+			"type": "item_stack"
+	
+        },
+        {
+ 			"name": "inputs",
+			"role": "input",
+            "type": {
+				"type": "list",
+				"component": "ingredient",
+				"spread": "ingredient"
+			}
+        },
+		{
+            "name": "energy",
+            "role": "other",
+            "type": "int",
+            "function_names": ["energy"],
+	        "optional": 1000,
+            "always_write": true
+        }
+    ]
+}

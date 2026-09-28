@@ -1,0 +1,21 @@
+{
+  "template_id": "caveopolis:amethyst",
+  "name": "Mystic Purple Room",
+  "block_target": "caveopolis:purple_shimmer_stone",
+  "placement_options": {
+    "height_adjustment": 2,
+    "front_adjustment": -1,
+    "rotation": "180",
+    "side_only_placement": true
+  },
+  "restriction_options": {
+    "blocks_required": false,
+    "override_existing_blocks": true,
+    "replace_waterlogged_blocks": true,
+	"show_in_placer": false,
+	"placer_position": 301,
+	"required_item": {
+		"id": "caveopolis:mystic_room_amethyst"
+	}
+  }
+}

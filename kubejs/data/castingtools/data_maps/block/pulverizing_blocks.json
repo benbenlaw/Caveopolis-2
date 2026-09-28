@@ -1,0 +1,33 @@
+{
+  "values": {
+    "minecraft:cobblestone": [
+      {"item": {"id": "strainers:gravel_pebble","count": 3}},
+      {"item": {"id": "strainers:gravel_pebble","count": 1},"chance": 0.5}
+    ],
+    "minecraft:gravel": [
+      {"item": {"id": "strainers:sand_dust","count": 3}},
+      {"item": {"id": "strainers:sand_dust","count": 1},"chance": 0.5},
+      {"item": {"id": "strainers:dirt_pile","count": 1}},
+      {"item": {"id": "strainers:dirt_pile"},"chance": 0.5}
+    ],
+    "strainers:dust_block": [
+      {"item": {"id": "strainers:dust","count": 3}},
+      {"item": {"id": "strainers:dust","count": 1},"chance": 0.5},
+      {"item": {"id": "minecraft:bone_meal","count": 1},"chance": 0.25}
+    ],
+    "minecraft:dirt": [
+      {"item": {"id": "strainers:dirt_pile","count": 3}},
+      {"item": {"id": "minecraft:stick","count": 1},"chance": 0.75},
+      {"item": {"id": "strainers:leaf_pile","count": 2},"chance": 1},
+      {"item": {"id": "strainers:leaf_pile","count": 1},"chance": 0.75}
+    ],
+    "minecraft:stone": [
+      {"item": {"id": "strainers:stone_pebble","count": 3}},
+      {"item": {"id": "strainers:stone_pebble","count": 1},"chance": 0.5}
+    ],
+    "minecraft:sand": [
+      {"item": {"id": "strainers:dust","count": 3}},
+      {"item": {"id": "strainers:dust","count": 1},"chance": 0.5}
+    ]
+  }
+}        

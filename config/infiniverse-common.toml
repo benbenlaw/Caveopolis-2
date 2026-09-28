@@ -1,0 +1,5 @@
+#Minimum permission level needed to create/remove dimensions and use related commands.
+#Defaults to 4 (server owner)
+# Default: 4
+# Range: 0 ~ 4
+editDimensionRegistryPermissionLevel = 4

@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"functionalstorage:acacia_4"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"casting:molten_netherite_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
