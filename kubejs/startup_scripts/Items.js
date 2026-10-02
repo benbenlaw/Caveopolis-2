@@ -54,6 +54,10 @@ StartupEvents.registry("item", (event) => {
     event.create('caveopolis:luminessence_shard')
     event.create('caveopolis:raw_black_iron')
 
+    event.create('caveopolis:creative_shard')
+    event.create('caveopolis:creative_ingot')
+    event.create('caveopolis:the_creative_ingot')
+
     event.create('caveopolis:depth_charm_i').tag('c:charms').displayName('Depth Charm I')
     event.create('caveopolis:depth_charm_ii').tag('c:charms').displayName('Depth Charm II')
     event.create('caveopolis:depth_charm_iii').tag('c:charms').displayName('Depth Charm III')

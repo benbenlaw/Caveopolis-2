@@ -8,7 +8,7 @@
   hide_quest_until_deps_complete: true,
   quests: [
     {
-      x: -6.5,
+      x: -6.0,
       y: -7.0,
       hide_dependency_lines: true,
       dependencies: [
@@ -20,6 +20,10 @@
         "74A82C0CF1D00F5B",
         "77030DB4D5447CFC",
         "5A046F5F9C87FB73",
+        "48193A062354160B",
+        "30F265DB9D19E43E",
+        "318E947830314527",
+        "7AC4F80DDF3D5408",
       ],
       size: 1.0,
       id: "6EF41EA7CAB6AD30",
@@ -35,10 +39,10 @@
       ],
     },
     {
-      x: -5.0,
-      y: -5.5,
+      x: -1.5,
+      y: -7.0,
       dependencies: [
-        "6EF41EA7CAB6AD30",
+        "7900C102B28AE98F",
       ],
       size: 1.0,
       id: "73FA5C9BF93B65D3",
@@ -54,10 +58,10 @@
       ],
     },
     {
-      x: -4.0,
-      y: -6.5,
+      x: -0.5,
+      y: -7.5,
       dependencies: [
-        "6EF41EA7CAB6AD30",
+        "73FA5C9BF93B65D3",
       ],
       size: 1.0,
       id: "44631CB0AD70524B",
@@ -73,10 +77,10 @@
       ],
     },
     {
-      x: -4.0,
-      y: -7.5,
+      x: -0.5,
+      y: -6.5,
       dependencies: [
-        "6EF41EA7CAB6AD30",
+        "73FA5C9BF93B65D3",
       ],
       size: 1.0,
       id: "35D4EA344A8277B8",
@@ -86,25 +90,6 @@
           type: "item",
           item: {
             id: "ae2:creative_energy_cell",
-            count: 1,
-          },
-        },
-      ],
-    },
-    {
-      x: -5.0,
-      y: -8.5,
-      dependencies: [
-        "6EF41EA7CAB6AD30",
-      ],
-      size: 1.0,
-      id: "3A554E297110F1BF",
-      tasks: [
-        {
-          id: "11D7EED3628A7527",
-          type: "item",
-          item: {
-            id: "ae2:creative_storage_cell",
             count: 1,
           },
         },
@@ -189,8 +174,8 @@
       ],
     },
     {
-      x: -9.0,
-      y: -8.0,
+      x: -10.0,
+      y: -5.5,
       dependencies: [
         "34B94B6902CC76E8",
       ],
@@ -329,8 +314,8 @@
       ],
     },
     {
-      x: -10.0,
-      y: -5.5,
+      x: -9.0,
+      y: -8.0,
       dependencies: [
         "34B94B6902CC76E8",
       ],
@@ -352,7 +337,7 @@
       ],
     },
     {
-      x: -8.0,
+      x: -7.0,
       y: -7.0,
       dependencies: [
         "34B94B6902CC76E8",
@@ -371,6 +356,127 @@
             },
           },
           match_components: "strict",
+        },
+      ],
+    },
+    {
+      x: -8.0,
+      y: -7.5,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "48193A062354160B",
+      tasks: [
+        {
+          id: "709CEED4FC5E3F8F",
+          type: "item",
+          item: {
+            id: "extendedcrafting:singularity",
+            count: 1,
+            components: {
+              "extendedcrafting:singularity_id": "extendedcrafting:glacium",
+            },
+          },
+        },
+      ],
+    },
+    {
+      x: -8.0,
+      y: -6.5,
+      dependencies: [
+        "34B94B6902CC76E8",
+      ],
+      size: 1.0,
+      id: "30F265DB9D19E43E",
+      tasks: [
+        {
+          id: "203690FD313305DC",
+          type: "item",
+          item: {
+            id: "extendedcrafting:singularity",
+            count: 1,
+            components: {
+              "extendedcrafting:singularity_id": "extendedcrafting:scorchium",
+            },
+          },
+        },
+      ],
+    },
+    {
+      x: -6.5,
+      y: -8.0,
+      hide_dependency_lines: true,
+      dependencies: [
+        "74A82C0CF1D00F5B",
+      ],
+      size: 1.0,
+      id: "318E947830314527",
+      tasks: [
+        {
+          id: "7B1DCFEE82343D19",
+          type: "item",
+          item: {
+            id: "caveopolis:creative_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -6.5,
+      y: -6.0,
+      hide_dependency_lines: true,
+      dependencies: [
+        "74A82C0CF1D00F5B",
+      ],
+      size: 1.0,
+      id: "7AC4F80DDF3D5408",
+      tasks: [
+        {
+          id: "758288C8844BA884",
+          type: "item",
+          item: {
+            id: "caveopolis:creative_shard",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: -4.5,
+      y: -7.0,
+      dependencies: [
+        "6EF41EA7CAB6AD30",
+        "318E947830314527",
+        "7AC4F80DDF3D5408",
+      ],
+      size: 1.0,
+      id: "7900C102B28AE98F",
+      tasks: [
+        {
+          id: "38F712132C3064F2",
+          type: "item",
+          item: {
+            id: "caveopolis:the_creative_ingot",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 0.5,
+      y: -7.0,
+      dependencies: [
+        "44631CB0AD70524B",
+        "35D4EA344A8277B8",
+      ],
+      size: 1.0,
+      id: "4B15941B3792FB30",
+      tasks: [
+        {
+          id: "7A6075CD6E6874F9",
+          type: "checkmark",
         },
       ],
     },

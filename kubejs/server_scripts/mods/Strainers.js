@@ -19,7 +19,7 @@ ServerEvents.recipes(event => {
     event.remove({id: 'strainers:strainer'})
 
     //Netherite Mesh
-    event.smithing('strainers:netherite_mesh', 'minecraft:netherite_upgrade_smithing_template', 'strainers:diamond_mesh', 'caveopolis:awakened_netherite_ingot').id('caveopolis:smithing/netherite_mesh')
+    event.smithing('strainers:netherite_mesh', 'minecraft:netherite_upgrade_smithing_template', 'strainers:emerald_mesh', 'caveopolis:awakened_netherite_ingot').id('caveopolis:smithing/netherite_mesh')
     event.remove({id: 'strainers:netherite_mesh'})
 
     //Emerald Mesh

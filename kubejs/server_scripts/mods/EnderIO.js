@@ -9,8 +9,9 @@ ServerEvents.recipes(event => {
     event.recipes.enderio.sag_milling([['extendedae:entro_dust']], 'extendedae:entro_crystal', 2000).id('caveopolis:enderio/sag_milling/entro_dust')
     event.recipes.enderio.sag_milling([['ae2:fluix_dust']], 'ae2:fluix_crystal', 2000).id('caveopolis:enderio/sag_milling/fluix_dust')
     event.recipes.enderio.sag_milling([['ae2:certus_quartz_dust']], 'ae2:certus_quartz_crystal', 2000).id('caveopolis:enderio/sag_milling/certus_dust')
-    event.recipes.enderio.sag_milling([['ae2:sky_stone_block']], 'ae2:sky_dust', 2000).id('caveopolis:enderio/sag_milling/sky_stone_block')
-    event.recipes.enderio.sag_milling([['minecraft:ender_pearl']], 'ae2:ender_dust', 2000).id('caveopolis:enderio/sag_milling/ender_dust')
+    event.recipes.enderio.sag_milling([['ae2:sky_dust']], 'ae2:sky_stone_block', 2000).id('caveopolis:enderio/sag_milling/sky_stone_block')
+    event.recipes.enderio.sag_milling([['ae2:ender_dust']], 'minecraft:ender_pearl', 2000).id('caveopolis:enderio/sag_milling/ender_dust')
+    event.recipes.enderio.sag_milling([['advanced_ae:quantum_infused_dust']], 'advanced_ae:shattered_singularity', 2000).id('caveopolis:enderio/sag_milling/quantum_infused_dust')
 
     //Replace Input
     event.replaceInput({id: 'enderio:ensouled_chassis'}, 'minecraft:quartz', 'enderio:void_chassis')

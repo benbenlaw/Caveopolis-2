@@ -7,6 +7,14 @@ ServerEvents.recipes(event => {
     event.replaceInput({id: 'ae2:network/crystal_resonance_generator'}, 'ae2:charged_certus_quartz_crystal', 'minecraft:prismarine_crystals')
     event.replaceInput({id: 'ae2:network/blocks/io_condenser'}, 'ae2:fluix_dust', 'alltheores:electrum_block')
 
+    //Creative Energy Cell
+        event.shaped('ae2:creative_energy_cell', ['AAA', 'BCB', 'AAA'], {
+        A: 'caveopolis:the_creative_ingot',
+        B: 'ae2:dense_energy_cell[ae2:stored_energy=1600000.0d]',
+        C: 'powah:energy_cell_creative'
+    }).id('caveopolis:creative_energy_cell')
+
+
     //Silicon
     event.blasting('ae2:silicon', 'extendedae:quartz_blend').id('caveopolis:smelting/silicon')
 

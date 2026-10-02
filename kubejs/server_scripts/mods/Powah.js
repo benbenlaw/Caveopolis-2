@@ -5,6 +5,9 @@ ServerEvents.recipes(event => {
     //Remove
     event.remove({id: 'powah:energizing/uraninite_from_uranium'})
 
+    //Creative Powah 
+    event.recipes.powah.energizing('powah:energy_cell_creative', 1000000000, ['powah:ender_cell_nitro', 'powah:ender_cell_nitro', 'caveopolis:the_creative_ingot', 'caveopolis:the_creative_ingot', 'caveopolis:the_creative_ingot', 'caveopolis:the_creative_ingot']).id('caveopolis:powah/energizing/energy_cell_creative')
+
     //Matter Ingot
     event.recipes.powah.energizing('caveopolis:matter_ingot', 8000, ['ae2:matter_ball', 'ae2:matter_ball', 'ae2:matter_ball', 'ae2:matter_ball', 'mysticalagriculture:prosperity_ingot']).id('caveopolis:powah/energizing/matter_ingot')
 

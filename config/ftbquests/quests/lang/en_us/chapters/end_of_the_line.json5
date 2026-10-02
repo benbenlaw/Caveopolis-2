@@ -1,10 +1,38 @@
 {
+  "quest.318E947830314527.quest_desc": [
+    "Easy ",
+  ],
+  "quest.44631CB0AD70524B.quest_desc": [
+    "Why",
+  ],
+  "quest.30F265DB9D19E43E.quest_desc": [
+    "Pricu but hot",
+  ],
   "task.4FF00A0D255D5A97.title": "Endgame",
+  "quest.48193A062354160B.quest_desc": [
+    "Pricy but cool",
+  ],
   "quest.34DD253463D43B67.quest_desc": [
     "Allows the compression of items into new ones. Requires a &lCatalyst&r, &lEnergy&r and a large amount of a specific item",
   ],
+  "quest.70E7EAB0B358453C.quest_desc": [
+    "You can do it",
+  ],
+  "quest.06F036BF0DE4811F.quest_desc": [
+    "Requires a few million &lCobblestone&r",
+  ],
+  "quest.35D4EA344A8277B8.quest_desc": [
+    "Why",
+  ],
+  "quest.4B15941B3792FB30.quest_desc": [
+    "Well if you managed to get this far GG. Thanks for playing &lCaveopolis 2&r. See you in the next one!",
+  ],
   "quest.7B137CC607FEAD99.quest_desc": [
     "Wow you really did complete all the quests well heres the final part",
+  ],
+  "task.7A6075CD6E6874F9.title": "The End",
+  "quest.7FB347C5E545F912.quest_desc": [
+    "You all wanted a &lShop Block&r, this is the price ",
   ],
   "quest.74A82C0CF1D00F5B.quest_desc": [
     "Powerful &lEssence&r used to create special items",
@@ -12,7 +40,31 @@
   "quest.34B94B6902CC76E8.quest_desc": [
     "Used as the &lCatalyst&r for more advanced compressing",
   ],
+  "quest.77030DB4D5447CFC.quest_desc": [
+    "Requires a few million &lStone&r",
+  ],
+  "quest.5EC9596A30C9F5CA.quest_desc": [
+    "Seems resonable",
+  ],
+  "quest.6EF41EA7CAB6AD30.quest_desc": [
+    "All the &lSingularites&r can be used to make &lThe Ultimate Singularity&r",
+  ],
   "quest.106F5CE205A618E5.quest_desc": [
     "Its the best!",
+  ],
+  "quest.5A046F5F9C87FB73.quest_desc": [
+    "All the Colors",
+  ],
+  "quest.73FA5C9BF93B65D3.quest_desc": [
+    "Unlimited &lPower&r sorry &lPowah!&r",
+  ],
+  "quest.7AC4F80DDF3D5408.quest_desc": [
+    "Easy",
+  ],
+  "quest.058631FBFFA6A1A5.quest_desc": [
+    "Shiny",
+  ],
+  "quest.7900C102B28AE98F.quest_desc": [
+    "So Good",
   ],
 }

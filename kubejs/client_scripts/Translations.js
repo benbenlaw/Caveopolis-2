@@ -34,6 +34,7 @@ ClientEvents.lang("en_us", event => {
     event.add("shop_tier.caveopolis.explorer_2", "Explorer - Tier 2")
     event.add("shop_tier.caveopolis.explorer_3", "Explorer - Tier 3")
     event.add("shop_tier.caveopolis.explorer_4", "Explorer - Tier 4")
+    event.add("shop_tier.caveopolis.explorer_5", "Explorer - Tier 5")
 
     event.add("ftbquests.quest.shape.shop", "Shop")
 

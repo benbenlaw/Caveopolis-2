@@ -12,6 +12,10 @@
 	showResearchToasts = true
 	#Show the recipe viewer hints in item tooltips (click to show recipe, shift-click to show usage).
 	showRecipeLookupHints = false
+	#How long (in milliseconds) the open key must be held while hovering an associated item before the linked book entry/page opens.
+	# Default: 750
+	# Range: 0 ~ 10000
+	associatedItemsHoldDurationMs = 750
 
 #Debug Settings
 [debug]

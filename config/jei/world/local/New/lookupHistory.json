@@ -1,5 +1,9 @@
 [
   {"version":1},
+  {"ingredient":{"id":"strainers:netherite_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:poppy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"colors:red_poppy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:rose_bush"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"functionalstorage:acacia_4"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"casting:molten_netherite_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -8,6 +8,29 @@ ServerEvents.recipes(event => {
     event.recipes.casting.melting(['10x caveopolis:molten_black_iron'], 'extendedcrafting:black_iron_nugget', 2000).id('caveopolis:melting/molten_black_iron_from_nugget')
     event.recipes.casting.melting(['810x caveopolis:molten_black_iron'], 'extendedcrafting:black_iron_block', 2000).id('caveopolis:melting/molten_black_iron_from_block')
 
+    //Creative Shard
+    event.recipes.extendedcrafting.shaped_ender_crafter('caveopolis:creative_shard', ['ABC', 'DEF', 'GHI'], {
+        A: 'minecraft:amethyst_shard',
+        B: 'caveopolis:bedrock_shard',
+        C: 'minecraft:echo_shard',
+        D: 'mysticalagradditions:nether_star_shard',
+        E: 'mysticalagradditions:creative_essence',
+        F: 'caveopolis:luminessence_shard',
+        G: 'dimresources:dimensional_shard',
+        H: 'mysticalagriculture:prosperity_shard',
+        I: 'minecraft:prismarine_shard'
+    }).craftingTime(1000).id('caveopolis:extendedcrafting/creative_shard')
+
+    //Creative Ingot
+    event.recipes.extendedcrafting.shaped_flux_crafter('caveopolis:creative_ingot', ['ABA', 'DCD', 'EBE'], {
+        A: 'enderio_endergy:crystalline_alloy_ingot',
+        B: 'enderio_endergy:melodic_alloy_ingot',
+        C: 'mysticalagradditions:creative_essence',
+        D: 'enderio_endergy:stellar_alloy_ingot',
+        E: 'enderio_endergy:vivid_alloy_ingot',
+    }, 10000000).powerRate(500000).id('caveopolis:extendedcrafting/creative_ingot')
+
+    //Shimmer Crystal Recipes
     colors.forEach(color => {
         event.shaped(`caveopolis:${color}_shimmer_crystal`, ['AAA', 'ABA', 'AAA'], {
             A: `colors:${color}_stone`,

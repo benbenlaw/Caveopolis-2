@@ -10,3 +10,10 @@
 	pauseGameWhenOpen = true
 	#Show toast notifications when research facts are granted, values are incremented, or nodes are unlocked.
 	showResearchToasts = true
+	#Show the recipe viewer hints in item tooltips (click to show recipe, shift-click to show usage).
+	showRecipeLookupHints = false
+
+#Debug Settings
+[debug]
+	#Enable the book debug overlay. While a book is open, press F6 to toggle it. It draws color coded outlines of the page, its content area and its text area, to help with layout offsets.
+	debugOverlay = false

@@ -11,6 +11,9 @@ ServerEvents.recipes(event => {
     event.replaceInput({id: 'extendedcrafting:the_ultimate_catalyst'}, 'extendedcrafting:black_iron_ingot', 'extendedcrafting:the_ultimate_ingot')
 
     //Singularities
+    event.recipes.casting.solidifier('extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:scorchium"]', 'extendedcrafting:the_ultimate_catalyst', '500000x casting:scorchium', 2000).durationModifier(5.0).id('caveopolis:extendedcrafting/scorchium_singularity')
+    event.recipes.casting.solidifier('extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:glacium"]', 'extendedcrafting:the_ultimate_catalyst', '500000x casting:glacium', 2000).durationModifier(5.0).id('caveopolis:extendedcrafting/glacium_singularity')
+
     event.recipes.extendedcrafting.compressor('extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:cobblestone"]', '64x compressium:cobblestone_9', 
         'extendedcrafting:the_ultimate_catalyst', 32000 * 100).powerRate(32000).id('caveopolis:extendedcrafting/cobblestone_singularity')
 
@@ -201,7 +204,53 @@ ServerEvents.recipes(event => {
     //The Ultimate Template
     event.recipes.extendedcrafting.shapeless_table("caveopolis:the_ultimate_template", Ingredient.of('#caveopolis:templates').itemIds).id('caveopolis:extendedcrafting/the_ultimate_template')
 
-    //The Ultimate Singularity
-    //WIP
+    //Ultimate Singularity
+    event.recipes.extendedcrafting.shapeless_table("extendedcrafting:ultimate_singularity",
+        [
+            'extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:scorchium"]',
+            'extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:glacium"]',
+            'extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:cobblestone"]',
+            'extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:stone"]',
+            'extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:b_buck"]',
+            'extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:experience"]',
+            'extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:energy"]',
+            'extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:amethyst"]',
+            'extendedcrafting:singularity[extendedcrafting:singularity_id="extendedcrafting:rainbow"]'
+        ]
+    ).id('caveopolis:extendedcrafting/ultimate_singularity')
+
+    //The Creative Ingot
+    event.custom({
+        "type": "extendedcrafting:shaped_table",
+        "pattern": [
+            "AABBBBBAA",
+            "ABCCDCCBA",
+            "BCEFDFGCB",
+            "BCFHAIFCB",
+            "BDDADADDB",
+            "BCFJAKFCB",
+            "BCLFDFMCB",
+            "ABCCDCCBA",
+            "AABBBBBAA"
+        ],
+        "key": {
+            "A": "extendedcrafting:ultimate_singularity",
+            "B": "mysticalagradditions:creative_essence",
+            "C": "caveopolis:creative_ingot",
+            "D": "extendedcrafting:the_ultimate_ingot",
+            "E": "reliquary:hero_medallion",
+            "F": "caveopolis:creative_shard",
+            "G": "reliquary:mercy_cross",
+            "H": "reliquary:emperor_chalice",
+            "I": "reliquary:infernal_chalice",
+            "J": "reliquary:ender_staff",
+            "K": "reliquary:glacial_staff",
+            "L": "reliquary:phoenix_down",
+            "M": "reliquary:witherless_rose"
+        },
+        "result": {
+            "id": "caveopolis:the_creative_ingot"
+        }
+    }).id('caveopolis:extendedcrafting/the_creative_ingot')
 
 })

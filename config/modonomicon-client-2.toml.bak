@@ -8,3 +8,5 @@
 	fontFallbackLocales = ["zh_cn", "ja_jp", "ko_kr"]
 	#If true, the game will pause when a Modonomicon book is open (singleplayer only).
 	pauseGameWhenOpen = true
+	#Show toast notifications when research facts are granted, values are incremented, or nodes are unlocked.
+	showResearchToasts = true
