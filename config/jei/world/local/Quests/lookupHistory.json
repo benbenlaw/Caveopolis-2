@@ -1,5 +1,8 @@
 [
   {"version":1},
+  {"ingredient":{"id":"caveopolis:creative_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extendedcrafting:singularity","components":"{\"extendedcrafting:singularity_id\":\"extendedcrafting:glacium\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"casting:glacium"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"strainers:wooden_mesh"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"caveopolis:the_ultimate_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -24,7 +27,6 @@
   {"ingredient":{"id":"reliquary:infernal_claw"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"reliquary:infernal_tear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"reliquary:hero_medallion"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"caveopolis:creative_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"recipe":"ironfurnaces:furnaces/million_furnace","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
   {"ingredient":{"id":"ironfurnaces:million_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"extendedcrafting:singularity","components":"{\"extendedcrafting:singularity_id\":\"extendedcrafting:rainbow\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -97,7 +99,5 @@
   {"ingredient":{"id":"alltheores:constantan_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"alltheores:signalum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"alltheores:lumium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:enderium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:brass_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:bronze_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"alltheores:enderium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

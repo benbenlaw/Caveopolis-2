@@ -15,7 +15,7 @@
 	#Modpack name shown in /modpack
 	"Modpack name" = "USE_BCC"
 	#Version of the modpack shown in /modpack
-	"Modpack Version" = "0.13.0"
+	"Modpack Version" = "0.13.1"
 	#Add a URL to link your discord, BBL Discord = https://discord.gg/benbenlaw
 	"Discord URL" = "https://discord.gg/benbenlaw"
 	#Set the horizon height, default = 0.0, if in skyblock modpacks set to -64.0

@@ -92,7 +92,7 @@
 	#How much FE the Flux Alternator should hold.
 	# Default: 80000
 	# Range: > 0
-	powerCapacity = 80000
+	powerCapacity = 5000000
 	#How much FE the Auto Flux Crafter should hold.
 	# Default: 500000
 	# Range: > 0
