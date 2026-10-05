@@ -1556,6 +1556,22 @@
           exclude_from_claim_all: true,
           table_id: 4196252271051251706,
         },
+        {
+          id: "224EAEB9CE59B548",
+          type: "item",
+          item: {
+            id: "routers:router_manager",
+            count: 1,
+          },
+        },
+        {
+          id: "669A1B1D58F3C6C1",
+          type: "item",
+          item: {
+            id: "routers:importer_exporter",
+            count: 1,
+          },
+        },
       ],
     },
     {

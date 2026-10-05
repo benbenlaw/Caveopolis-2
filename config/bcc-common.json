@@ -5,7 +5,7 @@
   },
   "modpackVersion": {
     "comments": ["The version of the modpack"],
-    "value": "0.13.1"
+    "value": "0.13.2"
   },
   "useMetadata": {
     "comments": [

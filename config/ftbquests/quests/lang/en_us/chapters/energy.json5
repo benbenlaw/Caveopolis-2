@@ -106,6 +106,9 @@
   "quest.3710DACF868A8806.quest_desc": [
     "A more sturdy",
   ],
+  "quest.5C1B51F36FAA68E5.quest_desc": [
+    "&6&lMolten Blaze&r&r is a very hot fluid. It requires a fuel with 1400 temperature like &8&lMolten Coal&r&r to smelt",
+  ],
   "quest.13CBC57A47B19E81.quest_desc": [
     "&8&lSky Stone Dust&r&r can be created by setting fire to a &lMatter Block&r, The &lMatter Block&r will be converted after use..",
   ],
@@ -126,6 +129,7 @@
   "quest.410618547D68BF1F.quest_desc": [
     "This must be placed inside a &lMatter Condenser&r to make &5&lSingularities&r&r and &lMatter Balls&r",
   ],
+  "task.6177C36F26C76205.title": "Molten Blaze",
   "quest.410A4A378D85EE77.quest_desc": [
     "Super cold. Used to cool down a &lReactor&r",
   ],

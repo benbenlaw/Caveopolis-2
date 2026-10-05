@@ -382,7 +382,7 @@
       ],
     },
     {
-      x: -11.0,
+      x: -12.0,
       y: -4.5,
       dependencies: [
         "1A6DB5F9AC66F2CF",
@@ -414,7 +414,7 @@
       x: -9.5,
       y: -4.5,
       dependencies: [
-        "4BE6D4A1A1D0C91E",
+        "5C1B51F36FAA68E5",
       ],
       size: 1.0,
       id: "6D35EB7386DEE743",
@@ -1634,6 +1634,35 @@
       rewards: [
         {
           id: "722C268ECC823F64",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "casting:molten_blaze_bucket",
+        count: 1,
+      },
+      x: -10.80952380952381,
+      y: -4.452380952380956,
+      dependencies: [
+        "4BE6D4A1A1D0C91E",
+      ],
+      size: 1.0,
+      id: "5C1B51F36FAA68E5",
+      tasks: [
+        {
+          id: "6177C36F26C76205",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "05C9D4413B97CA45",
           type: "item",
           item: {
             id: "shops:copper_coin",

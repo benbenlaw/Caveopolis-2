@@ -1,6 +1,11 @@
 [
   {"version":1},
+  {"ingredient":{"id":"caveopolis:creative_shard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"caveopolis:creative_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"caveopolis:the_creative_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powah:dielectric_paste"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"casting:molten_obsidian"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"casting:molten_blaze"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"extendedcrafting:singularity","components":"{\"extendedcrafting:singularity_id\":\"extendedcrafting:glacium\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"casting:glacium"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -12,7 +17,6 @@
   {"ingredient":{"id":"ae2:dense_energy_cell","components":"{\"ae2:stored_energy\":1600000.0d}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ae2:creative_energy_cell"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"refinedstorage:creative_controller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"caveopolis:the_creative_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"powah:energy_cell_creative"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"powah:ender_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"powah:ender_cell_nitro"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -37,7 +41,6 @@
   {"ingredient":{"id":"ironfurnaces:million_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ironfurnaces:rainbow_plating"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"extendedcrafting:ultimate_singularity"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"caveopolis:creative_shard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"reliquary:witherless_rose"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"reliquary:angelheart_vial"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"reliquary:phoenix_down"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -96,8 +99,5 @@
   {"ingredient":{"id":"alltheores:uranium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"alltheores:zinc_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"alltheores:iridium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:constantan_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:signalum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:lumium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:enderium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"alltheores:constantan_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -401,8 +401,8 @@
       ],
     },
     {
-      x: 6.0,
-      y: 0.0,
+      x: 4.5,
+      y: 0.5,
       dependencies: [
         "7FAFE107FBED0722",
       ],
@@ -430,8 +430,8 @@
       ],
     },
     {
-      x: 6.0,
-      y: -1.0,
+      x: 6.5,
+      y: -0.5,
       dependencies: [
         "7FAFE107FBED0722",
       ],
@@ -459,7 +459,7 @@
       ],
     },
     {
-      x: 4.5,
+      x: 4.0,
       y: -0.5,
       dependencies: [
         "2C457F6FFCA29EE2",
@@ -1613,6 +1613,35 @@
           type: "item",
           item: {
             id: "minecraft:glow_ink_sac",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 5.5,
+      y: -1.5,
+      dependencies: [
+        "192801839875D54C",
+      ],
+      size: 1.0,
+      id: "6A532238F72AB30A",
+      tasks: [
+        {
+          id: "4045F531CEA9C83C",
+          type: "item",
+          item: {
+            id: "mysticalagriculture:tertium_essence",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "056DAEB7946726CA",
+          type: "item",
+          item: {
+            id: "shops:copper_coin",
             count: 1,
           },
         },
