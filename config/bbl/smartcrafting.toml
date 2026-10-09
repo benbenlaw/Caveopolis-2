@@ -1,0 +1,21 @@
+["Smart Crafting Config"]
+	#The range in blocks to check for storage blocks when crafting. Higher valves will take more time, Default is 5.
+	# Default: 5
+	# Range: 1 ~ 64
+	storageRangeCheck = 5
+	#The range in blocks to check for stonecutter blocks when crafting. Higher valves will take more time, Default is 5.
+	# Default: 5
+	# Range: 1 ~ 64
+	stonecutterRangeCheck = 5
+	#The range in blocks to check for smithing table blocks when crafting. Higher valves will take more time, Default is 5.
+	# Default: 5
+	# Range: 1 ~ 64
+	smithingTableRangeCheck = 5
+	#Allows players to turn on recursive crafting, which crafts intermediate items for you (eg logs -> planks -> stairs).
+	recursiveCraftingEnabled = true
+	#How many crafting steps deep recursive crafting will look. Higher values will take more time, Default is 3.
+	# Default: 3
+	# Range: 1 ~ 6
+	recursiveCraftingMaxDepth = 3
+	#List of allowed storage blocks that the smart crafting table can use.
+	"Allowed Storage Blocks" = ["minecraft:chest"]

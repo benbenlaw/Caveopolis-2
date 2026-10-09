@@ -1,5 +1,13 @@
 [
   {"version":1},
+  {"ingredient":{"id":"smartcrafting:smart_crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"smartcrafting:portable_smart_crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:nether_quartz_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"strainers:ore_piece","components":"{\"strainers:ore_type\":\"quartz\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extendedae:smart_annihilation_plane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"castingtools:silk_touch","type":"com.benbenlaw.castingtools.modifier.Modifier","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"reliquary:xp_still"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:annihilation_plane"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"caveopolis:creative_shard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"caveopolis:creative_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"caveopolis:the_creative_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -91,13 +99,5 @@
   {"ingredient":{"id":"castingtools:omnithium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"alltheores:aluminum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"alltheores:nickel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:lead_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:osmium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:platinum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:silver_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:tin_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:uranium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:zinc_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:iridium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:constantan_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"alltheores:lead_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

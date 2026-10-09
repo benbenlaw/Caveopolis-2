@@ -150,6 +150,11 @@ ServerEvents.tags('item', event => {
     event.get('curios:curio').remove([
         'ae2:wireless_crafting_terminal'
     ])
+
+    //No Modifiable 
+    event.get('castingtools:not_modifiable').add([
+        'extendedae:smart_annihilation_plane'
+    ])
 })
 
 ServerEvents.tags('block', event => {
@@ -242,6 +247,12 @@ ServerEvents.tags('block', event => {
         'ae2:flawed_budding_quartz',
         'ae2:chipped_budding_quartz',
         'ae2:damaged_budding_quartz'
+    ])
+
+    //Smart Crafting Valid Blocks
+    event.get('smartcrafting:whitelisted_storage').add([
+        '@functionalstorage',
+        '@sophisticatedstorage'
     ])
 
 })

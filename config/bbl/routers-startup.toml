@@ -35,6 +35,46 @@
 		# Default: 250000000
 		# Range: > 1
 		"RF Per Operation 5" = 250000000
+		#The most essentia per operation that tier 1 can move (needs Thaumaturge). A jar holds 250.
+		# Default: 4
+		# Range: > 1
+		"Essentia Per Operation 1" = 4
+		#The most essentia per operation that tier 2 can move (needs Thaumaturge).
+		# Default: 8
+		# Range: > 1
+		"Essentia Per Operation 2" = 8
+		#The most essentia per operation that tier 3 can move (needs Thaumaturge).
+		# Default: 16
+		# Range: > 1
+		"Essentia Per Operation 3" = 16
+		#The most essentia per operation that tier 4 can move (needs Thaumaturge).
+		# Default: 32
+		# Range: > 1
+		"Essentia Per Operation 4" = 32
+		#The most essentia per operation that tier 5 can move (needs Thaumaturge).
+		# Default: 64
+		# Range: > 1
+		"Essentia Per Operation 5" = 64
+		#The most Rift energy per operation that tier 1 can move (needs BBL Rifts).
+		# Default: 800
+		# Range: > 1
+		"Rift Energy Per Operation 1" = 800
+		#The most Rift energy per operation that tier 2 can move (needs BBL Rifts).
+		# Default: 32000
+		# Range: > 1
+		"Rift Energy Per Operation 2" = 32000
+		#The most Rift energy per operation that tier 3 can move (needs BBL Rifts).
+		# Default: 64000
+		# Range: > 1
+		"Rift Energy Per Operation 3" = 64000
+		#The most Rift energy per operation that tier 4 can move (needs BBL Rifts).
+		# Default: 128000
+		# Range: > 1
+		"Rift Energy Per Operation 4" = 128000
+		#The most Rift energy per operation that tier 5 can move (needs BBL Rifts).
+		# Default: 250000000
+		# Range: > 1
+		"Rift Energy Per Operation 5" = 250000000
 
 	[Distributor."Item Upgrades"]
 		#The maximum items per operation that tier 1 can provide.

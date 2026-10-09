@@ -24,5 +24,6 @@
   {"ingredient":{"id":"extendedcrafting:auto_flux_crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"extendedcrafting:flux_crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"recipe":"caveopolis:extendedcrafting/creative_ingot","recipeType":"extendedcrafting:flux_crafting","bookmarkType":"RECIPE"},
-  {"ingredient":{"id":"enderio_endergy:vivid_alloy_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"enderio_endergy:vivid_alloy_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blue_wool"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -1589,6 +1589,35 @@
         },
       ],
     },
+    {
+      x: 7.0,
+      y: -0.5,
+      dependencies: [
+        "62367295F2ED87C2",
+      ],
+      size: 1.0,
+      id: "629735725398325E",
+      tasks: [
+        {
+          id: "588FA6F456B5E1D3",
+          type: "item",
+          item: {
+            id: "smartcrafting:smart_crafting_table",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "77F8799CC352759B",
+          type: "item",
+          item: {
+            id: "smartcrafting:portable_smart_crafting_table",
+            count: 1,
+          },
+        },
+      ],
+    },
   ],
   quest_links: [
   ],

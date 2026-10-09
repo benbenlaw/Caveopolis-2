@@ -2,6 +2,11 @@
   "quest.5512C8493485B010.quest_desc": [
     "Faster mining ",
   ],
+  "quest.629735725398325E.quest_desc": [
+    "The &lSmart Crafting Table&r can be used to craft items quicker. Place down and it will pull from nearby &lChests&r and &lInventories&r around it.",
+    "",
+    "Placing a &lStonecutter&r and a &lSmithing Table&r nearby will add those recipes too",
+  ],
   "quest.48DCC2C951B04764.quest_desc": [
     "Crafted from &#8B4513&lLogs&r&r",
   ],
