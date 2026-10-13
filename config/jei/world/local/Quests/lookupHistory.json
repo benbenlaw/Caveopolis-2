@@ -1,5 +1,15 @@
 [
   {"version":1},
+  {"recipe":"caveopolis:barterer","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"easy_piglins:barterer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rsinsertexportupgrade:export_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rsinsertexportupgrade:block_picker_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rsinsertexportupgrade:magnet_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rsinsertexportupgrade:energy_capacity_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":"{\"minecraft:potion_contents\":{potion:\"minecraft:luck\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":"{\"minecraft:potion_contents\":{potion:\"minecraft:mundane\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:rabbit_foot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:rabbit_hide"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"smartcrafting:smart_crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"smartcrafting:portable_smart_crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:nether_quartz_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -89,15 +99,5 @@
   {"ingredient":{"id":"minecraft:netherite_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:shaper_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:raiser_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:wayfinder_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:dune_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:rib_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:eye_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:bolt_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"castingtools:omnithium_upgrade_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"casting:ingot_mold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"castingtools:omnithium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:aluminum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:nickel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:lead_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:wayfinder_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

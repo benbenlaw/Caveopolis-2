@@ -1,0 +1,4 @@
+#BBL Fixes Startup Config
+["BBL Fixes"]
+	#Enable fix for LootJS when using tags in loot conditions, default = false
+	"Enable LootJS fix" = true

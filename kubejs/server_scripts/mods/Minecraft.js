@@ -7,6 +7,9 @@ ServerEvents.recipes(event => {
     event.replaceInput({id: 'minecraft:blast_furnace'}, 'minecraft:iron_ingot', 'alltheores:zinc_ingot')
     event.replaceInput({id: 'minecraft:stonecutter'}, 'minecraft:iron_ingot', 'alltheores:bronze_ingot')
     
+    //Luck Potion
+    event.shapeless('minecraft:potion[potion_contents={potion:"minecraft:luck"}]', ['minecraft:potion[potion_contents={potion:"minecraft:mundane"}]', 'minecraft:glowstone_dust', 'minecraft:emerald'])
+
     //Hopper
     event.shaped('minecraft:hopper', ['A A', 'ABA', ' A '], {
         A: '#c:ingots/aluminum',

@@ -4,3 +4,5 @@
 	"Enable LootJS fix" = true
 	#Prevents classic pipes from extracting if the pipe is full, also adds a hard limit of 64 to the classic pipe to prevent huge amounts of items building up, default = false
 	"Enable Classic Pipes fix" = true
+	#Fixes the Sophisticated crafting upgrade keeping its result after the grid is cleared with Crafting Tweaks (duplication bug), default = false
+	"Enable Sophisticated crafting fix" = true
