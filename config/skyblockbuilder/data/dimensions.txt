@@ -1,5 +1,5 @@
 minecraft:overworld
-minecraft:the_nether
-caveopolis:caves
 minecraft:the_end
+caveopolis:caves
+minecraft:the_nether
 ae2:spatial_storage
