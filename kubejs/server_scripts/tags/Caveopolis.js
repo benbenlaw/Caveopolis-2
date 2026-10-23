@@ -155,6 +155,13 @@ ServerEvents.tags('item', event => {
     event.get('castingtools:not_modifiable').add([
         'extendedae:smart_annihilation_plane'
     ])
+
+    //Banned Clicker Blocks
+    event.get('utility:clicker_blacklist').add([
+        'shops:copper_coin',
+        'shops:iron_coin',
+        'shops:gold_coin'
+    ])
 })
 
 ServerEvents.tags('block', event => {

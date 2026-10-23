@@ -3,10 +3,10 @@
 ServerEvents.recipes(event => {
 
     //No Tier 
-    event.recipes.shops.shop('shops:copper_coin', 1, 0).order(1).id('caveopolis:shops/copper_coin')
+    event.recipes.shops.shop('shops:copper_coin', 1, 1).order(1).id('caveopolis:shops/copper_coin')
     //event.recipes.shops.shop('caveopolis:bronze_coin', 3, 0).order(2).id('caveopolis:shops/bronze_coin')
-    event.recipes.shops.shop('shops:iron_coin', 5, 0).order(3).id('caveopolis:shops/iron_coin')
-    event.recipes.shops.shop('shops:gold_coin', 10, 0).order(4).id('caveopolis:shops/gold_coin')
+    event.recipes.shops.shop('shops:iron_coin', 5, 5).order(3).id('caveopolis:shops/iron_coin')
+    event.recipes.shops.shop('shops:gold_coin', 10, 10).order(4).id('caveopolis:shops/gold_coin')
     event.recipes.shops.shop('4x minecraft:apple', 2, 1).order(5).id('caveopolis:shops/apple')
     event.recipes.shops.shop('16x strainers:stone_pebble', 2, 1).order(6).id('caveopolis:shops/stone_pebble')
 
