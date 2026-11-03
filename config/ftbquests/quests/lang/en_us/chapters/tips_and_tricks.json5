@@ -18,7 +18,7 @@
   "quest.4DF28E7685DA9FF4.quest_desc": [
     "Meshes can be &lEnchanted&r or &lModified&r (using &lCasting Tools Modifier Block&r) with Efficiency, Fortune and Unbreaking",
     "",
-    "Fortune uses the Additional Chance value and multiplies it by the level. Going over 100% will guarantee the drop and role again. Eg if you go to 150% change you will always get the item plus a 50% to get it again",
+    "Fortune uses the Additional Chance value and multiplies it by the level. Going over 100% will guarantee the drop and role again. Eg if you go to 150% chance you will always get the item plus a 50% to get it again",
   ],
   "quest.4701378FCCF6959A.quest_desc": [
     "Allows for automatic buying and selling. When placed within a 5 blocks area of a trader will also allow you to automate those trades as well!",

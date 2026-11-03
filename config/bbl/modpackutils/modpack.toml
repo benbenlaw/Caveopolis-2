@@ -15,7 +15,7 @@
 	#Modpack name shown in /modpack
 	"Modpack name" = "USE_BCC"
 	#Version of the modpack shown in /modpack
-	"Modpack Version" = "0.17.0"
+	"Modpack Version" = "0.18.0"
 	#Add a URL to link your discord, BBL Discord = https://discord.gg/benbenlaw
 	"Discord URL" = "https://discord.gg/benbenlaw"
 	#Set the horizon height, default = 0.0, if in skyblock modpacks set to -64.0
@@ -28,3 +28,13 @@
 	"Piglin Bartering Item" = "caveopolis:black_gold_ingot"
 	#The cooldown applied after a Sniffy works in ticks, default = 9600
 	"Sniffer Cooldown" = "20"
+	#Dimension players spawn in on first join and when they have no valid bed or respawn anchor, e.g. minecraft:the_nether. Leave empty to disable, default = empty
+	"Starting Dimension" = ""
+	#If the overworld is a superflat world, make every other dimension superflat too (uses the same layers), default = false
+	"Flat Dimensions" = false
+	#Biome used for a flat dimension, as dimension=biome in quotes, e.g. "modpack:preset=minecraft:plains". The biome must be one the dimension already uses. Dimensions not listed keep their only biome, or use the overworld flat biome
+	"Flat Dimension Biomes" = []
+	#Layers for a flat dimension, bottom to top, as dimension=block*height,block*height in quotes, e.g. "modpack:preset=minecraft:bedrock*1,minecraft:stone*60,minecraft:grass_block*1". Dimensions not listed use the overworld flat layers
+	"Flat Dimension Layers" = []
+	#Generate biome features (trees, ores, flowers etc.) in flat dimensions even if the overworld superflat preset has features turned off, default = false
+	"Flat Dimension Features" = false

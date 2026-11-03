@@ -4,6 +4,14 @@
 	# Default: 10
 	# Range: 1 ~ 64
 	"Distributor Range" = 10
+	#The most machines a single distributor will share resources between. If more are in range, the closest ones are used.
+	# Default: 64
+	# Range: 1 ~ 1024
+	"Distributor Max Machines" = 64
+	#How often, in ticks, a distributor looks again for the machines around it. A new machine can take up to this long to start receiving.
+	# Default: 100
+	# Range: 1 ~ 1200
+	"Distributor Refresh Ticks" = 100
 
 	#Routers Config
 	[Distributor."RF Upgrades"]
@@ -149,3 +157,15 @@
 		# Default: 400
 		# Range: > 0
 		"Max Backoff Ticks" = 400
+
+	#Router Manager
+	[Distributor."Router Manager"]
+		#Routers within this many blocks of a Router Manager are where its flow chart starts. 
+		#From there it follows every link to chart the whole connected network, even far away or in other dimensions.
+		# Default: 16
+		# Range: 1 ~ 128
+		"Seed Radius" = 16
+		#The most routers a single Router Manager flow chart will include. Larger networks are cut off at this many.
+		# Default: 256
+		# Range: 1 ~ 4096
+		"Max Routers Charted" = 256

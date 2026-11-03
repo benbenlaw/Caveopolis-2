@@ -100,7 +100,7 @@ ServerEvents.recipes(event => {
     event.shapeless('9x caveopolis:matter_ingot', 'caveopolis:matter_block').id('caveopolis:matter_ingot_from_block')
 
     //Speedy Ladder
-    event.shaped('caveopolis:speedy_ladder', ['A A', 'AAA', 'A A'], {
+    event.shaped('16x caveopolis:speedy_ladder', ['A A', 'AAA', 'A A'], {
         A: 'caveopolis:suspicious_stick'
     }).id('caveopolis:speedy_ladder')
   

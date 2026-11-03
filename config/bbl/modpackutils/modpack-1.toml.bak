@@ -15,7 +15,7 @@
 	#Modpack name shown in /modpack
 	"Modpack name" = "USE_BCC"
 	#Version of the modpack shown in /modpack
-	"Modpack Version" = "0.9.0"
+	"Modpack Version" = "0.17.0"
 	#Add a URL to link your discord, BBL Discord = https://discord.gg/benbenlaw
 	"Discord URL" = "https://discord.gg/benbenlaw"
 	#Set the horizon height, default = 0.0, if in skyblock modpacks set to -64.0
@@ -26,3 +26,5 @@
 	"Climbable Block Speed" = 0.5
 	#Item that piglins will barter for, default = minecraft:gold_ingot
 	"Piglin Bartering Item" = "caveopolis:black_gold_ingot"
+	#The cooldown applied after a Sniffy works in ticks, default = 9600
+	"Sniffer Cooldown" = "20"

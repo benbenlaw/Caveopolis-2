@@ -1,0 +1,4 @@
+{
+  // If disabled, LibX doesn't override "Mod List" section in crash reports to include SHA1 and Murmur2 hashes
+  "appendHashesInCrashes": true
+}

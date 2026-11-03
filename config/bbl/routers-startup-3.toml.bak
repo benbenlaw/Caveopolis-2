@@ -23,6 +23,10 @@
 		# Default: 128000
 		# Range: > 1
 		"RF Per Operation 4" = 128000
+		#The maximum RF per tick that tier 5 can provide.
+		# Default: 250000000
+		# Range: > 1
+		"RF Per Operation 5" = 250000000
 
 	[Distributor."Item Upgrades"]
 		#The maximum items per operation that tier 1 can provide.
@@ -41,6 +45,10 @@
 		# Default: 64
 		# Range: > 1
 		"Items Per Operation 4" = 64
+		#The maximum items per operation that tier 5 can provide.
+		# Default: 25000000
+		# Range: > 1
+		"Items Per Operation 5" = 25000000
 
 	[Distributor."Fluid Upgrades"]
 		#The maximum mb per operation that tier 1 can provide.
@@ -59,6 +67,10 @@
 		# Default: 100000
 		# Range: > 1
 		"Fluid Per Operation 4" = 100000
+		#The maximum mb per operation that tier 5 can provide.
+		# Default: 250000000
+		# Range: > 1
+		"Fluid Per Operation 5" = 250000000
 
 	[Distributor."Chemical Upgrades"]
 		#The maximum mB per operation that tier 1 can provide.

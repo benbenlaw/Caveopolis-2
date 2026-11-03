@@ -1,5 +1,6 @@
 [
   {"version":1},
+  {"ingredient":{"id":"caveopolis:speedy_ladder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"structureloot:entity_token","components":"{\"structureloot:loot_id\":\"minecraft:rabbit\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"structureloot:entity_token","components":"{\"structureloot:loot_id\":\"minecraft:evoker\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"recipe":"caveopolis:barterer","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
@@ -98,6 +99,5 @@
   {"ingredient":{"id":"extendedcrafting:the_ultimate_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:copper_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:gold_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:netherite_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:shaper_armor_trim_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:netherite_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]
