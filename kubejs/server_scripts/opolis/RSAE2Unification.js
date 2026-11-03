@@ -271,7 +271,7 @@ ServerEvents.recipes(event => {
 
     //Ultimate Storage Component
     event.shaped('ae2:cell_component_64k', ['ADA', 'BCB', 'ABA'], {
-        A: 'alltheores:uranium_ingot',
+        A: '#c:ingots/uranium',
         B: 'ae2:cell_component_16k',
         C: 'ae2:engineering_processor',
         D: 'refinedstorage:quartz_enriched_iron'
