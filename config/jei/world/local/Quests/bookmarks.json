@@ -27,5 +27,6 @@
   {"ingredient":{"id":"enderio_endergy:vivid_alloy_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:blue_wool"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:potion","components":"{\"minecraft:potion_contents\":{potion:\"minecraft:mundane\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"recipe":"caveopolis:barterer","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+  {"recipe":"caveopolis:barterer","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"simplehats:hatbag_common"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

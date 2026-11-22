@@ -154,6 +154,11 @@
      */
     enabled: false,
     /*
+     * Show entity heads on minimap
+     * Default: true
+     */
+    entity_heads: true,
+    /*
      * When true, minimap rotation is locked to North = Up
      * Default: true
      */
@@ -276,6 +281,11 @@
         "ftbchunks:real_time",
         "ftbchunks:debug",
       ],
+      /*
+       * Show label prefixes on minimap info lines?
+       * Default: false
+       */
+      info_labels: false,
       /*
        * Info displayed under minimap
        * Default: ["ftbchunks:player_pos", "ftbchunks:biome", "ftbchunks:zone", "ftbchunks:fps", "ftbchunks:game_time", "ftbchunks:real_time", "ftbchunks:debug"]

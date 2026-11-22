@@ -9,7 +9,7 @@
 		#Choose whether compatible screens are allowed unless listed below.
 		#Allowed Values: DENY_BY_DEFAULT, ALLOW_BY_DEFAULT
 		defaultScreenPolicy = "ALLOW_BY_DEFAULT"
-		#Only adds inventory controls to containers with at least this many usable slots.
+		#Only adds search and container sorting controls to containers with at least this many usable slots. Transfers have no minimum.
 		#With the default, anvils (2) are skipped while dispensers and droppers (9) are included.
 		# Default: 9
 		# Range: > 0
@@ -28,6 +28,26 @@
 			#Examples: net.minecraft.client.gui.screens.inventory.HorseInventoryScreen=0,1 or com.example.client.*=0-2,5
 			screenSlotOverrides = ["net.minecraft.client.gui.screens.inventory.HorseInventoryScreen=0,1"]
 
+			[client.compatibility.container.include]
+				#Group-specific rules override the legacy screen rules for that group.
+				#Legacy rules apply to container controls and transfers; player sorting is allowed unless blocked separately.
+				screenClasses = []
+
+			[client.compatibility.container.exclude]
+				screenClasses = []
+
+			[client.compatibility.transfers.include]
+				screenClasses = []
+
+			[client.compatibility.transfers.exclude]
+				screenClasses = []
+
+			[client.compatibility.playerSort.include]
+				screenClasses = []
+
+			[client.compatibility.playerSort.exclude]
+				screenClasses = []
+
 	#Moves the inventory buttons for specific screens.
 	#Use screenClass=x,y.
 	#Example: net.minecraft.client.gui.screens.inventory.DispenserScreen=54,0
@@ -37,3 +57,6 @@
 		#Use screenClass=x,y.
 		#Positive x moves right; positive y moves down.
 		playerSortOffsetOverrides = ["net.p3pp3rf1y.sophisticatedstorage.client.gui.DecorationTableScreen=0,2"]
+		#Moves transfers and player sorting together. Use screenClass=x,y.
+		#Positive x moves right; positive y moves down.
+		playerOffsetOverrides = []

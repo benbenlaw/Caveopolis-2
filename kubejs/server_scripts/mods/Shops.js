@@ -23,6 +23,9 @@ ServerEvents.recipes(event => {
     event.recipes.shops.shop('caveopolis:stone_hammer[castingtools:modifier_component={modifiers:{"castingtools:excavation":1,"castingtools:pulverizing":1}},custom_name="Super Pulverizing Hammer"]', 25, 0)
         .tier('tier_1').order(31).id('caveopolis:shops/super_pulverizing_hammer')
 
+    event.recipes.shops.shop('simplehats:hatbag_common', 2, 0).tier('tier_1').order(30).id('caveopolis:shops/hatbag_common')
+    event.recipes.shops.shop('simplehats:hatbag_festive', 2, 0).tier('tier_1').order(30).id('caveopolis:shops/hatbag_festive')
+
     //Tier 2
     event.recipes.shops.shop('4x strainers:purifying_drop', 8, 1).tier('tier_2').order(1).id('caveopolis:shops/purifying_drop')
     event.recipes.shops.shop('4x caveopolis:makeshift_fuel_drop', 8, 1).tier('tier_2').order(2).id('caveopolis:shops/makeshift_fuel_drop')
@@ -62,7 +65,9 @@ ServerEvents.recipes(event => {
     event.recipes.shops.shop('functionalstorage:framed_2', 8, 0).tier('tier_2').order(60).id('caveopolis:shops/framed_2')
     event.recipes.shops.shop('functionalstorage:framed_4', 8, 0).tier('tier_2').order(61).id('caveopolis:shops/framed_4')
 
+    event.recipes.shops.shop('simplehats:hatbag_uncommon', 3, 0).tier('tier_2').order(30).id('caveopolis:shops/hatbag_common')
     
+
     //Tier 3
     event.recipes.shops.shop('4x caveopolis:improvised_lava_drop', 12, 0).tier('tier_3').order(1).id('caveopolis:shops/improvised_lava_drop')
     
@@ -88,6 +93,8 @@ ServerEvents.recipes(event => {
         event.recipes.shops.shop('elevatorid:elevator_' + color, 8, 0).tier('tier_3').order(31).id('caveopolis:shops/' + color + '_log')
     })
 
+    event.recipes.shops.shop('simplehats:hatbag_rare', 4, 0).tier('tier_3').order(30).id('caveopolis:shops/hatbag_rare')
+
     //Tier 4
     event.recipes.shops.shop('4x adrenaline:adrenaline_shot', 6, 1).tier('tier_4').order(1).id('caveopolis:shops/adrenaline')
     event.recipes.shops.shop('minecraft:sniffer_egg', 6, 1).tier('tier_4').order(2).id('caveopolis:shops/sniffer_egg')
@@ -99,6 +106,7 @@ ServerEvents.recipes(event => {
 
     event.recipes.shops.shop('mysticalagriculture:mystical_fertilizer', 0, 3).tier('tier_4').order(11).id('caveopolis:shops/mystical_fertilizer')
 
+    event.recipes.shops.shop('simplehats:hatbag_epic', 5, 0).tier('tier_4').order(30).id('caveopolis:shops/hatbag_epic')
 
     //Tier 5
     event.recipes.shops.shop('mysticalagriculture:earth_seeds', 50, 2).tier('tier_5').order(2).id('caveopolis:shops/earth_seeds')

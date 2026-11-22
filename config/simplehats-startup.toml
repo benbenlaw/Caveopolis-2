@@ -1,0 +1,41 @@
+keepHatOnDeath = true
+# Default: 20
+# Range: 0 ~ 100
+seasonalBagChance = 20
+allowHatInHelmetSlot = false
+
+[entityLoot]
+	enableMobLoot = false
+	# Default: 200
+	# Range: 1 ~ 500
+	entityNoneWeight = 200
+	# Default: 20
+	# Range: 0 ~ 500
+	entityCommonWeight = 20
+	# Default: 15
+	# Range: 0 ~ 500
+	entityUncommonWeight = 15
+	# Default: 10
+	# Range: 0 ~ 500
+	entityRareWeight = 10
+	# Default: 5
+	# Range: 0 ~ 500
+	entityEpicWeight = 5
+
+[chestLoot]
+	enableChestLoot = true
+	# Default: 150
+	# Range: 1 ~ 500
+	chestNoneWeight = 150
+	# Default: 20
+	# Range: 0 ~ 500
+	chestCommonWeight = 20
+	# Default: 15
+	# Range: 0 ~ 500
+	chestUncommonWeight = 15
+	# Default: 10
+	# Range: 0 ~ 500
+	chestRareWeight = 10
+	# Default: 5
+	# Range: 0 ~ 500
+	chestEpicWeight = 5

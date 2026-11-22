@@ -1,0 +1,4 @@
+forceFirstPersonNoRender = false
+# Default: 0.0
+# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+hatYOffset = 0.0

@@ -1,0 +1,33 @@
+[general]
+	#Radius (in blocks) of the working area around a Mini Me's home.
+	# Default: 8
+	# Range: 2 ~ 32
+	defaultHomeRadius = 8
+	#Chopping, mining and shearing damage the tool, and a broken tool is lost.
+	damageTools = true
+	#Biggest tree (in logs) that will be chopped. Anything larger is assumed to be a build
+	#that touches a tree and is left alone. Giant jungle and spruce trees need a few hundred.
+	# Default: 400
+	# Range: 20 ~ 2000
+	maxTreeLogs = 400
+
+[constructor]
+	#FE a Mini Me Constructor needs to build one Mini Me. Any energy source can power it, for example
+	#a NeoSync treadmill placed against it.
+	# Default: 20000
+	# Range: 100 ~ 10000000
+	energyPerMiniMe = 20000
+	#Health points taken from the player who right-clicks a Mini Me Constructor to start a build.
+	#20 is ten hearts, the same as NeoSync. 0 turns the cost off.
+	# Default: 20.0
+	# Range: 0.0 ~ 1000.0
+	healthCost = 20.0
+	#If the cost would kill the player, warn them and do nothing instead.
+	warnInsteadOfKilling = false
+
+[factory]
+	#How far (in blocks, in every direction) from a Mini Me Factory its chests can be.
+	#1 = the 3x3x3 cube around the factory.
+	# Default: 1
+	# Range: 1 ~ 3
+	areaRadius = 1

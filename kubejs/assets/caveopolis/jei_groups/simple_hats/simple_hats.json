@@ -1,0 +1,28 @@
+{
+  "name": "Hats",
+  "icon": "simplehats:haticon",
+  "items": [
+    "@simplehats",
+    "!simplehats:hatbag_common",
+    "!simplehats:hatbag_uncommon",
+    "!simplehats:hatbag_rare",
+    "!simplehats:hatbag_epic",
+    "!simplehats:hatbag_easter",
+    "!simplehats:hatbag_summer",
+    "!simplehats:hatbag_halloween",
+    "!simplehats:hatbag_festive",
+    "!simplehats:hatscraps_common",
+    "!simplehats:hatscraps_uncommon",
+    "!simplehats:hatscraps_rare",
+    "!simplehats:hatscraps_easter",
+    "!simplehats:hatscraps_summer",
+    "!simplehats:hatscraps_halloween",
+    "!simplehats:hatscraps_festive",
+    "!simplehats:hatdisplay"
+  ],
+  "border_color": "#FFB030BD",
+  "background_color": "#40B030BD",
+  "overlay_tint": "#40B030BD",
+  "plus_icon_color": "#FFFFFFFF",
+  "border_thickness": 1
+}

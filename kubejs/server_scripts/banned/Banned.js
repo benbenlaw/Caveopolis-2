@@ -4,16 +4,14 @@ ServerEvents.tags('item', event => {
 
     //Banned Items
     event.get('caveopolis:banned_items').add([
-        'easy_villagers:farmer', 
-        'easy_villagers:converter', 
-        'easy_villagers:iron_farm',
-        'easy_villagers:inventory_viewer',
         
         'alltheores:copper_ore_hammer', 
         'alltheores:iron_ore_hammer', 
         'alltheores:bronze_ore_hammer', 
         'alltheores:invar_ore_hammer', 
         'alltheores:platinum_ore_hammer',
+
+        
 
         'extendedae:infinity_water_cell',
         'extendedae:infinity_cobblestone_cell',
@@ -79,15 +77,70 @@ ServerEvents.tags('item', event => {
         'mysticalagriculture:saltpeter_essence',
         'mysticalagriculture:apatite_essence',
         'mysticalagriculture:platinum_essence',
-        'mysticalagriculture:coral_essense',
+        'mysticalagriculture:coral_essence',
         'mysticalagriculture:coral_agglomeratio',
+
 
         'functionalstorage:dripping_upgrade',
         'functionalstorage:water_generator_upgrade',
         'functionalstorage:obsidian_upgrade',
 
         'refinedstorage:silicon',
-        'enderio:silicon'
+        'enderio:silicon',
+
+
+        
+        'utilitarian:tiny_charcoal', 
+        'utilitarian:tiny_coal', 
+        'utilitarian:trowel', 
+        'utilitarian:magnet', 
+        'utilitarian:fluid_hopper', 
+        'utilitarian:inverted_redstone_lamp', 
+        'utilitarian:inverted_lapis_lamp', 
+        'utilitarian:white_trapped_soliciting_carpet', 
+        'utilitarian:lime_trapped_soliciting_carpet', 
+        'utilitarian:blue_trapped_soliciting_carpet', 
+        'utilitarian:red_trapped_soliciting_carpet', 
+        'utilitarian:black_trapped_soliciting_carpet', 
+        'utilitarian:yellow_trapped_soliciting_carpet', 
+        'utilitarian:green_trapped_soliciting_carpet', 
+        'utilitarian:orange_trapped_soliciting_carpet', 
+        'utilitarian:purple_trapped_soliciting_carpet', 
+        'utilitarian:pink_trapped_soliciting_carpet', 
+        'utilitarian:brown_trapped_soliciting_carpet',
+        'utilitarian:cyan_trapped_soliciting_carpet', 
+        'utilitarian:magenta_trapped_soliciting_carpet', 
+        'utilitarian:light_blue_trapped_soliciting_carpet', 
+        'utilitarian:light_gray_trapped_soliciting_carpet', 
+        'utilitarian:gray_trapped_soliciting_carpet',
+        'utilitarian:white_soliciting_carpet', 
+        'utilitarian:lime_soliciting_carpet', 
+        'utilitarian:blue_soliciting_carpet', 
+        'utilitarian:red_soliciting_carpet', 
+        'utilitarian:black_soliciting_carpet', 
+        'utilitarian:yellow_soliciting_carpet', 
+        'utilitarian:green_soliciting_carpet', 
+        'utilitarian:orange_soliciting_carpet', 
+        'utilitarian:purple_soliciting_carpet', 
+        'utilitarian:pink_soliciting_carpet', 
+        'utilitarian:brown_soliciting_carpet',
+        'utilitarian:cyan_soliciting_carpet', 
+        'utilitarian:magenta_soliciting_carpet', 
+        'utilitarian:light_blue_soliciting_carpet', 
+        'utilitarian:light_gray_soliciting_carpet', 
+        'utilitarian:gray_soliciting_carpet',
+        'utilitarian:cursed_grrass', 
+        'utilitarian:grrass', 
+        'utilitarian:drit', 
+        'utilitarian:soul_snad', 
+        'utilitarian:red_snad', 
+        'utilitarian:snad', 
+        'utilitarian:angel_block', 
+        'utilitarian:lapis_lamp', 
+        'utilitarian:redstone_clock'
+        
+
+        
 
 
     ])

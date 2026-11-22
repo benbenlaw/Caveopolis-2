@@ -1,0 +1,5 @@
+[factory]
+	#Keep the Mini Me Factory search bar and the JEI search bar in sync. Needs JEI.
+	jeiSync = true
+	#Select the Mini Me Factory search bar as soon as the screen opens.
+	autoFocus = true
