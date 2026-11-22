@@ -6,3 +6,7 @@
 	blockTokensDropFromBlocks = false
 	#If true, entity tokens will drop from entities.
 	entityTokensDropFromEntities = false
+
+[Debug]
+	#If true, the JEI loot previews log every table they analyse and print the readable part of any loot table that fails to load.
+	advancedLogging = false 

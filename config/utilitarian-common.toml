@@ -1,13 +1,13 @@
 #Enable No Startup Messages module
 noStartupMessagesEnabled = true
 #A list of word sequences that if contained in a message will be stopped.
-noStartupMessagesMessages = ["Ender IO is in alpha", "No current version found"]
+noStartupMessagesMessages = ["Ender IO is in alpha", "No current version found", "File not found"]
 #Disable recipe advancements
 disableRecipeAdvancements = true
 #Enable startup ding sound
 enableDingDongStartupSound = true
 #Name of sound to play. Default is entity.experience_orb.pickup
-dingDongSound = "utility.doorbell"
+dingDongSound = "utility:doorbell"
 #Enable log supressor
 logSuppressorEnabled = false
 #A list of word sequences that if a log message starts with will be stopped.

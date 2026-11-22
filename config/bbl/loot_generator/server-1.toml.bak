@@ -1,0 +1,8 @@
+#BBL Loot Generator
+[Tokens]
+	#If true, structure tokens will spawn in structures.
+	structureTokensSpawnInStructures = true
+	#If true, block tokens will drop from blocks.
+	blockTokensDropFromBlocks = false
+	#If true, entity tokens will drop from entities.
+	entityTokensDropFromEntities = false
